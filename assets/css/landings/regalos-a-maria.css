@@ -1,0 +1,467 @@
+@font-face 
+{
+    font-family: 'slapstick';
+    src: url('../../font/sf_slapstick_comic-webfont.eot');
+    src: url('../../font/sf_slapstick_comic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../font/sf_slapstick_comic-webfont.woff') format('woff'),
+         url('../../font/sf_slapstick_comic-webfont.ttf') format('truetype'),
+         url('../../font/sf_slapstick_comic-webfont.svg#sf_slapstick_comicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face 
+{
+    font-family: 'anjelika';
+    src: url('../../font/anjelika_rose-webfont.eot');
+    src: url('../../font/anjelika_rose-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../font/anjelika_rose-webfont.woff') format('woff'),
+         url('../../font/anjelika_rose-webfont.ttf') format('truetype'),
+         url('../../font/anjelika_rose-webfont.svg#anjelika_rosemedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+* {
+	box-sizing:border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+html, body {
+	display:table;
+	margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+	background-color: #222;
+	margin: 0;
+	padding: 0;
+	font-family: "Open sans", sans-serif;
+	background: url(../../img/landings/regalos-a-maria/bg-page.jpg);
+
+}
+
+
+
+/*******************************************************************
+** CONTENEDOR PRINCIPAL DE LA PAGINA *******************************/
+
+#main-container {
+	position: relative;
+	display: table-cell;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+   	vertical-align: middle;
+}
+
+#main-content {
+	position: relative;
+	/*border: 1px solid #222;*/
+	width: 1008px;
+	height: 650px;
+	overflow: none;
+	background: url(../../img/landings/regalos-a-maria/background-image.jpg) no-repeat;
+	padding: 55px 65px;
+	margin: 0 auto;
+	-moz-box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+
+
+
+/*******************************************************************
+** TITULO DE LA APLICACION ****************************************/
+
+#main-content h1, #main-content h2  {
+	/*font-family: "Bubblegum Sans", sans-serif;*/
+	margin: -5px 0 0 0;
+	padding: 0;
+	/*border: 1px solid #000;*/
+
+}
+
+#main-content h2 {
+	font-size: 24px;
+	-webkit-text-stroke-color: #fff;
+	-webkit-text-stroke-width: 0.5px;
+	letter-spacing: -1px;
+	color: #d98327;
+}
+
+#app-name-01 { /*fonocuentos*/
+	font-size: 40px;
+	-webkit-text-stroke-color: white;
+	-webkit-text-stroke-width: 1px;
+	letter-spacing: -2px;
+	color: #555;
+	text-shadow: 0 0 10px #666 ;
+}
+
+#app-name-02 { /*infantiles*/
+	font-size: 90px;
+	-webkit-text-stroke-color: white;
+	-webkit-text-stroke-width: 2px;
+	letter-spacing: -2px;	
+	text-shadow:
+   -2px -2px 0 #fff,  
+    2px -2px 0 #fff,
+    -2px 2px 0 #fff,
+     2px 2px 0 #fff;
+   	text-shadow: 0 0 10px #666;/**/
+}
+
+.rojo    { color: #cc4844; }
+.naranja { color: #fea65c; }
+.amllo   { color: #ede277; }
+.verde   { color: #93ab4a; }
+.cian    { color: #649db0; }
+.azul    { color: #4857a4; }
+.morado  { color: #835c9b; }
+
+
+
+
+/*******************************************************************
+** DESCRIPCION DE LA APLICACION ***********************************/
+
+#desc-container	{
+	width: 290px;
+	height: 285px;
+	padding: 15px;
+	background:rgba(255,255,255,0.8);
+	border-radius:0 30px 0 0 ;
+	border: 6px solid rgba(255,255,255,0.5);
+	-moz-background-clip: padding;     /* Firefox 3.6 */
+	-webkit-background-clip: padding;  /* Safari 4? Chrome 6? */
+	background-clip: padding-box;      /* Firefox 4, Safari 5, Opera 10, IE 9 */
+
+}
+#desc-container	p {
+	font-family: "anjelika";
+	font-size: 20px;
+	margin: 0 0 12px 0;
+	padding: 0;
+	line-height: 25px;
+	font-weight: 400;
+	color: #000;
+	text-shadow: 0 0 1px #000;
+
+}
+
+.resaltado {
+	font-family: "slapstick";
+	font-size: 24px;
+	font-weight: 400;
+	letter-spacing: -1px;
+	text-shadow: 0 0 1px #000;
+
+}
+
+#video-container {
+	margin-top: 10px;
+	cursor: pointer;
+}
+
+#video-container .text {
+	font-size: 14px;
+	font-weight: 600;
+	text-align: right;
+	display: inline-block;
+	width: 260px;
+	line-height: 14px;
+}
+
+#video-container .img {
+	display: inline-block;
+	width: 41px;
+	height: 29px;
+	margin-left: 5px;
+}
+
+.video-link, .video-link:visited, .video-link:focus {
+	text-decoration: none;
+	color:#08e;
+}
+
+
+/*******************************************************************
+** PAG.2 CAMPOS DINAMICOS Y PAGO  **********************************/
+
+#extra-data-container {
+	width: 450px;
+	height: 390px;
+	padding: 20px;
+	overflow: auto;
+	background:rgba(255,255,255,0.8);
+	border-radius: 5px;
+	font-size: 14px;
+	position: relative;
+	z-index: 5;
+}
+
+#extra-data-container p {
+	margin: 0;
+	padding: 0;
+}
+
+.subtitulo {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+hr {
+	border-top: 1px dotted #ddd;
+	margin: 4px 0;
+	width: 100%;
+}
+
+label {
+	display:inline-block;
+	width: 90px;
+	margin: 0px 5px 0 0;
+	text-align: right;
+	line-height: 20px;
+}
+
+.dyn-label:after, label:after {
+	content:': ';
+}
+
+.form-row, .form-row-dyn {
+	margin: 10px 0;
+	vertical-align: bottom;
+}
+
+input[type="text"], .dyn-combo-field {
+	height: 30px;
+	border: 1px solid #ddd;
+	margin:0;
+	line-height: 30px;
+}
+
+.txt-field, .combo-field {
+	border: 1px solid #ddd;
+	width: 280px;
+	height: 30px;
+	margin:0;
+	line-height: 30px;
+}
+
+
+#consignacion_options {
+	background-color: #ddd;
+	padding: 15px;
+	font-size: 14px;
+	border-radius: 3px;
+	margin: 10px;
+}
+
+
+/*******************************************************************
+** PAG.3 PAGINA DE AGRADECIMIENTOS  ********************************/
+#thanks-container {
+	width: 440px;
+	height: 240px;
+	padding: 30px;
+	overflow: none;
+	background:rgba(255,255,255,0.8);
+	border-radius: 5px;
+	font-size: 14px;
+	margin-top: 75px
+}
+
+#thanks-container p.title { 
+	font-size: 24px;
+	text-align: center;
+}
+
+#thanks-container p.subtitle { 
+	font-size: 18px;
+	text-align: center;
+	color: #7d7d7d;
+}
+
+
+/*******************************************************************
+** IMAGEN ADICIONAL DE LA APLICACION ******************************/
+
+#img2-container {
+	width: 410px;
+	/*height: 382px;*/
+	position: absolute;
+	left: 505px;
+	top: 2px;
+}
+
+/*******************************************************************
+** SUSCRIPCION ****************************************************/
+
+#susc-container {
+	width: 256px;
+	border-radius: 5px;
+	background-color:#FFF;
+	position: absolute;
+	top: 489px;
+	left: 85px;
+}
+
+button, input[type="submit"] {
+	border: 0;
+	font-family: "slapstick", sans-serif;
+	font-weight: 700;
+	font-size: 26px;
+	letter-spacing: -1px;
+	color: #000;
+		-moz-box-shadow:inset 0px 1px 3px 0px #dfeddf;
+        -webkit-box-shadow:inset 0px 1px 3px 0px #dfeddf;
+        box-shadow:inset 0px 1px 3px 0px #dfeddf;
+		background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #b8d96e), color-stop(1, #92bf4a));
+        background:-moz-linear-gradient(top, #b8d96e 5%, #92bf4a 100%);
+        background:-webkit-linear-gradient(top, #b8d96e 5%, #92bf4a 100%);
+        background:-o-linear-gradient(top, #b8d96e 5%, #92bf4a 100%);
+        background:-ms-linear-gradient(top, #b8d96e 5%, #92bf4a 100%);
+        background:linear-gradient(to bottom, #b8d96e 5%, #92bf4a 100%);
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b8d96e', endColorstr='#92bf4a',GradientType=0);
+        background-color:#b8d96e;
+        border:1px solid #a3cc4f;
+	cursor: pointer;
+}
+
+#indi-pais {
+	height: 30px;
+	width: 100px;
+	border: 1px solid #ddd;
+	font-family: "Open sans", sans-serif;
+	padding: 3px;
+	margin: 0px 0 0px 0px;
+}
+
+#phone {
+	height: 30px;
+	width: 140px;
+	border: 1px solid #ddd;
+	font-family: "Open sans", sans-serif;
+	padding: 3px;
+	margin: 0px 5px;
+}
+
+#email {
+	height: 30px;
+	width: 237px;
+	border: 1px solid #ddd;
+	font-family: "Open sans", sans-serif;
+	padding: 3px;
+	margin: 0px 0px;
+	margin-bottom: 5px;
+}
+
+
+#susc-launch {
+	height: 42px;
+	width: 256px;
+	-webkit-text-stroke-color: #fff;
+	-webkit-text-stroke-width: 0.5px;
+	text-shadow: 0 0 1px #000;
+	border-radius: 0 20px 0 0;
+}
+
+#susc-btn {
+	height: 30px;
+	width: 30px;
+	margin: 0px 0px;
+	padding: 0;
+	border-radius: 3px;
+	line-height: 5px;
+	font-family: "arial", sans-serif;
+	font-size: 16px;
+	color: #fff;
+}
+
+#susc-paypal {
+	height: 40px;
+	width: 280px;
+	margin-left: 95px;
+	margin-top: 10px;
+	font-size: 24px;
+
+}
+
+#susc-consignacion {
+	height: 40px;
+	width: 280px;
+	margin: 10px 30px 0;
+	font-size: 24px;
+}
+
+#susc-pin {
+	height: 40px;
+	width: 280px;
+	margin-top: 10px;
+	margin-left: 98px;
+	font-size: 24px;
+}
+
+#form-container {
+	margin: 8px 8px;
+}
+
+
+/*******************************************************************
+** VENTANA FLOTANTE DE CREDITOS DISPONIBLES*************************/
+
+#available-kredits {
+	position: absolute;
+	left:65px;
+	top:595px;
+	width: 450px;
+	height: 40px;
+	border: 3px solid #FFF;
+	border-radius: 5px;
+	background-color:rgba(76,181,51,0.3);
+	font-size: 15px;
+	text-align: center;
+	font-family: "Open Sans";
+	font-weight: 700;
+	padding: 6px;
+	color:#000;
+}
+
+
+/*******************************************************************
+** FOOTER PARA LAS APP DE ANA M ************************************/
+
+#footer {
+	width: 1010px;
+	height: 35px;
+	background-color: rgba(255,255,255,0.8);
+	position: absolute;
+	top: 615px;
+	left:0px;
+}
+
+#fb-page, #copyright {
+	font-family: "anjelika";
+	font-size: 21px;
+	text-shadow: 0 0 1px #000;
+	margin:5px 0 0 30px;
+	display: inline-block;
+}
+
+
+#serviciocliente {
+	clear: both;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: 175px;
+	margin-top:330px;
+	font-size: 12px;
+}

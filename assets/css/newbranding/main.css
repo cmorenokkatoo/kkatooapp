@@ -1,0 +1,789 @@
+
+*{
+  margin: 0px auto;
+  padding: 0px;
+  list-style: none;
+  font-size: 16px;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+@media all and (min-width: 1094px) and (max-width: 1920px){
+	#navegacion_movile, #icon-menu-movile, #movilcheck, #movile_img{
+		display: none;
+	}
+	object{
+		overflow: hidden !important;
+		width: 100%;
+		height: 500px;
+	}
+	.whiteCont{
+		display: none;
+	}
+	a{
+	padding: .3em;
+	color: #fff;
+	position: relative;
+	line-height: 22px;
+	font-size: 16px;
+	font-weight: 400;
+
+	}
+	a:hover{
+	color: #fff;
+	cursor: pointer;
+	}
+	.ico-desktop{
+		vertical-align: middle !important;
+		margin: auto 3.5px;
+	}
+	.material-icon{
+		font-size: 1.2rem !important;
+		color: #fff !important;
+
+
+	}
+
+	#header{
+		box-sizing: border-box;
+		text-align: center;
+    	padding-top: 15px;
+    	padding-bottom: 15px;
+		display: flex;
+		background: transparent;
+		/*position: fixed !important;*/
+		z-index: 999;
+		width: 100% !important;
+		top: 0 !important;
+		/*box-shadow: rgba(0,0,0,.1) 0px 0px 2px 1px; */
+	}
+
+	#header h1{
+		font-weight:400;color: white; vertical-align: middle; font-size: 40px;
+	}
+
+	#btn_registro_nuevo{
+		background: #BF1414;
+		border: 1px solid transparent;
+		padding: 10px 20px 10px 20px;
+		
+		color: white;
+		transition: 80ms ease-out all;
+
+	}
+	#contenedor_cabecera #btn_registro_nuevo:hover{
+		border: 1px solid white !important;
+	}
+	#btn_registro_nuevo:hover{
+		border: 1px solid white;
+		background: white !important;
+		color: #BF1414;
+		text-decoration: none;
+		transition: 80ms ease-in all;
+	}
+	#enlace_logo{
+    width: 250px;
+    height: 39px;
+    vertical-align: middle !important;
+    top: 10px;
+    position: relative; 
+	}
+	#navegacion_home{
+		width: 50%;
+	}
+	#navegacion_home ul{
+		display: flex;
+	}
+	#navegacion_home li{
+		margin: 1em;
+		flex: auto;
+		align-self: center;
+	}
+	body{
+		background: white !important;
+	}
+header{
+  width: 100%;
+  height: 625px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-image: url("/assets/img/newbranding/banner_dos.jpg");
+}
+
+#contenedor_cabecera{
+  text-align: center;
+  padding-top: 10rem;
+  width: 80%;
+}
+#contenedor_cabecera h1{
+  font-size: 72px;
+  color: white;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+
+}
+#contenedor_cabecera p{
+  font-size: 34px;
+  color: white;
+  margin:3rem auto;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+  width: 70%;
+}
+#contenedor_cabecera a{
+  width: 200px;
+}
+#newMainBlock{
+  width: 100%;
+  height: auto;
+  /*padding: 2em;*/
+}
+#flexbox_features{
+  display: flex;
+  width: 80%;
+  padding: 2em;
+}
+.flexitem_features{
+  width: 200px;
+  text-align: center;
+}
+.flexitem_features h3{
+
+  margin: 10px;
+}
+.flexitem_features p{
+  text-align: justify !important;
+}
+#register_bar{
+  width: 100%;
+  text-align: center;
+  background: #303030;
+  padding: 1em 0em;
+  display: none;
+}
+#register_bar p{
+  width: 90%;
+  color: white;
+  font-weight: 300;
+}
+#btn_register_bar{
+  background: white;
+  width: 100px;
+  border: 1px solid transparent;
+  
+  color: #BF1414;
+  transition: 80ms ease-out all;
+  margin: auto 15px;
+  font-weight: normal;
+}
+#btn_register_bar:hover{
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+}
+
+
+
+	#headerlogin{
+		text-align: center;
+		margin: 2rem auto;
+
+	}
+
+	.mainsignincontent{
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.mainsignincontent p{
+		color: #a5a5a5;
+		margin-top: 15px;
+		font-weight: 300;
+	}
+	.titlesignin h1{
+		font-weight: lighter;
+		color: #555;
+		-webkit-font-smoothing: antialiased;
+		margin-top: 0;
+		font-size: 38px;
+    	margin-bottom: 15px;
+	}
+
+	.card{
+		margin-bottom: 0;
+		background-color: #f7f7f7;
+	    padding: 20px 25px 30px;
+	    margin: 0 auto 25px;
+	    width: 304px;
+	    -moz-border-radius: 2px;
+	    -webkit-border-radius: 2px;
+	    border-radius: 2px;
+	    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	}
+	.signin-card input[type=email], .signin-card input[type=password], .signin-card input[type=text]{
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    z-index: 1;
+    position: relative;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    direction: ltr;
+    height: 44px;
+    font-size: 16px;
+    padding: 0 8px;
+    background: #fff;
+    color: #404040;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+	}
+	input[type=email]:hover, input[type=number]:hover, input[type=password]:hover, input[type=tel]:hover, input[type=text]:hover, input[type=url]:hover {
+    border: 1px solid #b9b9b9;
+    border-top: 1px solid #a0a0a0;
+    -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+    padding: 0 8px;
+	}
+	.signin-card input[type=submit]{
+		width: 100%;
+		display: block;
+		border: 1px solid #EE3030;
+		margin-bottom: 10px;
+		box-sizing: border-box;
+		color: #fff;
+		font-size: 14px;
+		background-color: #FF4D4D;
+		padding: 0 8px;
+		height: 44px;
+		
+		background-image: -webkit-linear-gradient(top,#FF4D4D,#E93636);
+	} 
+
+.signin-card input[type=submit]:hover{
+		text-shadow: 0 1px rgba(0,0,0,0.3);
+		border: 1px solid #B83030;
+		background-color: #E93636;
+		background-image: -webkit-linear-gradient(top,#DA3E3E,#C82A2A);
+	}
+	#signin-card{
+		height: auto;
+		width: 344px;
+    	padding: 30px 40px;
+	}
+
+	.loginlink{
+		border: 0px;
+		background: transparent;
+		color: #FF4D4D;
+		text-decoration: none;
+		text-align: right;
+		display: block;
+		margin-top: 15px;
+	}
+	.loginlink:hover{
+		border: 0px;
+		text-decoration: underline;
+	}
+
+	#registerlink, #loginrlink{
+		text-align: center !important;
+	}
+	
+	.signin-terms{
+		font-size: 12px;
+		margin-bottom: 15px;
+		display: block;
+	}
+	.signin-terms a{
+		border: 0px;
+		color: #FF4D4D;
+	}
+	.signin-terms a:hover{
+		border: 0px;
+		text-decoration: underline;
+	}
+	#benefitsBox, #usesBox{
+		width: 100%;
+		text-align: center;
+		background-color: white;
+		height: auto;
+		padding: 4rem;
+
+	}
+	#usesBox{
+		background-color: #f7f8f9;
+		color: #303030;
+	}
+	#benefitsBox h1, #usesBox h1{
+		color: #303030;
+		font-size: 2rem;
+		font-weight: 600;
+		margin: 2.5rem auto;
+	}
+	#benefits{
+		height: auto;
+		width: 100%;
+		padding: 1rem;
+		display: flex;
+	}
+	#uses{
+		flex-wrap: wrap;
+		width: 70%;
+		height: auto;
+		display: flex;
+	}
+	#uses i{
+		font-size: 6rem;
+		color: #f7f8f9;
+		flex: auto;
+		background: salmon;
+		border-radius: 100%;
+		padding: 1.5rem;
+		margin-bottom: .5rem;
+	}
+	._benefit{
+		background: rgb(175,238,238);
+		-webkit-box-shadow: 1px 1px 1px -1px rgba(0,0,0,0.26);
+        -moz-box-shadow: 1px 1px 1px -1px rgba(0,0,0,0.26);
+        box-shadow: 1px 1px 1px -1px rgba(0,0,0,0.26);
+        width: auto;
+        margin: .5rem;
+        height: auto;
+        text-align: left;
+        padding: .5rem;
+        flex:auto;
+        box-sizing: border-box;
+	}
+	._benefit:nth-child(2){
+		background: rgb(0,250,154);
+	}
+	._benefit:nth-child(3){
+		background: rgb(255,215,0);
+	}
+	._benefit:nth-child(4){
+		background: rgb(228,243,246);
+	}
+	._benefit h2{
+		color: #303030;
+		font-weight: 600;
+		text-transform: uppercase;
+		text-align: center;
+		margin: .3rem auto;
+	}
+
+	._list_benefit li{
+		list-style: round;
+		margin: .5rem auto;
+	}
+	._list_benefit li i{
+		vertical-align: middle;
+		font-size: .8rem;
+		margin: auto .2rem;
+	}
+	#frame-ivona{
+		width:100%;
+		height:400px; 
+		position:relative; 
+		overflow:hidden;
+	}
+	#ivonaBar{
+		background: #303030;
+		width: 100%;
+		height: auto;
+		padding: 1rem;
+		text-align: center;
+		color: white;
+		font-size: 1.2rem;
+	}
+
+	#ivonaBar a{
+		color: rgb(0,250,154);
+	}
+	#ivonaBar a:hover{
+		text-decoration: underline;
+	}
+	._useIcon{
+		padding: 1rem;
+	}
+}
+@media all and (min-width: 0px) and (max-width: 1093px){
+	#frame-ivona, #ivonaBar, #ivonaBar h1{
+			display: none;
+		}
+}
+	@media all and (min-width: 0px) and (max-width: 1093px){
+		
+		*{
+			box-sizing: border-box;
+			list-style: none;
+			margin: 0 auto;
+			padding: 0;
+			font-size: 1rem;
+		}
+		html, body{
+			height: 100vh;
+		}
+		header{
+			width: 100%;
+			height: auto;
+			padding: 0;
+			background: white;
+			text-align: center;
+		}
+		header h1{
+			padding-left: 2rem;
+		}
+		#navegacion_home,
+		#contenedor_cabecera{
+			display: none;
+		}
+
+		#navegacion_movile{
+			width: 0%;
+			float: left;
+			position: fixed;
+			height: 100vh;
+			overflow: hidden;
+			transition: all 50ms ease-out;
+			background: white;
+			z-index: 999 !important;
+		}
+		#navegacion_movile ul li{
+			width: 100%;
+			height: auto;
+			padding: 1.5rem .5rem ;
+			background: #656A71;
+			border-bottom: 1px solid #333;
+		}
+		#navegacion_movile ul li a{
+			color: white;
+			display: block;
+		}
+		#newMainBlock{
+			width: 100%;
+			/*float: left;*/
+			transition: all .1s ease;
+			padding: 0rem;
+			min-height: 200px;
+		}
+		#movilcheck{
+			display: none;
+		}
+		#movilcheck:checked ~ #navegacion_movile{
+			width: 60%;
+			transition: all 50ms ease-in;
+			-webkit-box-shadow: 1px 1px 5px 1px rgba(115,115,115,0.36);
+            -moz-box-shadow: 1px 1px 5px 1px rgba(115,115,115,0.36);
+            box-shadow: 1px 1px 5px 1px rgba(115,115,115,0.36);
+		}
+		#icon-menu-movile{
+			position: absolute;
+			top: 5px;
+			right: 20px;
+		}
+		#movilcheck:checked ~ #newMainBLock{
+			margin-left: 60%;
+		}
+
+		#flexbox_features{
+			width: 95%;
+			text-align: center;
+			padding: 1rem;
+		}
+		.flexitem_features{
+			margin: .5rem auto;
+			text-align: justify;
+			background: #fcfcfc;
+			padding: 1rem;
+			-webkit-box-shadow: 1px 0px 2px 1px rgba(115,115,115,0.26);
+            -moz-box-shadow: 1px 0px 2px 1px rgba(115,115,115,0.26);
+            box-shadow: 1px 0px 2px 1px rgba(115,115,115,0.26);
+		}
+		#enlace_logo{
+			width: 50%;
+			margin-left: 30px;
+		}
+		#header{
+			text-align: left;
+			padding: 1rem 0;
+		}
+		#movile_img{
+			width: 100%;
+			background-size: cover;
+  			background-repeat: no-repeat;
+  			background-position: center;
+  			background-image: url("/assets/img/newbranding/banner_dos.jpg");
+  			height: 200px;
+  			margin: 0 auto;
+  			position: relative;
+  			text-align: center;
+  			z-index: 0;
+		}
+		.material-icons{
+		  font-size: 2.5rem !important;
+		  color: #656a71;
+		}
+		#btn_registro_nuevo{
+		position: absolute;
+		background: #BF1414;
+		border: 1px solid transparent;
+		display: block;
+		
+		width: 40%;
+		padding: .5rem;
+		top: 90px;
+		left: 30%;
+		color: white;
+		transition: 80ms ease-out all;
+
+		}
+		.ico-movile{
+			color: white;
+			font-size: 1.2rem !important;
+		}
+		#btn_registro_nuevo:hover{
+		border: 1px solid #BF1414;
+		background: white;
+		color: #BF1414;
+		text-decoration: none;
+		transition: 80ms ease-in all;
+		}
+		#register_bar{
+		  width: 100%;
+		  text-align: center;
+		  background: #303030;
+		  padding: 1rem;
+		  display: none;
+		}
+		#register_bar p{
+		  width: 90%;
+		  color: white;
+		  font-weight: 300;
+		}
+		#btn_register_bar{
+		  background: white;
+		  display: block;
+		  width: 100px;
+		  border: 1px solid transparent;
+		  
+		  color: #BF1414;
+		  transition: 80ms ease-out all;
+		  margin: 10px auto;
+		  font-weight: normal;
+		  padding: 0rem .2rem;
+		}
+		#btn_register_bar:hover{
+		  background: transparent;
+		  color: white;
+		  border: 1px solid white;
+		}
+/* Login-Register Responsive */
+		#headerlogin{
+		text-align: center;
+		margin: 1rem auto;
+
+	}
+
+	.mainsignincontent{
+		width: 100%;
+		margin: 0 auto;
+		padding: .5rem;
+		text-align: center;
+		box-sizing: border-box;
+	}
+	.mainsignincontent p{
+		color: #a5a5a5;
+		margin-top: 15px;
+		font-weight: 300;
+	}
+	.titlesignin h1{
+		font-weight: lighter;
+		color: #555;
+		-webkit-font-smoothing: antialiased;
+		margin-top: 0;
+		font-size: 38px;
+    	margin-bottom: 15px;
+	}
+
+	.card{
+		margin-bottom: 0;
+		background-color: #f7f7f7;
+	    padding: 20px 25px 30px;
+	    margin: 0 auto;
+	    width: 100%;
+	    -moz-border-radius: 2px;
+	    -webkit-border-radius: 2px;
+	    border-radius: 2px;
+	    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	}
+	.signin-card input[type=email], .signin-card input[type=password], .signin-card input[type=text]{
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    z-index: 1;
+    position: relative;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    direction: ltr;
+    height: 44px;
+    font-size: 16px;
+    padding: 0 8px;
+    background: #fff;
+    color: #404040;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+	}
+	input[type=email]:hover, input[type=number]:hover, input[type=password]:hover, input[type=tel]:hover, input[type=text]:hover, input[type=url]:hover {
+    border: 1px solid #b9b9b9;
+    border-top: 1px solid #a0a0a0;
+    -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+    padding: 0 8px;
+	}
+	.signin-card input[type=submit]{
+		width: 100%;
+		display: block;
+		border: 1px solid #EE3030;
+		margin-bottom: 10px;
+		box-sizing: border-box;
+		color: #fff;
+		font-size: 14px;
+		background-color: #FF4D4D;
+		padding: 0 8px;
+		height: 44px;
+		
+		background-image: -webkit-linear-gradient(top,#FF4D4D,#E93636);
+	} 
+
+.signin-card input[type=submit]:hover{
+		text-shadow: 0 1px rgba(0,0,0,0.3);
+		border: 1px solid #B83030;
+		background-color: #E93636;
+		background-image: -webkit-linear-gradient(top,#DA3E3E,#C82A2A);
+	}
+	#signin-card{
+		height: auto;
+		width: 100%;
+    	padding: 30px 40px;
+	}
+
+	.loginlink{
+		border: 0px;
+		background: transparent;
+		color: #FF4D4D;
+		text-decoration: none;
+		text-align: right;
+		display: block;
+		margin-top: 15px;
+	}
+	.loginlink:hover{
+		border: 0px;
+		text-decoration: underline;
+	}
+
+	#registerlink, #loginrlink{
+		text-align: center !important;
+	}
+	
+	.signin-terms{
+		font-size: 12px;
+		margin-bottom: 15px;
+	}
+	.signin-terms a{
+		border: 0px;
+		color: #FF4D4D;
+	}
+	.signin-terms a:hover{
+		border: 0px;
+		text-decoration: underline;
+		}
+	#benefitsBox, #usesBox{
+		width: 100%;
+		text-align: center;
+		background-color: white;
+		height: auto;
+		padding: .5rem;
+
+	}
+	#usesBox{
+		background-color: #f7f8f9;
+		color: #303030;
+	}
+	#benefitsBox h1, #usesBox h1{
+		color: #303030;
+		font-size: 2rem;
+		font-weight: 600;
+		margin: 2.5rem auto;
+	}
+	#benefits{
+		height: auto;
+		width: 100%;
+		padding: 1rem;
+	}
+	#uses{
+		margin: .5rem auto;
+		width: 100%;
+		height: auto;
+		display: flex;
+		flex-wrap: wrap;
+
+	}
+	#uses i{
+		flex: auto;
+		font-size: 4rem;
+		color: #f7f8f9;
+		flex: auto;
+		background: salmon;
+		border-radius: 100%;
+		padding: 1.5rem;
+		margin-bottom: .5rem;
+	}
+	._benefit{
+		background: rgb(175,238,238);
+		-webkit-box-shadow: 1px 1px 1px -1px rgba(0,0,0,0.26);
+        -moz-box-shadow: 1px 1px 1px -1px rgba(0,0,0,0.26);
+        box-shadow: 1px 1px 1px -1px rgba(0,0,0,0.26);
+        width: auto;
+        margin: .5rem;
+        height: auto;
+        text-align: left;
+        padding: .5rem;
+        flex:auto;
+        box-sizing: border-box;
+	}
+	._benefit:nth-child(2){
+		background: rgb(0,250,154);
+	}
+	._benefit:nth-child(3){
+		background: rgb(255,215,0);
+	}
+	._benefit:nth-child(4){
+		background: rgb(228,243,246);
+	}
+	._benefit h2{
+		color: #303030;
+		font-weight: 600;
+		text-transform: uppercase;
+		text-align: center;
+		margin: .3rem auto;
+	}
+
+	._list_benefit li{
+		list-style: round;
+		margin: .5rem auto;
+	}
+	._list_benefit li i{
+		vertical-align: middle;
+		font-size: .8rem;
+		margin: auto .2rem;
+	}
+}

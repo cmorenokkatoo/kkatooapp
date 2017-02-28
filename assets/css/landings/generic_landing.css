@@ -1,0 +1,20 @@
+/* CSS Document */
+#img2-container{width:auto;height:auto;position:absolute;top:170px;left:0}
+#desc-container{margin:38px 0 0 605px;font-size:14px;height:305px}
+h3.title{margin:0;padding:0;font-size:55px;line-height:55px;color:#fbae16;text-shadow:0 0 5px #292929; visibility: hidden; display: none;}
+h4.slogan{margin:0;padding:0;font-size:23px;line-height:23px;margin-top:3px;color:#fbae16;text-shadow:0 0 5px #292929; }
+#susc-container{width:256px;border-radius:5px;background-color:#FFF;position:absolute;top:496px;left:664px;padding:5px}
+.button{border:0;font-family:"slapstick",sans-serif;letter-spacing:-1px;background:#fbae16;cursor:pointer;text-shadow:none;width:100%;height:auto;padding:5px 20px;text-align:center;font-size:28px;color:#fff;text-decoration:none;border-radius:5px;padding:8px 0;text-indent:0}
+.simulator_link{width:100%;display:block;margin:0;padding:0;margin-top:3px;background:#f1f1f1;height:auto;padding:0}
+button,input[type="submit"]{border:0;font-family:"slapstick",sans-serif;letter-spacing:-1px;background:#fbae16;cursor:pointer;text-shadow:none}
+#indi-pais{height:30px;width:100px;border:1px solid #ddd;font-family:"Open sans",sans-serif;padding:3px;margin:0}
+#phone{height:30px;width:158px;border:1px solid #ddd;font-family:"Open sans",sans-serif;padding:3px}
+#email{height:32px;width:100%;border:1px solid #ddd;font-family:"Open sans",sans-serif;padding:3px;margin:0;margin-bottom:3px}
+#susc-launch{height:42px;width:100%;border-radius:1px 1px 1px 1px;font-size:20px;color:#fff;font-weight:300}
+#susc-btn{height:30px;width:30px;margin:0;padding:0;border-radius:3px;line-height:5px;font-family:"arial",sans-serif;font-size:16px;color:#fff}
+.video-link{display:inline-block;margin-top:15px;color:#292929; top: 270px; position: relative;}
+#video-container .img{display:inline-block;width:41px;height:29px;margin-left:5px;vertical-align:middle}
+#video-container .text{font-size:14px;font-weight:600;display:inline-block;width:250px;line-height:14px;vertical-align:middle;text-align:center; margin-top: 70px; margin-left: 25px;}
+#footer{display: none; width:1000px;height:24px;background-color:rgba(255,255,255,0.3);position:absolute;top:626px;left:0;text-align:right;padding-right:10px;font-size:13px;color:#111}
+#video-container{}
+

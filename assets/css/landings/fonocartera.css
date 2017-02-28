@@ -1,0 +1,318 @@
+* {
+	box-sizing:border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+html, body {
+	display:table;
+	margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+	background-color: #222;
+	margin: 0;
+	padding: 0;
+	font-family: "Open sans", sans-serif;
+	background: url(../../img/landings/fonocartera/bg-page.gif);
+
+}
+
+
+
+/*******************************************************************
+** CONTENEDOR PRINCIPAL DE LA PAGINA *******************************/
+
+#main-container {
+	position: relative;
+	display: table-cell;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+   	vertical-align: middle;
+}
+
+#main-content {
+	position: relative;
+	/*border: 1px solid #222;*/
+	width: 1008px;
+	height: 650px;
+	overflow: none;
+	background: url(../../img/landings/fonocartera/background-image.jpg) no-repeat;
+	padding: 55px 65px;
+	margin: 0 auto;
+	-moz-box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+
+
+
+/*******************************************************************
+** TITULO DE LA APLICACION ****************************************/
+
+#main-content h1, #main-content h2  {
+	/*font-family: "Bubblegum Sans", sans-serif;*/
+	margin: -8px 0 0 0;
+	padding: 0;
+	/*border: 1px solid #000;*/
+	display: none;
+
+}
+
+#main-content h2 { /* Slogan */
+	font-size: 22px;
+	letter-spacing: -1px;
+	color: #5d3f15;
+	font-weight: 600;
+	margin-left: 110px;
+
+}
+
+#app-name-01 { /*fonocuentos*/
+	font-size: 40px;
+	-webkit-text-stroke-color: white;
+	-webkit-text-stroke-width: 1px;
+	letter-spacing: -2px;
+	color: #555;
+	text-shadow: 0 0 10px #666 ;
+}
+
+#app-name-02 { /*infantiles*/
+	font-size: 90px;
+	-webkit-text-stroke-color: white;
+	-webkit-text-stroke-width: 2px;
+	letter-spacing: -2px;	
+	text-shadow:
+   -2px -2px 0 #fff,  
+    2px -2px 0 #fff,
+    -2px 2px 0 #fff,
+     2px 2px 0 #fff;
+   	text-shadow: 0 0 10px #666;/**/
+}
+
+
+
+
+/*******************************************************************
+** DESCRIPCION DE LA APLICACION ***********************************/
+
+#desc-container	{
+	background:rgba(255,255,255,0);
+
+}
+#desc-container	p {
+	font-family: "Open Sans";
+	font-size: 14px;
+	margin: 0 0 12px 0;
+	padding: 0;
+	line-height: 25px;
+	font-weight: 300;
+	color: #000;
+	text-shadow: 0 0 1px #000;
+	display: none;
+
+}
+
+.resaltado {
+	font-family: "Open Sans";
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: -1px;
+	text-shadow: 0 0 1px #000;
+
+}
+
+#video-container {
+	margin-top: 10px;
+	cursor: pointer;
+}
+
+#video-container .text {
+	font-size: 14px;
+	font-weight: 600;
+	text-align: right;
+	display: inline-block;
+	width: 260px;
+	line-height: 14px;
+}
+
+#video-container .img {
+	display: inline-block;
+	width: 41px;
+	height: 29px;
+	margin-left: 5px;
+}
+
+.video-link, .video-link:visited, .video-link:focus {
+	text-decoration: none;
+	color:#08e;
+}
+
+
+
+/*******************************************************************
+** IMAGEN ADICIONAL DE LA APLICACION ******************************/
+
+#img2-container {
+	width: 410px;
+	/*height: 382px;*/
+	position: absolute;
+	left: 505px;
+	top: 2px;
+}
+
+/*******************************************************************
+** SUSCRIPCION ****************************************************/
+
+#susc-container {
+	width: 383px;
+	border-radius: 5px;
+	position: absolute;
+	top: 510px;
+	left: 600px;
+}
+
+
+.button {
+	text-indent: -9999px;
+	display: block;
+	width: 383px;
+	height: 92px;
+	background: url(../../img/landings/fonocartera/btn-use.png) no-repeat;
+}
+
+.button:hover {
+	background-position: 0 -92px;
+}
+
+
+
+/*******************************************************************
+** FOOTER PARA LAS APP ******* ************************************/
+
+#footer {
+	width: 1000px;
+	height: 24px;
+	background-color: rgb(255,255,255);
+	position: absolute;
+	top: 626px;
+	left:0px;
+	text-align: right;
+	display: none;
+}
+
+#copyright {
+	font-family: "Open Sans";
+	font-size: 12px;
+	margin-right:10px;
+	display: inline-block;
+	color: #666;
+	font-weight: 400;
+}
+
+#copyright a {
+	text-decoration: none;
+	color: #666;
+	font-weight: 700;
+}
+
+#copyright a:hover {
+	text-decoration: none;
+	color: #333;
+}
+
+
+/*
+#serviciocliente {
+	clear: both;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: 175px;
+	margin-top:330px;
+	font-size: 12px;
+}
+*/
+
+
+
+/*******************************************************************
+** SIMULADOR DE PRECIOS ********************************************/
+
+/* ESTE LINK CAMBIARÁ SEGÚN LA APLICACIÓN */
+.simulator_link {
+	display: block;
+	width: 300px;
+	height:30px;
+	line-height: 30px;
+	text-decoration: none;
+	color: #498eb5;
+	background: rgb(255,255,255);
+	margin: -15px auto 0 auto;
+	border-radius: 5px;
+	text-align: center;
+
+}
+
+
+#simulator h2 {
+	width: 100%;
+	background-color: #ddd;
+	padding: 8px;
+	margin: 0 0 5px 0;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 700;
+	letter-spacing: -1px;
+}
+
+#simulator p {
+	width: 100%;
+	padding: 20px;
+	text-align: justify;
+	font-size: 14px;
+	font-weight: 400;
+	margin: 0;
+
+}
+
+#simulator form {
+	text-align: center;
+	margin: 0 20px 0;
+	}
+
+#simulator input[type="text"] {
+	width:150px; 
+	height: 30px;
+	padding: 5px;
+}
+#simulator select {
+	width:150px; 
+	height: 30px;
+	padding: 5px;
+}
+#simulator input[type="submit"] {
+	width:80px; 
+	height: 30px;
+	padding: 5px;
+	text-transform: uppercase;
+}
+
+
+#valor_simulado {
+	padding: 10px;
+	font-size: 12px;
+	text-align: center;
+	border:2px dotted #ddd;
+	margin: 10px 20px 10px 20px;
+	color: #888;
+}
+#valor_simulado p {
+	font-size: 18px;
+	font-weight: 700;
+	color: #333;
+	text-align: center;
+}

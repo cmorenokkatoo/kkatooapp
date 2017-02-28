@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Te lo van a comprar todo</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width">
+		<!-- CSS -->
+		<link href="../../assets/css/landings/leonisa.css" rel="stylesheet" />
+<!-- 		<link href="../../assets/css/colorbox.css" rel="stylesheet" />
+		<link href="../../assets/css/dd.css" rel="stylesheet" />
+ -->
+		<!-- FUENTES WEB -->
+		<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,300,400,600,700" rel="stylesheet">
+	
+		<!-- COMPATIBILIDAD CON BROWSER VIEJOS -->
+        <script src="../../assets/js/vendor/modernizr-2.6.2.min.js"></script>
+
+
+
+	</head>
+	<body>
+		<!-- <?php //$this->load->view('globales/mensajes'); ?> -->
+		<div id="main-container">
+			<div id="main-content">
+				<h1 id="app-name-img">
+					<img src="../../assets/img/landings/leonisa/nombre-app.png" alt="">
+				</h1>
+				<h2  id="app-slogan-img"><img src="../../assets/img/landings/leonisa/slogan-app.png" alt=""></h2>
+
+				<div id="desc-container">
+					<p>Con nuestra nueva herramienta de llamadas automáticas, podrás llamar a todas tus clientas informándoles de las promociones vigentes y las facilidades para adquirirlas. <span class="resaltado">Mira cómo funciona:</span></p>	
+				</div> <!-- desc-container -->
+ 				<style type="text/css">
+ 				#leonisaCosito{
+ 					z-index: 10000;
+ 				}
+ 				</style>
+					
+
+				<div id="susc-container">
+					<button id="susc-launch">SUSCRÍBETE AHORA</button>
+					<div id="form-container" style="display:none"> 
+
+						<form action="landing/save_contact_suscription" class="landing_suscribe" id="landing-suscribe">
+							<input type="hidden" name="app" value="<?php echo $app_data->id;?>">
+							<select name="indi_pais" id="indi-pais">
+								<!-- <?php //foreach($country as $county): ?> -->
+								<!-- <option value="<?php //echo $county->id ?>" data-iconurl="../../assets/img/flags/".$county->iso3.".png"><?php //echo $county->name ?></option> -->
+                                <!-- <?php //endforeach; ?> -->
+							</select>
+							<input type="text" name="phone" value="" id="phone" maxlength="10" size="10" placeholder="TELEFONO MOVIL">
+							<input type="submit" name="susc_btn" value="&gt;" id="susc-btn">
+						</form>
+
+						<!--ESTE FORMULARIO NO VA EN NINGUNA LANDING, EXCEPTO EN LA DE LEONISA, OCULTAR POR CSS PUEDE SER -->
+							<form action="landing/guardar_pin" class="leonisa_pin" id="leonisa_pin">
+								<p id="pin_text"># DE PIN</p>
+								<input type="text" name="pin_number" value="" id="pin_number" maxlength="50" size="10" >
+								<input type="submit" name="susc_btn" value="ENTRAR" id="susc-btn">
+							</form>
+						<!-- HASTA AQUI -->
+						
+					</div> <!-- form-container -->
+				</div> <!-- susc-container -->
+		
+				<div id="img2-container">
+					<img src="../../assets/img/landings/leonisa/secondary-image.png">
+				</div>
+			</div> <!-- main-content -->
+			<div id="footer">
+				<div id="fb-page">www.facebook.com/anamstickers</div>
+				<div id="copyright">© 2013 Ana María Muñoz</div>
+			</div>
+		</div> <!-- main-container -->
+
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="../../assets/js/landing.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+
+	<script src="../../assets/js/jquery.colorbox-min.js"></script>
+	<script src="../../assets/js/selectBoxIt.js"></script>
+	<script>
+			
+
+	$(document).ready(function(){
+		$('#susc-launch').click(function(){
+			$("#form-container").slideToggle();
+		});
+	});
+
+	</script>
+
+	</body>
+	</html>

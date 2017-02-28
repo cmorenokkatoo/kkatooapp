@@ -1,0 +1,403 @@
+* {
+	box-sizing:border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+html, body {
+	display:table;
+	margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+	background-color: #222;
+	margin: 0;
+	padding: 0;
+	font-family: "Open sans", sans-serif;
+	background: url(../../img/landings/leonisa/bg-page.jpg);
+
+}
+
+
+
+/*******************************************************************
+** CONTENEDOR PRINCIPAL DE LA PAGINA *******************************/
+
+#main-container {
+	position: relative;
+	display: table-cell;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+   vertical-align: middle;
+}
+
+#main-content {
+	position: relative;
+	/*border: 1px solid #222;*/
+	width: 960px;
+	height: 650px;
+	overflow: none;
+	background: url(../../img/landings/leonisa/background-image.jpg) no-repeat;
+	padding: 1px 25px;
+	margin: 0 auto;
+	-moz-box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+
+/*******************************************************************
+** DESCRIPCION DE LA APLICACION ***********************************/
+
+#app-name-img {
+	margin: 10px 0 0 15px ;
+	padding: 0;
+}
+
+#app-slogan-img {
+	display: none;
+}
+
+#desc-container	{
+	width: 420px;
+	margin-left: 25px;
+}
+
+#desc-container	p {
+	font-family: "Open Sans";
+	font-size: 18px;
+	margin: 0 0 12px 0;
+	padding: 0;
+	line-height: 22px;
+	font-weight: 300;
+	color: #fff;
+	text-shadow: -1px 1px 3px #877e6c;
+}
+
+.resaltado {
+	font-family: "Open Sans";
+	font-size: 18px;
+	font-weight: 600;
+	text-shadow: -1px 1px 3px #877e6c;
+}
+
+#video-container {
+	margin-top: 5px;
+	cursor: pointer;
+	margin-left: 25px;
+	display: none;
+}
+
+#footer {
+	display:none;
+}
+/*******************************************************************
+** PAG.2 CAMPOS DINAMICOS Y PAGO  **********************************/
+
+/*#extra-data-container {
+	width: 450px;
+	height: 380px;
+	padding: 20px;
+	overflow: auto;
+	background:rgba(255,255,255,0.8);
+	border-radius: 5px;
+	font-size: 14px;
+	position: relative;
+	z-index: 5;
+
+}
+
+#extra-data-container p {
+	margin: 0;
+	padding: 0;
+}
+
+.subtitulo {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+hr {
+	border-top: 1px dotted #ddd;
+	margin: 4px 0;
+	width: 100%;
+}
+
+label {
+	display:inline-block;
+	width: 90px;
+	margin: 0px 5px 0 0;
+	text-align: right;
+	line-height: 20px;
+}
+
+.dyn-label:after, label:after {
+	content:': ';
+}
+
+.form-row, .form-row-dyn {
+	margin: 10px 0;
+	vertical-align: bottom;
+}
+
+input[type="text"], .dyn-combo-field {
+	height: 30px;
+	border: 1px solid #ddd;
+	margin:0;
+	line-height: 30px;
+}
+
+.txt-field, .combo-field {
+	border: 1px solid #ddd;
+	width: 280px;
+	height: 30px;
+	margin:0;
+	line-height: 30px;
+}
+
+
+#consignacion_options {
+	background-color: #ddd;
+	padding: 15px;
+	font-size: 14px;
+	border-radius: 3px;
+	margin: 10px;
+}
+*/
+
+/*******************************************************************
+** PAG.3 PAGINA DE AGRADECIMIENTOS  ********************************/
+/*#thanks-container {
+	width: 440px;
+	height: 240px;
+	padding: 30px;
+	overflow: none;
+	background:rgba(255,255,255,0.8);
+	border-radius: 5px;
+	font-size: 14px;
+	margin-top: 75px
+}
+
+#thanks-container p.title { 
+	font-size: 24px;
+	text-align: center;
+}
+
+#thanks-container p.subtitle { 
+	font-size: 18px;
+	text-align: center;
+	color: #7d7d7d;
+}
+*/
+
+/*******************************************************************
+** IMAGEN ADICIONAL DE LA APLICACION ******************************/
+
+#img2-container {
+	width: 410px;
+	/*height: 382px;*/
+	position: absolute;
+	left: 495px;
+	top: 2px;
+}
+
+/*******************************************************************
+** SUSCRIPCION ****************************************************/
+
+#susc-container {
+	width: 370px;
+	border-radius: 5px;
+
+	position: absolute;
+	top: 535px;
+	left: 60px;
+}
+
+/*button, input[type="submit"] {
+	border: 0;
+	font-family: "slapstick", sans-serif;
+	font-weight: 700;
+	font-size: 30px;
+	letter-spacing: -1px;
+	color: #000;
+		-moz-box-shadow:inset 0px 1px 3px 0px #eddfec;
+        -webkit-box-shadow:inset 0px 1px 3px 0px #eddfec;
+        box-shadow:inset 0px 1px 3px 0px #eddfec;
+		background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f539e8), color-stop(1, #d11ec5));
+        background:-moz-linear-gradient(top, #f539e8 5%, #d11ec5 100%);
+        background:-webkit-linear-gradient(top, #f539e8 5%, #d11ec5 100%);
+        background:-o-linear-gradient(top, #f539e8 5%, #d11ec5 100%);
+        background:-ms-linear-gradient(top, #f539e8 5%, #d11ec5 100%);
+        background:linear-gradient(to bottom, #f539e8 5%, #d11ec5 100%);
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f539e8', endColorstr='#d11ec5',GradientType=0);
+        background-color:#f539e8;
+        border:1px solid #eb0edc;
+	cursor: pointer;
+}
+
+*/
+
+
+#landing-suscribe {
+	display:none;
+}
+
+#pin_text {
+	display: inline-block;
+	color: #79726a;
+	font-size: 18px;
+	font-weight: 700;
+	margin: 15px 10px;
+
+}
+
+#pin_number {
+	height: 35px;
+	border: 1px solid #b4aea8;
+	border-radius: 5px;
+	width: 170px;
+	padding: 5px;
+	font-size: 18px;
+	font-weight: 600;
+	color: #534e49;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+/*#indi-pais {
+	height: 30px;
+	width: 100px;
+	border: 1px solid #ddd;
+	font-family: "Open sans", sans-serif;
+	padding: 3px;
+	margin: 0px 0 0px 0px;
+}
+
+#phone {
+	height: 30px;
+	width: 140px;
+	border: 1px solid #ddd;
+	font-family: "Open sans", sans-serif;
+	padding: 3px;
+	margin: 0px 5px;
+}*/
+
+#susc-container a.button{
+	width: 370px;
+height: 55px;
+border: 0px;
+border-radius: 5px;
+-moz-box-shadow: inset 2px -2px 4px rgba(0,0,0,.38), inset 0 0 4px 0 rgba(255,255,255,.22);
+-webkit-box-shadow: inset 2px -2px 4px rgba(0,0,0,.38), inset 0 0 4px 0 rgba(255,255,255,.22);
+box-shadow: inset 2px -2px 4px rgba(0,0,0,.38), inset 0 0 4px 0 rgba(255,255,255,.22);
+background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…AiIHdpZHRoPSIzNzQiIGhlaWdodD0iNTkiIGZpbGw9InVybCgjaGF0MCkiIC8+Cjwvc3ZnPg==);
+background-image: -moz-linear-gradient(bottom, #833963 0%, #c95797 100%);
+background-image: -o-linear-gradient(bottom, #833963 0%, #c95797 100%);
+background-image: -webkit-linear-gradient(bottom, #833963 0%, #c95797 100%);
+background-image: linear-gradient(bottom, #833963 0%, #c95797 100%);
+color: #fff;
+font-family: "Open Sans", sans-serif;
+font-size: 24px;
+font-weight: bold;
+text-shadow: 1px -1px 0 rgba(0,0,0,.75);
+cursor: pointer;
+text-decoration: none;
+text-align: center;
+text-transform: uppercase;
+padding-top: 10px;
+display:block;
+}
+
+#susc-btn {
+	width: 88px;
+	height: 35px;
+	border-radius: 5px;
+	border: 0px;
+	-moz-box-shadow: inset 1px -1px 2px rgba(0,0,0,.75), inset 0 0 3px rgba(231,226,222,.75); /* inner shadow and inner glow */
+	-webkit-box-shadow: inset 1px -1px 2px rgba(0,0,0,.75), inset 0 0 3px rgba(231,226,222,.75); /* inner shadow and inner glow */
+	box-shadow: inset 1px -1px 2px rgba(0,0,0,.75), inset 0 0 3px rgba(231,226,222,.75); /* inner shadow and inner glow */
+	background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDg4IDQyIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9ImhhdDAiIGdyYWRpZW50VW5pdHM9Im9iamVjdEJvdW5kaW5nQm94IiB4MT0iNTAlIiB5MT0iMTAwJSIgeDI9IjUwJSIgeTI9Ii0xLjQyMTA4NTQ3MTUyMDJlLTE0JSI+CjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM3OTcyNmEiIHN0b3Atb3BhY2l0eT0iMSIvPgo8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjM2JkYjkiIHN0b3Atb3BhY2l0eT0iMSIvPgogICA8L2xpbmVhckdyYWRpZW50PgoKPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijg4IiBoZWlnaHQ9IjQyIiBmaWxsPSJ1cmwoI2hhdDApIiAvPgo8L3N2Zz4=); /* gradient overlay */
+	background-image: -moz-linear-gradient(bottom, #79726a 0%, #c3bdb9 100%); /* gradient overlay */
+	background-image: -o-linear-gradient(bottom, #79726a 0%, #c3bdb9 100%); /* gradient overlay */
+	background-image: -webkit-linear-gradient(bottom, #79726a 0%, #c3bdb9 100%); /* gradient overlay */
+	background-image: linear-gradient(bottom, #79726a 0%, #c3bdb9 100%); /* gradient overlay */
+
+	color: #fff; /* text color */
+	font-family: "Open Sans", sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-shadow: 1px -1px 0 rgba(0,0,0,.37); /* drop shadow */
+
+	cursor: pointer;
+}
+/*
+#susc-paypal {
+	height: 40px;
+	width: 280px;
+	margin-left: 98px;
+	margin-top: 10px;
+	font-size: 24px;
+}
+#susc-consignacion {
+	height: 40px;
+	width: 280px;
+	margin: 10px 30px 0;
+	font-size: 24px;
+}
+
+#susc-pin {
+	height: 40px;
+	width: 280px;
+	margin-top: 10px;
+	margin-left: 98px;
+	font-size: 24px;
+}
+
+#form-container {
+	margin: 8px 8px;
+}*/
+
+
+/*******************************************************************
+** VENTANA FLOTANTE DE CREDITOS DISPONIBLES*************************/
+
+/*#available-kredits {
+	position: absolute;
+	left:65px;
+	top:595px;
+	width: 450px;
+	height: 40px;
+	border: 3px solid #FFF;
+	border-radius: 5px;
+	background-color:rgba(76,181,51,0.3);
+	font-size: 15px;
+	text-align: center;
+	font-family: "Open Sans";
+	font-weight: 700;
+	padding: 6px;
+	color:#000;
+}
+*/
+
+/*******************************************************************
+** FOOTER PARA LAS APP DE ANA M ************************************/
+
+/*#footer {
+	display: none;
+	width: 1010px;
+	height: 35px;
+	background-color: rgba(255,255,255,0.8);
+	position: absolute;
+	top: 615px;
+	left:0px;
+}
+
+#fb-page, #copyright {
+	font-family: "anjelika";
+	font-size: 21px;
+	text-shadow: 0 0 1px #000;
+	margin:5px 0 0 30px;
+	display: inline-block;
+}*/

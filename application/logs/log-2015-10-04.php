@@ -1,0 +1,47 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-10-04 00:32:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 01:39:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 01:45:21 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 02:17:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 02:20:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 02:31:06 --> Could not find the language line "indi_pais"
+ERROR - 2015-10-04 01:31:06 --> Severity: Warning  --> popen() has been disabled for security reasons /home/kkatoo/public_html/system/libraries/Email.php 1575
+ERROR - 2015-10-04 03:25:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 03:31:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 04:36:00 --> 404 Page Not Found --> browserconfig.xml
+ERROR - 2015-10-04 04:53:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 05:47:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 06:36:05 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 06:37:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 07:59:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 08:14:56 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-10-04 08:14:56 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-10-04 08:34:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 09:10:59 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 09:10:59 --> 404 Page Not Found --> blog
+ERROR - 2015-10-04 10:29:03 --> 404 Page Not Found --> spaw
+ERROR - 2015-10-04 12:02:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 12:03:03 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-10-04 12:03:03 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-10-04 12:25:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 12:25:52 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 12:47:36 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 13:12:34 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 14:09:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 15:00:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 15:28:49 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 16:57:03 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 17:50:04 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 18:43:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 18:45:22 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 19:21:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 19:21:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 19:21:32 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 19:21:33 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 20:35:22 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 20:35:22 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 21:06:20 --> 404 Page Not Found --> soportekkatoo
+ERROR - 2015-10-04 21:49:25 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 23:34:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-10-04 23:42:36 --> 404 Page Not Found --> robots.txt

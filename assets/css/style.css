@@ -1,0 +1,1127 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
+/****************************************************************************************************/
+/* SELECTORES
+/****************************************************************************************************/
+* {
+	
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	margin: 0 auto;
+	padding: 0px;
+	text-decoration: none;
+	box-sizing: border-box;
+
+}
+a {
+	color: #117da3;
+}
+
+/*html, body {
+	height: 100%;
+}*/
+body, html{
+height: 100%;
+}
+
+body #wrapper{    
+    position: relative;     
+    height: 100%;   
+    width: 100%; 
+   background: #2E80AB !important;
+} 
+
+body #main {
+	/*height: 100%;*/
+	width: 100%;
+	padding: 0px;
+	/*min-height:380px;
+	padding-bottom:150px;  Altura del footer */
+
+}
+
+div, section, span {
+	/*border:1px solid red;
+	padding: 1px;*/
+}
+
+form #frm-search{
+	float:left;
+}
+
+h1 {/* #app-name */
+
+}
+h2 {/* #camp-details  */
+	margin: 0px;
+	padding: 0px;
+}
+
+header {
+	min-height: 85px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+
+
+input[name="camp-name"] {
+	border: 1px solid #CCC;
+	box-shadow: inset 0px 0px 5px 2px rgba(150, 150, 150, 0.2);
+	height: 36px;
+	margin: 0 0 0 30px;
+	padding: 0 0 0 7px;
+	width: 420px;
+}
+
+	input::-webkit-input-placeholder {
+		color: #666;
+		font-size: 1.1em;
+		font-weight: 600;
+	}
+
+	input:-moz-placeholder {
+		color: #666;
+		font-size: 1.1em;
+		font-weight: 600;
+	}
+
+/*
+
+nav {
+	border: 1px solid brown;
+	float: left;
+	background-color: yellow;
+}
+
+nav li {
+	display:inline-block;
+}
+*/
+th {
+	background-color: white;
+	padding: 9px 0px 9px 10px;
+	line-height: 20px;
+	height: 25px;
+	text-align: center !important;
+}
+
+td, th {
+  	padding: 5px 0px 2px 10px;
+  	text-align: left;
+}
+tr.odd {
+	background-color: #eee;
+}
+
+
+/****************************************************************************************************/
+/* CLASSes
+/****************************************************************************************************/
+
+.mkt-app-ficha {
+	width: 250px!important;
+	background: #fff;
+	margin: 10px auto;
+}
+.mkt-app-ficha h4{
+	margin: 10px;
+	font-size: 14px;
+	line-height: 15px;
+	text-indent: 0;
+	text-align: left;
+	font-weight: 400;
+}
+	.mkt-app-foto {
+		width: 100%;
+		height: 150px;
+	}
+	.mkt-app-datos {
+		margin-top: 5px;
+	}
+	.applink {
+
+	}
+	.mkt-app-numcomments {
+		margin-left: 10px;
+		font-size: 12px;
+		color: #AAA;
+		float: left;
+	}
+	.mkt-app-rating {
+		float: right;
+		width: 50px;
+		color: #AAA;
+		font-size: 12px;
+		text-align: right;
+		margin-right: 10px;
+	}
+/*
+SOBREESCRIBO ESTA CLASE PARA EVITAR EL ICONO DE BOOTSTRAP
+Y PRIORIZAR EL DE FONT-AWESOME
+*/
+[class^="icon-"] {
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	margin-top: 1px;
+	line-height: 14px;
+	vertical-align: text-top;
+	background-position: 14px 14px;
+	background-repeat: no-repeat
+}
+
+
+.app_link {
+	width: 100%;
+	display: inline-block;
+	text-decoration:none;
+	color:#333;
+}
+.app_link:hover{
+	display: inline-block;
+	text-decoration:none;
+	color:#333;
+}
+
+.app-metadata {
+	font-weight: 700;
+
+}
+
+.add-contact {
+	float:right;
+	font-size: 12px;
+	font-weight: 400;
+	padding: 0 10px;
+	text-shadow: 0px 1px 0px white;
+	height: 30px;
+	border-radius: 3px;
+}
+
+
+.btn-circle {
+	display: inline-block;
+ 	float: left;
+ 	width: 34px;
+ 	height: 26px;
+	border: 1px solid #666;
+	border-radius: 30px;
+	text-align: center;
+	background-color: #FFF;
+	margin: 2px 2px;
+	font-size: 18px;
+	font-weight: 400;
+	text-decoration: none;
+	padding: 4px 0;
+	color: #BBB;
+}
+	.btn-circle.step02{
+		margin: 2px 0 0 39px;
+		}
+	.btn-circle.step03 	{
+		margin: 2px 0 0 41px;
+	}
+
+	.btn-circle:hover {
+		background-color: #e9d69d;
+		color: #000;
+	}
+
+	.btn-circle.active {
+		background-color: #E2AA29;
+		font-weight: 700;
+		color: #000;
+	}
+
+
+.btn-gray {
+	background: rgb(238,238,238); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(238,238,238,1) 0%, rgba(215,215,215,1) 48%, rgba(211,211,211,1) 50%, rgba(200,200,200,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(238,238,238,1)), color-stop(48%,rgba(215,215,215,1)), color-stop(50%,rgba(211,211,211,1)), color-stop(100%,rgba(200,200,200,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(238,238,238,1) 0%,rgba(215,215,215,1) 48%,rgba(211,211,211,1) 50%,rgba(200,200,200,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(238,238,238,1) 0%,rgba(215,215,215,1) 48%,rgba(211,211,211,1) 50%,rgba(200,200,200,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(238,238,238,1) 0%,rgba(215,215,215,1) 48%,rgba(211,211,211,1) 50%,rgba(200,200,200,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(238,238,238,1) 0%,rgba(215,215,215,1) 48%,rgba(211,211,211,1) 50%,rgba(200,200,200,1) 100%); /* W3C */
+	/*border-radius: 2px;*/
+	cursor: pointer;
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#c8c8c8',GradientType=0 ); /* IE6-9 */
+}
+
+.btn-gray:hover {
+	background: rgb(225,225,225); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(225,225,225,1) 0%, rgba(188,188,188,1) 49%, rgba(181,181,181,1) 51%, rgba(163,163,163,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(225,225,225,1)), color-stop(49%,rgba(188,188,188,1)), color-stop(51%,rgba(181,181,181,1)), color-stop(100%,rgba(163,163,163,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(225,225,225,1) 0%,rgba(188,188,188,1) 49%,rgba(181,181,181,1) 51%,rgba(163,163,163,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(225,225,225,1) 0%,rgba(188,188,188,1) 49%,rgba(181,181,181,1) 51%,rgba(163,163,163,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(225,225,225,1) 0%,rgba(188,188,188,1) 49%,rgba(181,181,181,1) 51%,rgba(163,163,163,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(225,225,225,1) 0%,rgba(188,188,188,1) 49%,rgba(181,181,181,1) 51%,rgba(163,163,163,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e1e1e1', endColorstr='#a3a3a3',GradientType=0 ); /* IE6-9 */
+}
+
+
+
+.btn-orange {
+	background: rgb(246,184,97); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(246,184,97,1) 0%, rgba(245,175,65,1) 45%, rgba(244,167,33,1) 55%, rgba(242,151,0,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(246,184,97,1)), color-stop(45%,rgba(245,175,65,1)), color-stop(55%,rgba(244,167,33,1)), color-stop(100%,rgba(242,151,0,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(246,184,97,1) 0%,rgba(245,175,65,1) 45%,rgba(244,167,33,1) 55%,rgba(242,151,0,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(246,184,97,1) 0%,rgba(245,175,65,1) 45%,rgba(244,167,33,1) 55%,rgba(242,151,0,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(246,184,97,1) 0%,rgba(245,175,65,1) 45%,rgba(244,167,33,1) 55%,rgba(242,151,0,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(246,184,97,1) 0%,rgba(245,175,65,1) 45%,rgba(244,167,33,1) 55%,rgba(242,151,0,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6b861', endColorstr='#f29700',GradientType=0 ); /* IE6-9 */
+}
+
+	.next-step {
+		border-radius: 2px;
+		color:#FFF;
+		display: block;
+		float: right;
+		font-size: 18px;
+		font-weight: 700;
+		margin-top: 60px;
+		padding: 12px 25px 12px 0px;
+		position: relative;
+		text-align: center;
+		text-shadow: 0px -1px 0px #986d11;
+		width: 180px;
+
+	}
+
+.btn-orange:hover {
+	background: rgb(243,164,38); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(243,164,38,1) 0%, rgba(242,157,0,1) 31%, rgba(240,136,0,1) 69%, rgba(236,120,0,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(243,164,38,1)), color-stop(31%,rgba(242,157,0,1)), color-stop(69%,rgba(240,136,0,1)), color-stop(100%,rgba(236,120,0,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(243,164,38,1) 0%,rgba(242,157,0,1) 31%,rgba(240,136,0,1) 69%,rgba(236,120,0,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(243,164,38,1) 0%,rgba(242,157,0,1) 31%,rgba(240,136,0,1) 69%,rgba(236,120,0,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(243,164,38,1) 0%,rgba(242,157,0,1) 31%,rgba(240,136,0,1) 69%,rgba(236,120,0,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(243,164,38,1) 0%,rgba(242,157,0,1) 31%,rgba(240,136,0,1) 69%,rgba(236,120,0,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3a426', endColorstr='#ec7800',GradientType=0 ); /* IE6-9 */
+}
+
+
+.btn-sfb {
+	cursor: pointer;
+}
+
+.btn-sgp {
+	cursor: pointer;
+}
+
+.btn-stw {
+	cursor: pointer;
+}
+
+.camp-help {
+ 	background-color: #F4F4F4;
+ 	height: 240px;
+ 	width: 175px;
+ 	padding: 20px 15px 0px 15px;
+ 	position: relative;
+}
+
+	.camp-help-close-x {
+		position:absolute;
+		display: block;
+		left: 190px;
+		top: -8px;
+		font-size: 13px;
+		cursor: pointer;
+	}
+
+	.camp-help-title {
+		font-size: 28px;
+ 		font-weight: 300;
+	}
+
+	.camp-help-text {
+		font-size: 13px;
+ 		font-weight: 300;
+ 		color: #888;
+ 		line-height: 19px;
+	}
+
+
+.close-x { /* #camp-details */
+	position:absolute;
+	display: block;
+	font-weight: 300;
+	left: 703px;
+	top: 5px;
+	cursor: pointer;
+	color: #AAA;
+}
+
+.go-arrow {
+	position: absolute;
+	font-size: 30px;
+	font-weight: 700;
+	color:#5e3d0d;
+	text-shadow: 0px 1px 0px #f8d690;
+	left: 175px;
+	top: 2px;
+}
+
+.img-app {
+	border: 2px solid #EEE;
+	height: 150px;
+	margin: 15px auto 0 auto;
+	width: 150px;
+}
+
+.paginator-number {
+	display: inline-block;
+	width: 32px;
+	height: 25px;
+	text-align: center;
+	border: 1px solid #CCC;
+	padding: 7px 0 0 0;
+	font-size: 12px;
+	color: #57afdc;
+}
+
+.paginator-number.active {
+	border: 1px solid #CCC;
+	background: #f5f5f5;
+	color: #888;
+	cursor: default;
+}
+
+.price {
+	color: #333;
+	font-size: 2.5em;
+	font-weight: 700;
+	letter-spacing: -1px;
+	line-height: 1em;
+}
+
+.tbl-contacts {
+
+	/*display: block;*/
+	clear:both;
+	font-size: 0.825em;
+	/*border: 1px solid blue;*/
+	width: 100%;
+
+}
+
+.x {
+	display: block;
+	float:right;
+	margin: -2px 10px 0 0;
+	color: #888;
+	border: 1px solid #888;
+	border-radius: 15px;
+	width: 15px;
+	height: 20px;
+	padding: 1px 0 0px 5px;
+	cursor: pointer;
+	vertical-align: baseline;
+	background-color: #fff;
+}
+
+/****************************************************************************************************/
+/* IDs
+/****************************************************************************************************/
+#app-area {
+	background:	url(../img/bg-hero-cuadricula.png), url(../img/bg-hero-gray.png);
+	border-top:1px solid #333;
+	height: 608px;
+}
+
+#app-credits {
+	font-weight: 300;
+	font-size: 12px;
+	color: #666;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 22px;
+	margin-top: 5px;
+}
+
+#app-description {
+	background: url(../img/bg-app-title-arrow.png) no-repeat right 30px;
+	background-color: #C4C4C4;
+	height: 550px;
+	width: 294px;
+	float: left;
+}
+#app-name {
+	color: #FFF;
+	font-size: 250%;
+	font-weight:300;
+	letter-spacing: -2px;
+	padding-top: 15px;
+	text-align: center;
+}
+
+#app-price {
+	/*border: 1px solid red; */
+	color: #888;
+	font-size: 0.75em;
+	font-weight: 600;
+	margin: 1px auto;
+	text-align: center;
+	width: 200px;
+}
+
+#app-social-buttons {
+	/*border: 1px solid red;*/
+	color: #888;
+	font-size: 0.7em;
+	font-weight: 600;
+	margin: 60px auto 0 auto;
+	text-align: center;
+}
+#app-social-buttons img {
+	margin: 8px 8px;
+}
+
+#app-steps {
+	/*background-color: yellow;*/
+	position: relative;
+	float: right;
+	width: 724px;
+}
+
+#app-window {
+	background-color: white;
+	height: 550px;
+	margin: 25px auto;
+	width: 1018px;
+}
+
+#brand {
+	width: auto;
+}
+
+#saldo, #username{
+	font-size: 32px;
+	vertical-align: middle;
+}
+
+#ico-saldo, #ico-username{
+	vertical-align: middle;
+	color: gold;
+	font-size: 28px !important;
+}
+#ico-username{
+	color: #999;
+	display: none;
+}
+#valor-saldo, #nombre-usuario{
+	vertical-align: middle;
+}
+#texto-saldo, #username-welcome{
+	font-size: 12px;
+	font-weight: 300;
+	color: white !important;
+	vertical-align: middle;
+	font-style: initial;
+}
+
+
+#btn-add-app {
+	display: inline-block;
+width: 170px; 
+height: 37px;
+position: absolute; 
+left: 5px; top: 1px;
+background: #fcba41; 
+border-bottom: 1px solid #CB8605;
+padding: 8px 0px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+text-align: center;
+cursor: pointer;
+line-height: 20px;
+vertical-align: middle;
+}
+
+#btn-add-app > a {
+	display: inline-block;
+	height:37px;
+    color: #000;
+    text-transform: uppercase;
+}
+#btn-add-app > a:hover {
+	text-decoration: none;
+}
+
+#btn-add-app:hover{
+background: #DBA901;
+}
+
+.fa {
+font-size: 17px;
+vertical-align:middle;
+}
+/*a.link-add-app{
+	background: url(../img/btn-add-app.png) left top no-repeat
+    display: block;
+    height: 93%;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 99%;
+}
+*/
+
+/*#btn-add-app a {
+	color: #5e3d0d;
+}*/
+
+#contact-paginator {
+	text-align: center;
+	margin: 18px 0 0 0 ;
+}
+
+#camp-details {
+	background-color: #F6F6F6;
+	padding: 1px 0;
+	margin: 0;
+	height: 106px;
+}
+
+	#camp-details h2 {
+		font-size: 18px;
+		font-weight: 300;
+		color: #888;
+		margin: 15px 0 0 30px;
+	}
+
+	#camp-details .camp-url {
+		font-weight: 300;
+		font-size: 14px;
+		color: #AAA;
+		margin: 0 0 0 37px;
+	}
+
+#camp-steps-circles {
+	position: absolute;/**/
+	display: block;
+	left: 500px;
+	top: 90px;
+	width:205px;
+	height: 45px;
+	background: url(../img/bg-btns-steps.png) no-repeat;
+}
+
+#header-mkt{
+	background: transparent !important;
+	height: auto;
+	margin:0 auto;
+	padding: 20px !important;
+	position: inherit;
+	width: 100%;
+	color: white;
+}
+
+#header-content {
+	margin: 0 auto;
+	height: auto;
+	width: 100%;
+	display: flex !important;
+	align-items: center;
+	justify-content: space-around;
+}
+#ham-menu-button{
+    color: #656A71 !important;
+    cursor: pointer;
+}
+#market-area{
+        width: 100%;
+        text-align: center;
+        box-sizing: border-box;
+        background: transparent !important;
+    }
+    #mkt-app-list{
+        margin: 5px auto;
+        display: flex;
+        width: 70%;
+        max-width: 768px;
+        flex-wrap: wrap;
+    }
+
+
+.abrir{
+	transform: translateX(190px);
+}
+
+#help {
+ 	float: left;
+ 	margin: 50px 0 0 50px;
+}
+
+#nav-options {
+	position:absolute;
+	left: 50%;
+	margin-left: -245px;
+	min-width: 320px;
+	max-width: 500px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 12px;
+}
+#nav-options nav{
+	display: inline-block;
+	vertical-align: top;	
+}
+
+#shadow-divider {
+	/*border: 1px solid red;*/
+	width: 100%;
+	height: 22px;
+	background: url(../img/hr-app-description.png) center;
+}
+#step01 {
+	width: 396px;
+	height: 387px;
+	/*border: 1px solid red;*/
+	margin: 24px 0 0 44px;
+	float: left;
+}
+
+#step01 .step-name {
+	font-size: 18px;
+	font-weight: 400;
+	vertical-align: bottom;
+	float: left;
+	/*border: 1px solid red;*/
+	padding: 7px 0 0 0 ;
+}
+
+
+/****************************************************************************************************/
+/* FOOTER
+/****************************************************************************************************/
+footer{
+	text-align:center;
+	background-color: #444;
+	/*height: 190px;*/
+	margin: 0;
+}
+
+footer .title {
+	color: #ECEBEE;
+	
+	font-size: 12px;
+	font-weight: 300;
+	letter-spacing: 2px;
+	padding-top: 14px;
+}
+footer img{display:inline-block;}
+footer .credits {
+	color: #888;
+	
+	font-size: 0.8em;
+	font-weight: 300;
+	margin-left: 1em;
+	margin-right: 1em;
+	text-align: center;
+	padding-top:1em;
+	padding-bottom: 0.5em;
+}
+footer a{color: #08C;text-decoration: none;}
+footer a:hover{color: #005580;text-decoration: underline;}
+
+
+
+
+/****************************************************************************************************/
+/* MENSAJES
+/****************************************************************************************************/
+/*.mensajes{	
+	
+	background-color: rgba(250,250,250,0.9);
+	position: fixed;
+	top: 0%;
+	z-index: 9000;
+	width: 100%;
+	padding: 2em 0em;
+	font-size: 1.5em;
+	font-weight: 300;	
+}
+.exito{
+	color: #000;
+	width: 100%;
+	background-color: #0099CC}
+	
+.error{
+	color: #fff;
+	width: 100%;
+	background-color: rgba(255,61,61,0.8);}
+.mensaje{
+	display: block;
+	margin-left: 3%;
+	font-size: 24px;
+	font-weight: 500;
+	letter-spacing: 0;
+	color: #fff;
+}
+.titulo-mensaje{
+	font-weight: bolder;
+	font-size: 30px;
+	margin-left: 3%;
+}
+.exito .titulo-mensaje{color: #fff;}
+.error .titulo-mensaje{color: #fff;}
+.mensajes .cerrar{
+	position: absolute;
+	font-size: 15px;
+	font-weight: bolder;
+	top: 20px;
+	right: 30px;
+}
+.mensajes .cerrar a{
+	text-decoration:none;
+	color: black;
+}*/
+
+.csvdescription{
+	width: 100%;
+	height: 100%;
+	background-image: url('../img/fondonegro.png');
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 60000;
+}
+
+.innercsv{
+	position: relative;
+	top: 45%;
+	background-color: white;
+	width: 341px;
+	margin: 0 auto;
+	opacity:1;
+	filter:alpha(opacity=100); /* For IE8 and earlier */
+}
+
+.textspeach{
+	width: 336px;
+	height: 84px;
+}
+
+/*DATE PICKER*/
+
+body {
+	background: transparent !important;
+}
+/* DatePicker Container */
+.ui-datepicker {
+	width: 310px;
+	height: auto;
+	margin: 5px auto 0;
+	font: 9pt Arial, sans-serif;
+	-webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .5);
+	-moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .5);
+	box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .5);
+}
+.ui-datepicker a {
+	text-decoration: none;
+}
+/* DatePicker Table */
+.ui-datepicker table {
+	width: 100%;
+}
+.ui-datepicker-header {
+	color: #fff;
+	line-height:40px;
+	height:40px;
+	background: #a0a0a0; /* Old browsers */
+	background: -moz-linear-gradient(top,  #a0a0a0 0%, #787878 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a0a0a0), color-stop(100%,#787878)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #a0a0a0 0%,#787878 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #a0a0a0 0%,#787878 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #a0a0a0 0%,#787878 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #a0a0a0 0%,#787878 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a0a0a0', endColorstr='#787878',GradientType=0 ); /* IE6-9 */
+}
+.ui-datepicker-title {
+	text-align: center;
+	font-size:20px;
+}
+.ui-datepicker-prev, .ui-datepicker-next {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	cursor: pointer;
+	background-image: url('../img/arrow.png');
+	background-repeat: no-repeat;
+	line-height: 600%;
+	overflow: hidden;
+	margin-top:5px;
+}
+.ui-datepicker-prev {
+	float: left;
+	background-position: center -30px;
+}
+.ui-datepicker-next {
+	float: right;
+	background-position: center 0px;
+}
+.ui-datepicker thead {
+	background-color: #f7f7f7;
+	background-image: -moz-linear-gradient(top,  #f7f7f7 0%, #f1f1f1 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f7f7f7), color-stop(100%,#f1f1f1));
+	background-image: -webkit-linear-gradient(top,  #f7f7f7 0%,#f1f1f1 100%);
+	background-image: -o-linear-gradient(top,  #f7f7f7 0%,#f1f1f1 100%);
+	background-image: -ms-linear-gradient(top,  #f7f7f7 0%,#f1f1f1 100%);
+	background-image: linear-gradient(top,  #f7f7f7 0%,#f1f1f1 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f7f7', endColorstr='#f1f1f1',GradientType=0 );
+	border-bottom: 1px solid #bbb;
+}
+.ui-datepicker th {
+	text-transform: uppercase;
+	font-size: 6pt;
+	padding: 5px 0;
+	color: #666666;
+	text-shadow: 1px 0px 0px #fff;
+	filter: dropshadow(color=#fff, offx=1, offy=0);
+}
+.ui-datepicker tbody td {
+	padding: 0;
+	border-right: 1px solid #bbb;
+	width:43px !important;
+}
+.ui-datepicker tbody td:last-child {
+	border-right: 0px;
+}
+.ui-datepicker tbody tr {
+	border-bottom: 1px solid #bbb;
+}
+.ui-datepicker tbody tr:last-child {
+	border-bottom: 0px;
+}
+.ui-datepicker td span, .ui-datepicker td a {
+	display: inline-block;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+	height: 35px;
+	line-height: 35px;
+	color: #666666;
+	text-shadow: 1px 1px 0px #fff;
+	filter: dropshadow(color=#fff, offx=1, offy=1);
+}
+.ui-datepicker-calendar .ui-state-default {
+	background: white;
+	background: -moz-linear-gradient(top, white 0%, #E7E7E7 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,white), color-stop(100%,#E7E7E7));
+	background: -webkit-linear-gradient(top, white 0%,#E7E7E7 100%);
+	background: -o-linear-gradient(top, white 0%,#E7E7E7 100%);
+	background: -ms-linear-gradient(top, white 0%,#E7E7E7 100%);
+	background: linear-gradient(to bottom, white 0%,#E7E7E7 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e7e7e7',GradientType=0 );
+	
+	-webkit-box-shadow: inset 1px 1px 0px 0px rgba(250, 250, 250, .5);
+	-moz-box-shadow: inset 1px 1px 0px 0px rgba(250, 250, 250, .5);
+	box-shadow: inset 1px 1px 0px 0px rgba(250, 250, 250, .5);
+}
+.ui-datepicker-calendar .ui-state-hover {
+	background: #f7f7f7;
+}
+.ui-datepicker-calendar .ui-state-active {
+	background: #fcd997; /* Old browsers */
+	background: -moz-linear-gradient(top,  #fcd997 0%, #e0ab27 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fcd997), color-stop(100%,#e0ab27)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #fcd997 0%,#e0ab27 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #fcd997 0%,#e0ab27 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #fcd997 0%,#e0ab27 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #fcd997 0%,#e0ab27 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcd997', endColorstr='#e0ab27',GradientType=0 ); /* IE6-9 */
+	color: #e0e0e0;
+	text-shadow: 0px 1px 0px #4d7a85;
+	filter: dropshadow(color=#4d7a85, offx=0, offy=1);
+	border: 1px solid #F4BF31;
+	position: relative;
+	margin: -1px;
+	color: black;
+}
+.ui-datepicker-unselectable .ui-state-default {
+	background: #f4f4f4;
+	color: #b4b3b3;
+}
+.ui-datepicker-calendar td:first-child .ui-state-active {
+	
+}
+.ui-datepicker-calendar td:last-child .ui-state-active {
+	
+}
+.ui-datepicker-calendar tr:last-child .ui-state-active {
+	
+}
+
+/*------------------------------------------------------------------------------------------------- */
+/* CLEARFIX --------------------------------------------------- */
+/*------------------------------------------------------------------------------------------------- */
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix {
+	display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+	display: block;
+}
+ 
+* html .clearfix {
+	height: 1%;
+}
+
+
+
+/******************************************************************************
+** VENTANA DE MENU DE AGREGAR APLICACION (CUANDO PRESIONAN EL + EN EL MARKET)
+******************************************************************************/
+
+#menu-app-type {
+	width: 350px;
+	border-radius: 5px;
+	border: 1px solid #b3b3b3;
+	background-color: #fff;
+	position: absolute;
+	z-index: 200;
+	top:37px;
+	left:-222px;
+	padding-top: 13px;
+}
+
+.app-type {
+	position: relative;
+	width: 80%;
+	right: -65px;
+
+}
+
+.app-type a {
+	display: block;
+	position: absolute;
+	width: 262px;
+	height: 100px;
+}
+
+.app-type a:hover {
+	display: block;
+	position: absolute;
+	background: rgba(255,255,255,0.5);
+	width: 285px;
+	height: 100px;
+}
+
+
+.app-type h6 {
+	
+	font-weight: 600;
+	font-size: 16px;
+	background-color: #f7f7f7;
+	padding: 5px;
+	margin: 0px;
+	border-radius: 5px;
+}
+.app-type p {
+	
+	font-weight: 400;
+	font-size: 13px;
+	line-height: 17px;
+	background-color: #fff;
+	padding: 5px;
+	margin: 0px 0 10px 0;
+	text-align: justify;
+
+}
+
+.ico-app-type{
+	display: inline-block;
+	position: absolute;
+	top: 30px;
+	width: 45px;
+	height: 45px;
+	left: -55px;
+}
+
+
+
+
+/*------------------------------------------------------------------------------------------------- */
+/* MEDIA QUERYS PARA LOS DISTINTOS DISPOSITIVOS --------------------------------------------------- */
+/*------------------------------------------------------------------------------------------------- */
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen
+and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen
+and (max-width : 320px) {
+/* Styles */
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px) {
+/* Styles */
+}
+
+/* iPads (landscape) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape) {
+/* Styles */
+}
+
+/* iPads (portrait) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait) {
+/* Styles */
+}
+
+/* Desktops and laptops ----------- */
+@media only screen
+and (min-width : 1224px) {
+/* Styles */
+}
+
+/* Large screens ----------- */
+@media only screen
+and (min-width : 1824px) {
+/* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+/* Styles */
+}
+
+@media only screen
+and (min-height : 880px)
+and (max-height : 1500px) {
+/* Styles */
+
+}

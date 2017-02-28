@@ -1,0 +1,19 @@
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="1920px" height="360px" viewBox="0 0 1920 360" enable-background="new 0 0 1920 360" xml:space="preserve"
+	>
+<defs>
+</defs>
+<g id="Carretera_4_">
+	<rect x="0" fill="#333333" width="1920" height="360"/>
+</g>
+<g id="Carretera_1_">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="9" x2="1920" y2="9">
+		<stop  offset="0" style="stop-color:#42A047"/>
+		<stop  offset="1" style="stop-color:#66BB6A"/>
+	</linearGradient>
+	<rect x="0" fill="url(#SVGID_1_)" width="1920" height="18"/>
+	<rect x="0" y="16" fill="#FFFFFF" width="1920" height="6.8"/>
+</g>
+</svg>

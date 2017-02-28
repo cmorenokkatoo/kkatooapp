@@ -1,0 +1,52 @@
+<?php
+
+$lang['lang']				=	'es';
+$lang['title']				=	'%s: Social Dialing';
+$lang['suggest']			=	'Sugeridas';
+$lang['favorites']			=	'Favoritas';
+$lang['more']				=	'Categorías';
+$lang['news']				=	'Nuevas Aplicaciones';
+$lang['populars']			=	'Recientes';
+$lang['religius']			=	'Religiosas';
+$lang['funies']				=	'Entretenimiento';
+$lang['celebrations']		=	'De celebraciones';
+$lang['profile']			=	'Perfil';
+$lang['getcredits']			=	'Gestionar créditos';
+$lang['mycontacts']			=	'Contactos';
+$lang['myaudios']			=	'Audios';
+$lang['mycampaings']		=	'Campañas';
+$lang['appdescription']		=	'Descripcion';
+$lang['comments']			=	'Comentarios';
+$lang['nodatasearch']		=	'No se encontraron resultados asociados a su consulta';
+$lang['owner']				=	'Creador';
+$lang['version']			=	'Versión';
+$lang['languages']			=	'Idiomas';
+$lang['lastupdate']			=	'Actualización';
+$lang['rating']				=	'Calificación';
+$lang['youvoted']			=	'Usted ya votó por esta aplicación';
+$lang['thanksvoted']		=	'Gracias por realizar la votación a la aplicación';
+$lang['errorvoted']			=	'Error al tratar de realizar el voto por una aplicacion';
+$lang['commentadd']			=	'Gracias por comentar en esta aplicación';
+$lang['errorcomment']		=	'Se produjo un error al tratar de realizar un comentario en esta aplicaión';
+$lang['loginplease']		=	'Por favor conectate para poder votar por esta aplicación';
+$lang['ratings']			=	'Ratings';
+$lang['free']				=	'Gratis';
+$lang['testcall']			=	'Realiza una llamada de prueba';
+$lang['useapp']				=	'Usar Aplicación';
+$lang['subsapp']			=	'Suscribirse';
+$lang['addapp']				=	'Crear nueva aplicación';
+$lang['keepconected']		=	'Mantente en Contacto';
+$lang['MORE']				=	'Categorías';
+$lang['logout']				=	'Cerrar Sesión';
+$lang['login']				=	'Ingresa';
+$lang['register']			=	'Regístrate';
+$lang['comentario']			=	'Comentario';
+$lang['mustbeuser']			=	'Para comentar una aplicación hay que ser usuario registrado';
+//COMENTARIO
+$lang['privacy']			=	'2014  kkatoo social dialing / Todos los derechos reservados / <a href="#">Politicas de privacidad</a>';
+
+$lang["deny_marketplace"] 	= 	'No tiene permisos para ingresar a esta sección';
+$lang["apps"] = "Aplicaciones";
+$lang["addapp"] = "Agregar Aplicación";
+$lang["personaloptions"] = 'Opciones Personales';
+$lang["errorsearch"]			= "Por favor ingresa un texto valido para buscar";

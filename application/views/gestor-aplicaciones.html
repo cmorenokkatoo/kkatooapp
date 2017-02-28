@@ -1,0 +1,855 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>Administrador de Aplicaciones</title>
+	<!-- LE METAs -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+
+	<!-- LE CSS -->
+	<link rel="stylesheet" href="../../assets/css/bootstrap.css">
+	<link rel="stylesheet" href="../../assets/css/bootstrap-responsive.css">
+	<link rel="stylesheet" href="../../assets/css/gestor-aplicaciones.css">
+	<link rel="stylesheet" href="../../assets/css/colorbox.css">
+
+	<!-- LE FONTS -->
+   <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
+
+</head>
+
+<body>
+	<div id="wrapper">
+		<!-- BARRA SUPERIOR -->
+		<div id="head_bar">
+			<div class="container" id="head_container">
+				<div id="brand">LOGO</div>
+				<div class="btn-group" id="user_bar">
+		        <button class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+		        	<i class="icon-user"></i> Viktor Lozano
+		          <span class="caret"></span> 
+		        </button>
+		        <ul class="dropdown-menu">
+		          <li>
+		            <a href="#">First Link</a> 
+		          </li>
+		          <li>
+		            <a href="#">Second Link</a> 
+		          </li>
+		          <li>
+		            <a href="#">Third Link</a> 
+		          </li>
+		        </ul>
+		      </div> <!-- .btn-group -->
+	      </div> <!-- container -->
+		</div> <!-- #head_bar -->
+
+		<!-- CUERPO APP -->
+		<form>
+		<div class="container" id="body_container">
+			<header>
+				<h1>Administrador de aplicaciones</h1>
+			</header>
+			<div class="row-fluid" id="app_container">
+				<div class="span2" id="nav_container">
+					<nav>
+						<ul>
+							<li><a href="#" class="oneline_btn" id="btn_estadisticas"></a></li>
+							<li><a href="#" class="oneline_btn" id="btn_suscriptores"></a></li>
+							<li><a href="#" class="twoline_btn" id="btn_biblioteca"></a></li>
+							<li><a href="LINK AL 123 DE ESTA APP" class="twoline_btn"	id="btn_operar"></a></li>
+							<li><a href="LINK AL WIZARD DE ESTA APP" class="twoline_btn" id="btn_editar"></a></li>
+							<li><a href="LINK A FONOMARKETING CON ID DE ESTA APP" class="oneline_btn" id="btn_publicitar"></a></li>
+							<li><a href="#" class="twoline_btn" id="btn_pagos"></a></li>
+						</ul>
+					</nav>
+				</div>  <!-- section_tabs -->
+
+				<div class="span10" id="content_container">
+
+
+<!--************** ******************************** ****************-->
+<!--************** SECCION ESTADISTICAS-SUSCRIPCION ****************-->
+					<div id="estadisticas_suscripcion" style="display:block">
+						<h3 class="titulo_seccion">Estadísticas de la aplicación "Regalos a María"</h3>
+						<div class="row-fluid">
+							<!-- COLUMNA 1 -->
+							<div class="span6">
+								<div class="cuadro">
+									<h4 class="titulo_cuadro">Evolucion de suscriptores de la aplicación<a href="#estadisticas_ampliadas" class="btn btn-info btn_ver_mas">VER +</a></h4>
+									
+									<table id="evolucion_suscriptores">
+										<thead>
+											<tr>
+												<th>Día</th>
+												<th>Jun 1</th>
+												<th>Jun 2</th>
+												<th>Jun 3</th>
+												<th>Jun 4</th>
+												<th>Jun 5</th>
+												<th>Jun 6</th>
+												<th>Jun 7</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<th>Suscriptores</th>
+												<td>102</td>
+												<td>110</td>
+												<td>121</td>
+												<td>145</td>
+												<td>155</td>
+												<td>169</td>
+												<td>187</td>
+											</tr>
+										</tbody>
+									</table>
+								</div> <!-- grafico -->
+							</div> <!-- span6 -->
+
+							<!-- COLUMNA 2 -->
+							<div class="span6" >
+								<div class="cuadro ultimas_campanas_box">
+									<h4 class="titulo_cuadro">Ultimas campañas operadas<a href="#listado_campañas_operadas" class="btn btn-info btn_ver_mas">VER +</a></h4>
+
+									<table id='ultimas_campanas' class="table table-striped">
+										<thead class="titulo_tabla">
+											<tr>
+												<th>FECHA LLAMADA</th>
+												<th><span class="center"># LLAMADAS</span></th>
+												<th><span class="center">FALLIDAS</span></th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">20 de Enero de 2013 (8:51 am)</a></td>
+												<td><span class="center">56</span></td>
+												<td><span class="center">2</span></td>
+											</tr>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">22 de Enero de 2013 (8:24 am)</a></td>
+												<td><span class="center">61</span></td>
+												<td><span class="center">0</span></td>
+											</tr>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">23 de Enero de 2013 (8:17 am)</a></td>
+												<td><span class="center">97</span></td>
+												<td><span class="center">1</span></td>
+											</tr>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">23 de Enero de 2013 (8:17 am)</a></td>
+												<td><span class="center">97</span></td>
+												<td><span class="center">1</span></td>
+											</tr>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">23 de Enero de 2013 (8:17 am)</a></td>
+												<td><span class="center">97</span></td>
+												<td><span class="center">1</span></td>
+											</tr>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">23 de Enero de 2013 (8:17 am)</a></td>
+												<td><span class="center">97</span></td>
+												<td><span class="center">1</span></td>
+											</tr>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">23 de Enero de 2013 (8:17 am)</a></td>
+												<td><span class="center">97</span></td>
+												<td><span class="center">1</span></td>
+											</tr>
+
+										</tbody>
+									</table>
+								</div> <!-- ultimas_campanas_box -->
+						
+							</div> <!-- span6 -->
+						</div> <!-- row-fluid -->
+					</div> <!-- estadisticas_suscripcion -->
+
+
+<!--************** ***************************** ****************-->
+<!--************** SECCION ESTADISTICAS-DIFUSION ****************-->
+					<div id="estadisticas_difusion" style="display:none">
+						<h3 class="titulo_seccion">Estadísticas de la aplicación "My bday call"</h3>
+
+						<div class="row-fluid">
+							<div class="span3 cuadro_info"><span class="numero_grande">43</span>Campañas creadas</div>
+							<div class="span3 cuadro_info"><span class="numero_grande">2.438</span>Llamadas realizadas</div>
+							<div class="span3 cuadro_info"><span class="numero_grande">1.245</span>Contactos registrados</div>
+							<div class="span3 cuadro_info"><span class="numero_grande naranja">285</span><strong>US$ ganados</strong></div>
+						</div>
+						<hr>
+						<div class="row-fluid">
+							<!-- COLUMNA 1 -->
+							<div class="span6">
+								<div class="cuadro">
+									<h4 class="titulo_cuadro">Evolucion del uso de aplicación<a href="#estadisticas_ampliadas" class="btn btn-info btn_ver_mas">VER +</a></h4>
+									
+									<table id='evolucion_uso_aplicacion'>
+										<thead>
+											<tr>
+												<th>Día</th>
+												<th>Jun 1</th>
+												<th>Jun 2</th>
+												<th>Jun 3</th>
+												<th>Jun 4</th>
+												<th>Jun 5</th>
+												<th>Jun 6</th>
+												<th>Jun 7</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<th>Usos</th>
+												<td>32</td>
+												<td>17</td>
+												<td>41</td>
+												<td>80</td>
+												<td>33</td>
+												<td>49</td>
+												<td>37</td>
+											</tr>
+										</tbody>
+									</table>
+								</div> <!-- grafico -->
+							</div> <!-- span6 -->
+
+							<!-- COLUMNA 2 -->
+							<div class="span6" >
+								<div class="cuadro" id="contenido_mas_usado_box">
+									<h4 class="titulo_cuadro">Contenido más usado<a href="#estadisticas_uso_contenido" class="btn btn-info btn_ver_mas">VER +</a></h4>
+
+									<table id='ultimas_campanas' class="table table-striped">
+										<thead class="titulo_tabla">
+											<tr>
+												<th>NOMBRE</th>
+												<th><span class="center">USOS</span></th>
+												<th><span class="center">ÚLTIMO USO</span></th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">"Cumpleaños feliz" ranchera</a></td>
+												<td><span class="center">37</span></td>
+												<td><span class="center">25/05/2013</span></td>
+											</tr>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">"Las Mañanitas" por Topo Giggio</a></td>
+												<td><span class="center">31</span></td>
+												<td><span class="center">31/03/2013</span></td>
+											</tr>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">"Cumpleaños" Diomedes Díaz</a></td>
+												<td><span class="center">27</span></td>
+												<td><span class="center">19/02/2013</span></td>
+											</tr>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">"Las mañanitas" versión ranchera</a></td>
+												<td><span class="center">27</span></td>
+												<td><span class="center">18/02/2013</span></td>
+											</tr>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">"Cumpleaños feliz" versión punk</a></td>
+												<td><span class="center">23</span></td>
+												<td><span class="center">1/02/2013</span></td>
+											</tr>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">"Cumpleaños feliz" instrumental</a></td>
+												<td><span class="center">16</span></td>
+												<td><span class="center">31/01/2013</span></td>
+											</tr>
+											<tr>
+												<td><a href="#link_al_detalle_de_la_campaña">"Feliz cumpleaños madre"</a></td>
+												<td><span class="center">12</span></td>
+												<td><span class="center">15/12/2012</span></td>
+											</tr>
+
+										</tbody>
+									</table>
+								</div> <!-- ultimas_campanas_box -->
+						
+							</div> <!-- span6 -->
+						</div> <!-- row-fluid -->
+					</div> <!-- estadisticas_suscripcion -->
+
+
+<!--************** ************************** ****************-->
+<!--************** SECCION SUSCRIPTORES-AMBAS ****************-->
+					<div id="suscriptores" style="display:none">	
+						<div class="span12">
+							<h3 class="titulo_seccion">Suscriptores de la aplicación "My bday call" <a href="#" class="btn_filtro"></a></h3>
+							<div id="filtro" style="display:none">
+								<form action="" class="form-inline">
+									Seleccionar suscriptores que tengan créditos: 
+									<select name="cbo_operador_creditos" id="cbo_cantidad_creditos" class="input-small">
+										<option value="=" selected>Igual a</option>
+										<option value="<">Menor que</option>
+										<option value=">">Mayor que</option>
+									</select>
+									<input type="text" name="cantidad_creditos" placeholder="# créditos" class="input-small" style="height:30px;">
+									<input type="button" value="FILTRAR"  class="btn" id="btn-filtrar">
+								</form>
+							</div>
+							<div id="barra_acciones" style="display:none">
+								<a href="RECARGAR" class="btn btn-warning">RECARGAR SELECCIONADOS</a>
+								<a href="BORRAR" class="btn btn-danger">BORRAR SELECCIONADOS</a>
+							</div>
+
+							<table class="table table-striped tabla_cerrada_abajo">
+								<thead class="titulo_tabla">
+									<tr>
+										<th class="center"><input type="checkbox" value="select_all" class="chk-select-all"></th>
+										<th>NOMBRE</th>
+										<th><span class="center">TELÉFONO MÓVIL</span></th>
+										<th><span class="center">CORREO ELECTRÓNICO</span></th>
+										<th><span class="center">CRÉD. DISP.</span></th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td><input type="checkbox" value="1" class="chk-select"></td>
+										<td>Amilkar Hernández</td>
+										<td style="text-align:center">(57) 311-711-8574</td>
+										<td style="text-align:center">hernandez-amilkar@gmail.com</td>
+										<td style="text-align:center">45</td>
+									</tr>
+									<tr>
+										<td><input type="checkbox" value="2" class="chk-select"></td>
+										<td>Joselo Rávago Cardona</td>
+										<td style="text-align:center">(57) 300-656-9587</td>
+										<td style="text-align:center">elquemassabedetodo@hotmail.es</td>
+										<td style="text-align:center">120</td>
+									</tr>
+									<tr>
+										<td><input type="checkbox" value="3" class="chk-select"></td>
+										<td>Martha Inés Gómez Sánchez</td>
+										<td style="text-align:center">(57) 320-458-3214</td>
+										<td style="text-align:center">marta.ines.gomez.s@yahoo.com</td>
+										<td style="text-align:center">7</td>
+									</tr>
+									<tr>
+										<td><input type="checkbox" value="4" class="chk-select"></td>
+										<td>Mauricio Lombana Trujillo</td>
+										<td style="text-align:center">(57) 317-486-8525</td>
+										<td style="text-align:center">maurolotru@soluciones-digitales.com</td>
+										<td style="text-align:center">0</td>
+									</tr>
+									<tr>
+										<td><input type="checkbox" value="5" class="chk-select"></td>
+										<td>Jaime Alonso Pulgarín</td>
+										<td style="text-align:center">(57) 310-100-0254</td>
+										<td style="text-align:center">jpulgarin@universidadregional.edu</td>
+										<td sty	le="text-align:center;color:red">-16</td>
+									</tr>
+									<tr>
+										<td><input type="checkbox" value="6" class="chk-select"></td>
+										<td>Leidy Dayana Morales Pino</td>
+										<td style="text-align:center">(57) 315-666-9654</td>
+										<td style="text-align:center">leidydayana0912@topmodels.com.co</td>
+										<td style="text-align:center">112</td>
+									</tr>
+									<tr>
+										<td><input type="checkbox" value="7" class="chk-select"></td>
+										<td>Amilkar Hernández</td>
+										<td style="text-align:center">(57) 311-711-8574</td>
+										<td style="text-align:center">hernandez-amilkar@gmail.com</td>
+										<td style="text-align:center">34</td>
+									</tr>
+									<tr>
+										<td><input type="checkbox" value="8" class="chk-select"></td>
+										<td>Joselo Rávago Cardona</td>
+										<td style="text-align:center">(57) 300-656-9587</td>
+										<td style="text-align:center">elquemassabedetodo@hotmail.es</td>
+										<td style="text-align:center">8</td>
+									</tr>
+									<tr>
+										<td><input type="checkbox" value="9" class="chk-select"></td>
+										<td>Martha Inés Gómez Sánchez</td>
+										<td style="text-align:center">(57) 320-458-3214</td>
+										<td style="text-align:center">marta.ines.gomez.s@yahoo.com</td>
+										<td style="text-align:center">755</td>
+									</tr>
+									<tr>
+										<td><input type="checkbox" value="10" class="chk-select"></td>
+										<td>Mauricio Lombana Trujillo</td>
+										<td style="text-align:center">(57) 317-486-8525</td>
+										<td style="text-align:center">maurolotru@soluciones-digitales.com</td>
+										<td style="text-align:center">32</td>
+									</tr>
+								</tbody>
+							</table>
+							<div class="pagination pagination-centered">
+							  <ul>
+							    <li><a href="#">Anterior</a></li>
+							    <li><a href="#">1</a></li>
+							    <li><a href="#">2</a></li>
+							    <li><a href="#">3</a></li>
+							    <li><a href="#">4</a></li>
+							    <li><a href="#">5</a></li>
+							    <li><a href="#">Siguiente</a></li>
+							  </ul>
+							</div> <!-- pagination -->
+
+						</div> <!-- span12 -->
+					</div> <!-- suscriptores -->
+
+
+
+<!--************** ***************************** ****************-->
+<!--************** BIBLIOTECA DE CONTENIDOS-AMBAS ***************-->
+					<div id="biblioteca" style="display:none">
+						<h3 class="titulo_seccion">Biblioteca de contenidos para "Llamadas JAJA"</h3>
+						<div class="row-fluid">	
+							<!-- COLUMNA 1 LISTA DE CONTENIDOS -->
+							<div class="span7">
+								<h4>Contenidos que tendrá disponible el usuario</h4>
+								<table class="table table-striped table-condensed tabla_cerrada_abajo">
+									<thead class="titulo_tabla">
+										<tr>
+											<th class="center"><input type="checkbox" value="select_all"></th>
+											<th>NOMBRE</th>
+											<th><span class="center">ACCIÓN</span></th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><input type="checkbox" value="1"></td>
+											<td>Chiste "Lagartijas amarillas"</td>
+											<td style="text-align:center">
+												<a href="#editar_nombre" class="btn_editar"></a>
+												<a href="#play" class="btn_play"></a>
+												<a href="#borrar" class="btn_borrar"></a>
+											</td>
+										</tr>
+										<tr>
+											<td><input type="checkbox" value="1"></td>
+											<td>Chiste "Juanito en la tienda"</td>
+											<td style="text-align:center">
+												<a href="#editar_nombre" class="btn_editar"></a>
+												<a href="#play" class="btn_play"></a>
+												<a href="#borrar" class="btn_borrar"></a>
+											</td>
+										</tr>
+										<tr>
+											<td><input type="checkbox" value="1"></td>
+											<td>Chiste "El globo saltador"</td>
+											<td style="text-align:center">
+												<a href="#editar_nombre" class="btn_editar"></a>
+												<a href="#play" class="btn_play"></a>
+												<a href="#borrar" class="btn_borrar"></a>
+											</td>
+										</tr>
+										<tr>
+											<td><input type="checkbox" value="1"></td>
+											<td>Risas pregrabadas, volumen bajo</td>
+											<td style="text-align:center">
+												<a href="#editar_nombre" class="btn_editar"></a>
+												<a href="#play" class="btn_play"></a>
+												<a href="#borrar" class="btn_borrar"></a>
+											</td>
+										</tr>
+										<tr>
+											<td><input type="checkbox" value="1"></td>
+											<td>Risas grabadas, volumen alto</td>
+											<td style="text-align:center">
+												<a href="#editar_nombre" class="btn_editar"></a>
+												<a href="#play" class="btn_play"></a>
+												<a href="#borrar" class="btn_borrar"></a>
+											</td>
+										</tr>
+										<tr>
+											<td><input type="checkbox" value="1"></td>
+											<td>Chiste "Jaimito, presumo"</td>
+											<td style="text-align:center">
+												<a href="#editar_nombre" class="btn_editar"></a>
+												<a href="#play" class="btn_play"></a>
+												<a href="#borrar" class="btn_borrar"></a>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+								<div class="pagination pagination-centered">
+								  <ul>
+								    <li><a href="#">Anterior</a></li>
+								    <li><a href="#">1</a></li>
+								    <li><a href="#">2</a></li>
+								    <li><a href="#">Siguiente</a></li>
+								  </ul>
+								</div> <!-- pagination -->
+							</div> <!-- SPAN7 -->
+	
+							<!-- COLUMNA 2 TABS DE GENERACION DE CONTENIDOS -->
+							
+
+							
+							<div class="span5">
+								<h4>Crear nuevos contenidos</h4>
+								<div class="tabbable tabs-left tabbable-bordered"> 
+									<!-- TABS -->
+									<ul class="nav nav-tabs">
+										<li class="active"><a href="#tab_narrar" data-toggle="tab"><img src="../../assets/img/ico-text-2-speech-24.png" data-toggle="tooltip" title="first tooltip"></a></li>
+									   <li><a href="#tab_subir" data-toggle="tab"><img src="../../assets/img/ico-upload-audio-24.png" alt=""></a></li>
+									   <li><a href="#tab_grabar" data-toggle="tab"><img src="../../assets/img/ico-rec-audio-24.png" alt=""></a></li>
+									   <!-- <li><a href="#tab_seleccionar" data-toggle="tab"><img src="../../assets/img/ico-choose-audio-24.png" alt=""></a></li> -->
+									</ul>
+
+								  	<!-- CONTENIDO DE LOS TABS -->
+								  	<div class="tab-content">
+								  		<!-- TAB DE NARRAR AUDIO *TEXT TO SPEECH* -->
+								   	<div class="tab-pane active" id="tab_narrar">
+								      	<p>Escribe el mensaje que quieres narrar:</p>
+								      	<form action="GUARDAR_TXT_TO_SPEECH">
+								      		<textarea name="txt_2_speech" id="txt_2_speech" class="input-block-level"></textarea>
+												<select name="cbo_voz" id="cbo_voz" class="input-block-level">
+													<option value="0" disabled="" selected="">VOZ</option>
+													<option value="1">Céline FR</option> 
+													<option value="2">Mathieu FR</option> 
+													<option value="3">Miguel ES</option> 
+													<option value="4">Penélope ES</option> 
+													<option value="5">Ricardo BR</option> 
+													<option value="6">Vitória BR</option> 
+													<option value="7">Salli EN</option> 
+													<option value="8">Joey EN</option> 
+													<option value="9">Mary EN</option> 
+													<option value="10">Mike EN</option> 
+													<option value="11">Sam EN</option> 
+												</select>
+												<a class="input-block-level" style="text-align:center" href="http://kka.to/kkatoo_v02/apps/voice_view">Ejemplo de las voces</a>
+												<input type="button" value="GUARDAR NARRACION" class="btn btn-block btn-warning" >
+								      	</form>
+								    	</div>
+
+								    	<!-- TAB DE SUBIR AUDIO -->
+								    	<div class="tab-pane" id="tab_subir">
+
+											<div id="dropdiv-small">
+												<form>
+		                                	<div class="initial-audio-upload">
+		                                   	<a href="javascript:void(0);">
+		                                   	<label class="cabinet"> 
+		                                    	<input type="file" class="file"  name="Filedata" data-context="dropdiv-small" accept="audio/mp3" />
+		                                   	</label>
+		                                   	</a>
+								     				</div>
+		                                
+		                                	<!-- <div class="fakeupload">
+		                                		<img src="../../../assets/img/ico-audio-generic-medium.png" />
+		                                		<p><a href="javascript:void(0)"></a><?php echo $this->lang->line('remplaceaudio'); ?>:<span></span></p>
+		                                		<input type="submit" id="subir-audio" class="btn" value="SUBIR AUDIO" />
+		                                	</div> -->
+		                                
+		                           	 	<!-- <input type="file" name="Filedata" /> -->
+				                     		<input type="hidden" name="id_campaign"  value="<?php echo $id_campaign; ?>" />
+				                     		<input type="hidden" name="arbol" value="" class="uploadsmall-arbol" />
+		                           	</form>
+		                           	
+		                              <span class="msg" id="msg-upload">Selecciona un archivo para subir</span>
+		                           </div> <!-- dropdiv-small -->
+		                           
+		                           <div id="upload-audio">
+		                           	Debes ser propietario de los derechos de autor o tener permiso de usar el contenido que subas. <br><a href="#MAS INFORMACION">Más información</a>
+		                           </div>
+
+								    	</div>
+
+								    	<!-- TAB DE GRABAR AUDIO -->
+								     	<div class="tab-pane" id="tab_grabar">
+								      	<object width="285" height="265" type="application/x-shockwave-flash" data="../../assets/swf/kkatoo-audio-recorder_small.swf">
+		                              <param name="movie" value="../../assets/swf/kkatoo-audio-recorder_small.swf" />
+		                              <param name="quality" value="high" />
+		                              <param name="wmode" value="" />
+		                           </object>
+								    	</div>
+
+								    	<!-- TAB DE SELECCIONAR AUDIO -->
+								    	<!-- <div class="tab-pane" id="tab_seleccionar">
+								      	<p>Howdy, I'm in Section 4.</p>
+								    	</div> -->
+								  	</div> <!-- tab-content -->
+								</div> <!-- tabbable -->
+
+							</div> <!-- span5 -->
+						</div> <!-- row-fluid -->
+					</div> <!-- biblioteca -->
+
+
+<!--************** ***************************** ***************-->
+<!--************** OPERAR APLICACION-SUSCRIPCION ***************-->
+					<div id="operar">
+							<!-- LINK DIRECTO AL PASO 1/2/3 DE ESTA APLICACION -->
+					</div>
+
+<!--************** ***************************** ***************-->
+<!--************** EDITAR APLICACION-SUSCRIPCION ***************-->
+					<div id="editar">
+							<!-- LINK DIRECTO AL WIZARD DE ESTA APLICACION -->
+					</div>	
+
+<!--************** ********************************* ***************-->
+<!--************** PUBLICITAR APLICACION-SUSCRIPCION ***************-->
+					<div id="publicitar">
+							<!-- LINK DIRECTO A FONOMARKETING LLEVANDO INFO DE ESTA APLICACION -->
+					</div>	
+
+<!--************** ******************************************** ***************-->
+<!--************** GESTIONAR PAGOS DE LA APLICACION-SUSCRIPCION ***************-->
+					<div id="gestionar_pagos"  style="display:none">
+						<h3 class="titulo_seccion">Gestionar pagos para "Llamadas JAJA"</h3>
+						<p>Actualmente, por el uso de esta aplicación tienes un saldo pendiente por redimir de <strong>US$250</strong>. Como acumulado de todas las aplicaciones de las cuales eres dueño, tienes <strong>US$480</strong> pendientes por redimir. Puedes dacer una de dos cosas con este saldo:</p>
+						<ol>
+							<li>Convertirlo en créditos para ser usado en tus aplicaciones. Tanto las que creas como las que usas (de todas formas siempre podrás redimirlos cuando quieras).</li>
+							<li>Redimirlo para que te sea consignado en una cuenta a tu nombre (todos los costos generados corren por tu cuenta).</li>
+						</ol>
+						<p>A continuación selecciona cuál de las dos anteriores acciones deseas hacer:</p>
+
+						<!-- ACORDEON PARA LA PARTE DE REDIMIR PAGOS -->
+						<div class="accordion" id="accordion2">
+						  <div class="accordion-group">
+						    <div class="accordion-heading">
+						      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+						        Sumar saldo a mis créditos 
+						      </a>
+						    </div>
+						    <div id="collapseOne" class="accordion-body collapse">
+						      <div class="accordion-inner">
+						        <button class="btn sumar-uno input-block-level span6">Sumar US$250 </button><button class="btn sumar-todo span6">Sumar US$480</button><br /><br />
+						      </div>
+						    </div>
+						  </div>
+
+						  <div class="accordion-group">
+						    <div class="accordion-heading">
+						      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+						        Redimir saldo a mi cuenta bancaria
+						      </a>
+						    </div>
+						    <div id="collapseTwo" class="accordion-body collapse">
+						      <div class="accordion-inner">
+						        <p>Por favor selecciona el banco al cual pertenece tu cuenta y a continuación escribe el número de la misma. Recuerda que cualquier cargo que la entidad bancaria aplique por cualquier concepto, debe ser asumido por ti.</p>
+									<form action="" class="form-inline">
+										<select name="bancos" id="bancos">
+											<option value="bancolombia">Bancolombia</option>
+											<option value="citibank">Citi Bank</option>
+											<option value="grupoaval">Grupo Aval</option>
+											<option value="bancoagrario">Banco Agrario</option>
+											<option value="davivienda">Davivienda</option>
+										</select>
+										<input type="text" id="num-cuenta" name="num_cuenta" placeholder="# DE CUENTA" style="height:30px;">
+										<select name="bancos" id="a-redimir">
+											<option value="250">US$ 250</option>
+											<option value="480">US$ 480</option>
+										</select>
+									</form>
+									<button class="btn redimir">REDIMIR A MI CUENTA</button>
+						      </div>
+						    </div> <!-- collapseTwo -->
+						  </div>  <!-- accordion-group -->
+
+						</div>  <!-- accordion2 -->
+					</div>	<!-- gestionar_pagos -->	 				
+
+				</div> <!-- content_container -->
+			</div> <!-- app_container -->					
+			
+
+	<!-- LE JAVASCRIPT -->
+	<script src="../../assets/js/vendor/jquery-1.8.3.min.js"></script>
+	<script src="../../assets/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+   <script type="text/javascript" src="../../assets/js/jquery.gvChart-1.1.min.js"></script>
+   <script src="../../assets/js/si.files.js"></script> <!-- para la subida de archivos -->
+
+	<script>
+		//INICIALIZACION GRAFICOS ESTADISTICOS
+		gvChartInit();
+ 	</script>
+
+   <script>
+		//INICIALIZACION GESTOR DE UPLOADS
+		SI.Files.stylizeAll();
+
+		/********************************************************
+		** SCRIPTS PARA PERSONALIZAR LOS GRÁFICOS ESTADÍSTICOS
+		********************************************************/
+     	$('#evolucion_suscriptores').gvChart({
+			chartType: 'ColumnChart',
+			gvSettings: {
+				vAxis: {title: 'Suscriptores'},
+				// hAxis: {title: 'Mes'},
+				width: '100%',
+				height: 300,
+				backgroundColor: 'transparent',
+				left: 300,
+				top: 0,
+				fontName:'Open sans',
+				chartArea:{left:'13%',top:'13%',width:"80%",height:"75%"},
+				legend:{position: 'none'},
+				colors:['#ffad31','#494949', '#747474', '#c7c7c7']
+			},
+		});
+		$('#evolucion_uso_aplicacion').gvChart({
+			chartType: 'ColumnChart',
+			gvSettings: {
+				vAxis: {title: 'Usos de la aplicación'},
+				// hAxis: {title: 'Mes'},
+				width: '100%',
+				height: 300,
+				backgroundColor: 'transparent',
+				left: 300,
+				top: 0,
+				fontName:'Open sans',
+				chartArea:{left:'13%',top:'13%',width:"80%",height:"75%"},
+				legend:{position: 'none'},
+				colors:['#ffad31','#494949', '#747474', '#c7c7c7']
+			},
+		});
+
+
+
+		/****************************************************
+		* SCRIPT PARA QUE FUNCIONEN LOS CHECKBOXES BIEN
+		****************************************************/
+		var bgcolor="";
+
+		/*******************************************************************/
+		/* FUNCION PARA QUE SE RESALTE UNA FILA AL SELECCIONAR EL CHECKBOX */
+		/*******************************************************************/
+		var selecteds = 0;
+		function resaltar_fila (checkbox) {
+			if($(checkbox).is(":checked")) {
+				//prendo barra de acciones
+				$("#barra_acciones").css("display", "");
+				//cambia color
+				bgcolor= $(checkbox).parent().css('background-color');
+				$(checkbox).parent().css("background-color","#ffefd1");
+				$(checkbox).parent().siblings().css("background-color","#ffefd1");
+				selecteds += 1;
+				//pregunto si están todos seleccionados para activar el select all	
+				var all = $('.chk-select').size()
+				if (selecteds == all) {
+					alert ("es igual");
+					$(".chk-select-all").attr("checked", "checked");
+				}
+			} else {
+				//remuevo el checked al select all
+				$(".chk-select-all").removeAttr("checked");
+				//apago, si fuera necesario, barra de acciones
+	        	if (selecteds <= 0) {
+	        		$("#barra_acciones").css("display", "none");	
+	        	} 
+	        	//cambia color
+				$(checkbox).parent().css("background-color", bgcolor);
+				$(checkbox).parent().siblings().css("background-color", bgcolor);
+				selecteds -= 1;
+			}
+		}
+
+		function resaltar_all_filas (checkbox) {
+			if($(checkbox).is(":checked")) {
+				//prendo barra de acciones
+				$("#barra_acciones").css("display", "");
+				//prendo los check que no están prendidos
+				$(".chk-select:checkbox:not(:checked)").attr("checked", "checked")
+				//cambia color
+				bgcolor= $(".chk-select").parent().css('background-color');
+				$(".chk-select").parent().css("background-color","#ffefd1");
+				$(".chk-select").parent().siblings().css("background-color","#ffefd1");
+				selecteds = $('input:checkbox:checked').size() - 1;
+			} else {
+				//apago barra de acciones
+				$("#barra_acciones").css("display", "none");
+				//remuevo checked a los checboxes
+				$(".chk-select:checkbox:checked").removeAttr("checked");
+				//cambio color
+				$(".chk-select").parent().css("background-color", bgcolor);
+				$(".chk-select").parent().siblings().css("background-color", bgcolor);
+				selecteds = 0;
+			}
+		}
+
+		/* ACTIVAR LA SELECCIÓN DE FILAS UNA POR UNA */
+		$(".chk-select").click(function(event) {
+		   resaltar_fila (this);
+		   // $(".check-all:checkbox:checked").removeAttr("checked");
+		})
+
+		/* ACTIVAR LA SELECCIÓN DE TODAS LAS FILAS UNA POR UNA */
+		$(".chk-select-all").click(function(event){
+		   resaltar_all_filas(this);
+		});
+
+		/***FUNCION PARA CAMBIAR EL DIV DE LAS OPCIONES DE CONTACTOS EN EL CONTACT-MANAGER *****/
+		function cambiarAccion(metodo){
+		$(".action-options").hide();
+		$("#"+ metodo + "_options").show();
+		}
+
+
+
+
+	//CUANDO SE TERMINE DE CARGAR LA PÁGINA
+	$(document).ready(function($){
+		/********************************************************
+		** SCRIPTS PARA NAVEGAR EN LAS SECCIONES DE LA PAGINA
+		********************************************************/
+		$("#btn_estadisticas").on('click', function(event){
+			$("#gestionar_pagos").css("display", "none");
+			$("#suscriptores").css("display", "none");
+			$("#biblioteca").css("display", "none");
+			$("#estadisticas_suscripcion").css("display", "");
+		});
+
+		$("#btn_suscriptores").on('click', function(event){
+			$("#gestionar_pagos").css("display", "none");
+			$("#suscriptores").css("display", "");
+			$("#biblioteca").css("display", "none");
+			$("#estadisticas_suscripcion").css("display", "none");
+		});
+		$("#btn_biblioteca").on('click', function(event){
+			$("#gestionar_pagos").css("display", "none");
+			$("#suscriptores").css("display", "none");
+			$("#biblioteca").css("display", "");
+			$("#estadisticas_suscripcion").css("display", "none");
+		});
+
+		$("#btn_operar").on('click', function(event){
+			//COLOCAR LINK AL 123
+		});
+
+		$("#btn_editar").on('click', function(event){
+			//COLOCAR LINK AL WIZARD
+		});
+
+		$("#btn_publicitar").on('click', function(event){
+			//COLOCAR LINK A FONOMARKETING
+		});
+
+		$("#btn_pagos").on('click', function(event){
+			$("#gestionar_pagos").css("display", "");
+			$("#suscriptores").css("display", "none");
+			$("#biblioteca").css("display", "none");
+			$("#estadisticas_suscripcion").css("display", "none");
+		});
+
+
+		/********************************************************
+		** SCRIPT PARA PRENDER Y APAGAR EL FILTRO
+		********************************************************/
+		var flag = 0;
+
+		$(".btn_filtro").on('click', function(event){
+			if(flag == 0) {
+				$("#filtro").css("display", "");	
+				flag = 1;
+			} else {
+				$("#filtro").css("display", "none");	
+				flag = 0;
+			}
+		});
+
+	});
+
+    
+	</script>
+</body>
+
+</html>

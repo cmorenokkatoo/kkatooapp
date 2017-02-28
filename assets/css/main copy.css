@@ -1,0 +1,857 @@
+/*
+ * HTML5 Boilerplate
+ *
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../font/fontawesome-webfont.eot');
+  src: url('../font/fontawesome-webfont.eot?#iefix') format('embedded-opentype'),
+     url('../font/fontawesome-webfont.woff') format('woff'),
+     url('../font/fontawesome-webfont.ttf') format('truetype'),
+     url('../font/fontawesome-webfont.svg#FontAwesome') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-family: "FontAwesome", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	color: #333;
+}
+
+/*
+ * Remove text-shadow in selection highlight: h5bp.com/i
+ * These selection declarations have to be separate.
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+/*
+ * Remove the gap between images and the bottom of their containers: h5bp.com/i/440
+ */
+
+img {
+    vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
+}
+
+/* ==========================================================================
+   Chrome Frame prompt
+   ========================================================================== */
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+header{
+	border-bottom: 2px solid #FEAF00;
+	height:auto;
+    width: 100%;
+}
+header img{
+	 left: 3%;
+    position: relative;
+    top: 0.5em;
+}
+header nav ul{
+	border: medium none;
+    display: block;
+    list-style: none outside none;
+    margin: 0;
+    padding:0em 4em;
+    text-align: right;
+}
+header nav ul li a{
+	display: block;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	letter-spacing: 1px;
+	padding: 0.5em;
+	color: #777;
+	text-decoration: none;
+	text-shadow: 0 1px 0 white;
+}
+header nav ul li a:hover{
+	color: #333333;
+	text-decoration: none;
+	background-color: transparent;	
+}
+header nav ul li{
+	display:inline-block;	
+}
+.background-gradient1{
+	background: #ffffff; /* Old browsers */
+	background: -moz-linear-gradient(top, #ffffff 0%, #e7e7e7 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e7e7e7)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #ffffff 0%,#e7e7e7 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #ffffff 0%,#e7e7e7 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #ffffff 0%,#e7e7e7 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #ffffff 0%,#e7e7e7 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e7e7e7',GradientType=0 ); /* IE6-9 */	
+}
+section#contenido{
+	display: block;
+	width: 100%;
+	text-align: center;
+	background-color: #E7E7E7;
+}
+h3{
+	font-size: 2em;
+	font-family: 'Merriweather', serif;
+	color: #000000;
+	text-align: center;
+	margin:0; 
+	padding:0.5em;
+}
+h4{
+	font-size: 1.21em;
+	font-family: 'Open Sans', sans-serif;
+	color: #000000;
+	text-align: center;
+	margin:0; 
+	padding:0.3em;
+}
+section#contenido article img{display: block;margin: 0 auto;}
+section#contenido article {
+	display: inline-block;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    position: relative;
+    vertical-align: top;
+    width: 380px;
+}
+section#contenido article a.link{
+    border-right: 1px solid #DDDDDD;
+    display: block;
+    height: 93%;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 99%;
+}
+section#contenido article a.link:hover {
+	background-color: rgba(255, 255, 255, 0.2);
+	border: 1px dashed #CCC;
+}
+
+section#contenido .title{
+	font-weight: lighter;
+	letter-spacing: 1px;
+	line-height: 22px;
+}
+section#contenido .subtitle{
+	font-weight: 300;
+	letter-spacing: 1px;
+	text-align: center;	
+	margin: 0;
+	padding: 0;
+}
+section#contenido .descripcion{
+	color: #555;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.2em;
+	font-weight: 300;
+	margin-top: 25px;	
+}
+section#contenido .step{
+	display: inline-block;
+	vertical-align:top;
+	width:115px;
+}
+.step_copy {
+	color: #777;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 0.85em;
+	font-weight: 400;
+	line-height: 14px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+/******************************************* VUELTA DE LOGIN *************************************************/
+.ventana {
+	border-radius: 0px 0px 0px 0px;
+	border: 0px solid red;
+	padding-bottom: 1em;
+	margin:0 auto;
+}
+.ventana .widgetloginhome {
+border: 0px;
+padding: 3em;
+}
+.manual_login {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0;
+	text-align:left;
+	-webkit-box-shadow:  2px 0px 10px 0px rgba(0, 0, 0, 0.7);
+	box-shadow:  2px 0px 10px 0px rgba(0, 0, 0, 0.7);
+	padding:1em;
+}
+.manual_login .title {
+border-bottom: 1px solid #DDD;
+font-family: 'Open Sans', sans-serif;
+font-size: 24px;
+font-weight: 300;
+letter-spacing: 3px;
+padding-bottom: 12px;
+text-align:center;
+}
+.manual_login .formulario {
+margin-top: 23px;
+}
+.control-group {
+margin-bottom: 10px;
+}
+input{
+	-webkit-box-shadow: inset 0px 0px 10px rgba(150, 150, 150, 0.5);
+	box-shadow: inset 0px 0px 10px rgba(150, 150, 150, 0.5);
+	background-color: white;
+	border-radius: 0px 0px 0px 0px;
+	border: 1px solid #CCC;
+	box-shadow: inset 0px 0px 5px 5px rgba(200, 200, 200, 0.1);
+	height: 37px;
+	padding-left:10px;
+	color:#4c4a4a;
+	width:96%;
+}
+.login_links{text-align:left;}
+.login_links a{
+	color: #08C;
+	text-decoration: none;
+	text-align:left;
+}
+.manual_login .login_links {
+font-family: 'Open Sans', sans-serif;
+font-size: 14px;
+margin: 10px 0 0 0px;
+}	
+.social_login {
+border: 0px solid red;
+margin-left: 1em;
+margin-top: 3em;
+text-align: center;
+display: inline-block;
+vertical-align: top;
+}
+.social_login .copyingresar {
+color: #AAA;
+font-family: 'Open Sans', sans-serif;
+font-size: 12px;
+margin-bottom: 6px;
+margin-left: auto;
+text-transform: uppercase;
+}
+.social_login .btn_login_social {
+margin-left: auto;
+margin-right: auto;
+margin-top: 6px;
+}
+
+.btn_login{
+	  background: url("../img/flecha_btn.png") no-repeat scroll 0 0 transparent;
+    float: right;
+    height: 37px;
+    margin: 2px 0 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    width: 34px;
+	border: none;	
+}
+
+.txt_password{
+display: inline-block;
+vertical-align: middle;width:82%;}
+/******************************************* TERMINA VUELTA DE LOGIN *************************************************/
+
+
+
+section#revistas{
+	width:100%;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	
+	
+	background: #3d4047; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzNkNDA0NyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjYlIiBzdG9wLWNvbG9yPSIjMzY4NmExIiBzdG9wLW9wYWNpdHk9IjEiLz4KICAgIDxzdG9wIG9mZnNldD0iOTMlIiBzdG9wLWNvbG9yPSIjMzY4NmExIiBzdG9wLW9wYWNpdHk9IjEiLz4KICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzNkNDA0NyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+	background: -moz-linear-gradient(top,  #3d4047 0%, #3686a1 6%, #3686a1 93%, #3d4047 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3d4047), color-stop(6%,#3686a1), color-stop(93%,#3686a1), color-stop(100%,#3d4047)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #3d4047 0%,#3686a1 6%,#3686a1 93%,#3d4047 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #3d4047 0%,#3686a1 6%,#3686a1 93%,#3d4047 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #3d4047 0%,#3686a1 6%,#3686a1 93%,#3d4047 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #3d4047 0%,#3686a1 6%,#3686a1 93%,#3d4047 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3d4047', endColorstr='#3d4047',GradientType=0 ); /* IE6-8 */
+
+}
+.review_block{
+	width: 380px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0.4em;
+}
+.review_contents {
+	margin-left: 0;
+	vertical-align: top;
+}
+.review_contents .img {
+	float: left;
+}
+.review_contents .triangle {
+	float: left;
+	margin-top: 20px;
+}
+.review_contents .description {
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background: url("../img/review_open_quotes.png") no-repeat 2% 5%, url("../img/review_close_quotes.png") no-repeat 98% 95%;
+	background-color: white;
+	border-radius: 5px;
+	color: #59879F;
+	display: inline-block;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 16px;
+	padding: 10px 10px 10px 30px;
+	text-align: left;
+	width: 267px;
+}
+
+footer{
+	text-align:center;
+	background-color: #3D4046;
+	box-shadow: 0px -2px 15px #122B34;
+	height: 190px;	
+}
+footer .title {
+	color: #ECEBEE;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	font-weight: 300;
+	letter-spacing: 2px;
+	padding-top: 14px;
+}
+footer img{display:inline-block;}
+footer .credits {
+	color: #888;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	font-weight: 300;
+	margin-left: 1em;
+	margin-right: 1em;
+	text-align: center;
+	padding-top:1em;
+}
+footer a{color: #08C;text-decoration: none;}
+footer a:hover{color: #005580;text-decoration: underline;}
+
+
+
+
+/** CAROUSEL **/
+section#slider{
+	background-image: url('../img/bk_hero_kkatoo.jpg');
+	background-repeat:repeat-x;	
+}
+.carousel {
+	margin-bottom:0 !important;
+}
+.interna-item{
+	width: 960px;
+	height: auto;
+	vertical-align: bottom;
+	padding-top: 30px;
+}
+.img-item{
+	position:relative;
+	width: 460px;
+	height: auto;
+	margin-left: 10px;
+	margin-right: 10px;
+	vertical-align: bottom;
+	display: inline-block;	
+}
+.img-item iframe{
+	top: 12px;
+	position: absolute;
+	left: 76px;	
+}
+.img-item img{
+	width:100%;
+	height:auto;	
+}
+.text-item{
+	position:relative;
+	width: 405px;
+	height: auto;
+	margin-left: 10px;
+	vertical-align: bottom;
+	display: inline-block;
+	padding-left: 20px;
+	margin-bottom: 20px;
+}
+.item{
+	width: 960px;
+	margin: 0 auto;	
+}
+.item h2.title{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 67px;
+	font-weight: 400;
+	letter-spacing: -6px;
+	margin: 0;
+	text-shadow: 0px 2px 0px #111;
+	text-transform: uppercase;
+}
+.item h3.subtitle{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	text-shadow: 0px 2px 0px #111;
+	text-transform: uppercase;
+	text-align: left;
+	margin: 0;
+	padding: 0;
+}
+.item h3.details{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 41px;
+	letter-spacing: -1px;
+	margin: 0;
+	text-shadow: 0px 2px 0px #111;
+	text-transform: uppercase;
+	text-align: left;
+	padding: 0;
+}
+.text-item p {
+	color: #ECEBEE;
+	font-family: 'Merriweather', serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 20px 0px;
+}
+
+/***  BOTON ****/
+
+.btn {
+	display: inline-block;
+	padding: 4px 14px;
+	margin-bottom: 0;
+	font-size: 14px;
+	line-height: 20px;
+	color: #333;
+	text-align: center;
+	text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+	vertical-align: middle;
+	cursor: pointer;
+	filter: progid:dximagetransform.microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);
+	filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+	-webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+	-moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+.btn:hover
+{
+	color: #333333;
+	text-decoration: none;
+	background-color: #E6E6E6;
+	=background-color: #D9D9D9;
+	/*Buttons in IE7 don't get borders, so darken on hover*/
+	background-position: 0 -15px;
+	-webkit-transition: background-position 0.1s linear;
+	-moz-transition: background-position 0.1s linear;
+	-o-transition: background-position 0.1s linear;
+	transition: background-position 0.1s linear;
+}
+.btn:hover, .btn:active, .btn.active, .btn.disabled, .btn[disabled]
+{
+	color: #333333;
+	background-color: #E6E6E6;
+	=background-color: #D9D9D9;
+}
+.btn-warning:hover, .btn-warning:active, .btn-warning.active, .btn-warning.disabled, .btn-warning[disabled]
+{
+	color: #FFFFFF;
+	background-color: #F89406;
+	=background-color: #DF8505;
+}
+.btn-warning {
+	color: white;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	background-color: #FAA732;
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#FBB450), to(#F89406));
+	background-image: -webkit-linear-gradient(top, #FBB450, #F89406);
+	background-image: -o-linear-gradient(top, #FBB450, #F89406);
+	background-image: linear-gradient(to bottom, #FBB450, #F89406);
+	background-image: -moz-linear-gradient(top, #FBB450, #F89406);
+	background-repeat: repeat-x;
+	border-color: #F89406 #F89406 #AD6704;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	filter: progid:dximagetransform.microsoft.gradient(startColorstr='#fffbb450', endColorstr='#fff89406', GradientType=0);
+	filter: progid:dximagetransform.microsoft.gradient(enabled=false);
+}
+.btn-large
+{
+	padding: 9px 14px;
+	font-size: 16px;
+	line-height: normal;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	left: 0%;
+	position: relative;
+}
+.text-item .btn_free_proof {
+	font-family: "Open Sans", sans-serif;
+	font-size: 19px;
+	font-weight: 700;
+	height: 54px;
+	letter-spacing: -1px;
+	text-shadow: 0px -1px 0px #A4813C;
+	text-transform: uppercase;
+	width: 335px;
+	float: right; 
+}
+.text-item .action_arrow{
+	background-image: url("../img/flecha.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 29px;
+	margin-left: 14px;
+	text-indent: -9999px;
+	width: 18px;
+}
+
+
+.carousel-control.right {
+	left: auto;
+	right:4px !important;
+	background-image: url("../img/slider-right-arrow-normal.png");
+}
+.carousel-control.left {
+	left:-2px;
+	background-image: url("../img/slider-left-arrow-normal.png");
+}
+
+
+/**	  MENSAJES  **/
+.mensajes{
+	
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	padding-top: 15px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: auto;
+	width: 100%;
+	padding-bottom: 12px;
+	z-index: 999;	
+}
+.exito{background: #ABD8B7;}
+.error{background-color: rgb(250, 255, 189);}
+.mensaje{
+	display: block;
+	margin-left: 4.5%;
+	font-size: 14px;
+	font-weight: 500;
+	letter-spacing: 0;
+	color: #000000;
+}
+.titulo-mensaje{
+	font-weight: bolder;
+	font-size: 20px;
+	margin-left: 3%;
+}
+.exito .titulo-mensaje{color: #036905;}
+.error .titulo-mensaje{color: #FCBA41;}
+.mensajes .cerrar{
+	position: absolute;
+	font-size: 18px;
+	font-weight: bolder;
+	top: 20px;
+	right: 30px;
+}
+.mensajes .cerrar a{
+	text-decoration:none;
+	color: black;
+}
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Image replacement
+ */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    /* IE 6/7 fallback */
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 100%;
+}
+
+/*
+ * Hide from both screenreaders and browsers: h5bp.com/u
+ */
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+/*
+ * Hide only visually, but have it available for screenreaders: h5bp.com/v
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p
+ */
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/*
+ * Hide visually and from screenreaders, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   Theses examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+@media only screen and (min-width: 1px ) and (max-width: 960px){
+	section#slider{
+		visibility:hidden;
+		display:none;
+	}
+}
+
+@media only screen and (min-width: 480px ) and (max-width: 929px){
+    body{font-size:14px;}
+	header nav ul{padding:1em 4em;}
+}
+
+@media only screen and (max-width: 480px){
+     body{font-size:14px;}
+	 header nav ul{padding:1em 0;}
+	 header nav ul li{display:block;text-align:center;}
+	 .review_block{width:90%;}
+	.review_contents .triangle{display:none;visibility:hidden;}
+	.review_contents .description{width:55%;}
+}
+@media only screen and (max-width: 320px){
+	section#contenido article{width:100%;}
+	.review_block{width:90%;}
+	.review_contents .triangle{display:none;visibility:hidden;}
+	.review_contents .description{width:55%;}
+	header nav ul{padding:1em 0;}
+	header nav ul li{display:block;text-align:center;}
+	.manual_login{width:100%;margin:0;}
+	input{width:96% !important;}
+	.btn_login{width: 100%; display:block;}
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}

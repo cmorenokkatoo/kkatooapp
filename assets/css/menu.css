@@ -1,0 +1,256 @@
+/* el menú en si mismo */
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,500);
+
+.dd-menu  {
+    display: block;
+    list-style-type: none;
+    position: relative !important;
+    z-index: 1000 !important;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+/* cada item del menu */
+.dd-menu li {
+    display: inline-block;
+	vertical-align:top;
+    height: 40px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+/* link de cada item del menu horizontal */
+.dd-menu li a {
+    height: 20px;/**/
+    color: #666;
+    display: block;
+    font-size: 14px;
+    padding: 10px 18px;
+    margin: 0px 0;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px white;
+    /* animamos el cambio de color de los textos */
+    -webkit-transition: color .3s ease-in-out;
+    -moz-transition: color .3s ease-in-out;
+    -o-transition: color .3s ease-in-out;
+    -ms-transition: color .3s ease-in-out;
+    transition: color .3s ease-in-out;
+}
+
+
+
+/* efecto hover de los links del menú solamente */
+.dd-menu li:hover > a {
+    background-color: rgba(150, 150, 150, 0.1);
+    border-radius: 5px;
+    color: #666;
+}
+
+/* los submenús */
+.dd-menu ul {
+    border: 1px solid #CCC;
+    border-radius: 0 5px 5px 5px;
+    left: 0;
+    margin: 0;
+    opacity: 0;  /*no son visibles al inicio*/
+    position: absolute;
+    top: 35px; /* se ubican debajo del enlace principal */
+    background: #fff;/* el color de fondo */
+    width: 180px;
+    /* animamos su visibildiad */
+    -moz-transition: opacity .25s ease .1s;
+    -webkit-transition: opacity .25s ease .1s;
+    -o-transition: opacity .25s ease .1s;
+    -ms-transition: opacity .25s ease .1s;
+    transition: opacity .25s ease .1s;
+}
+
+/* son visibles al poner el cursor encima */
+.dd-menu li:hover > ul {
+    opacity: 1;
+}
+
+/* cada uno de los items de los submenús */
+.dd-menu ul  li {
+    display: block;
+    font-size: 14px;
+    padding: 2px 15px;
+    position: relative;
+    color: red;
+    height: 0; /* no son visibles */
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    /* animamos su visibildiad */
+    -moz-transition: height .25s ease .1s;
+    -webkit-transition: height .25s ease .1s;
+    -o-transition: height .25s ease .1s;
+    -ms-transition: height .25s ease .1s;
+    transition: height .25s ease .1s;
+
+}
+/*los mostramos y él solo aplica la transición */
+.dd-menu > li:hover ul li {
+    height: 40px;
+    overflow: visible;
+}
+/* el hover de los submenús */
+.dd-menu li > ul li:hover > a  {
+    border-radius: 0px;
+}
+
+/* la liniecita de separación en los submenús */
+.dd-menu li.menu-divider {
+  border-bottom: 1px dotted #CCC;
+}
+
+/* MENU USUARIO *************************************************************/
+
+.btn-user {
+  border-radius: 5px;
+  border: 1px solid #EEE;
+  margin:0;
+  padding: 0;
+  padding: 0px 0px;
+}
+
+.dd-menu ul {
+	top: 40px;
+	/*left: 10px;*/
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+.dd-menu li a.usr {
+    color:#000;
+    padding: 8px 5px 5px 5px;
+}
+
+.user-bar-img {
+  border: 1px inset #ddd;
+  border-top: 1px solid #BBB;
+  border-left: 1px solid #BBB;
+  vertical-align: middle;
+  margin: -5px 8px;
+}
+
+#user-options {
+  	/*position: absolute;
+	right: 50px;
+	top: 12px;*/
+	display: inline-block;
+	vertical-align: middle;
+    position: relative;
+}
+.opciones-add{
+	float: right;
+    /*display: inline-block;*/
+	vertical-align: top;
+	margin-top: 12px;
+	/*position: absolute;*/
+	right: 0%;
+}
+
+.nologged {
+    top: 0
+    left:50%;
+    right: 60px;
+}
+
+
+
+
+/* TOOLTIP *******************************************************************/
+
+div.tooltip {
+    position: relative; /* es la posición normal */
+    text-decoration: none !important; /* forzar sin subrayado */
+    color:#0080C0 !important; /* forzar color del texto */
+    font-weight:bold !important; /* forzar negritas */
+}
+
+div.tooltip span {
+   display: none;  /*el elemento va a estar oculto */
+}
+
+div.tooltip:hover {
+  z-index:999; /* va a estar por encima de todo */
+  background-color:#000000; /* DEBE haber un color de fondo */
+}
+
+div.tooltip:hover span {
+    background-color: #f6e2b3; /* el color de fondo por defecto */
+    border-radius: 5px;
+    border:1px solid #FFF;
+    color: #000; /* el color de los textos por defecto */
+    display: block; /* se fuerza a mostrar el bloque */
+    font-size: 14px;
+    opacity: 0.9;
+    padding:15px; /* la separación entre el contenido y los bordes */
+    position: absolute; /* se fuerza a que se ubique en un lugar de la pantalla */
+    text-shadow: 0px 0px 0px white;
+    top: 40px; left:-35px; /* donde va a estar */
+}
+
+
+/* BUSCARDOR *****************************************************************/
+.search {
+        height: 30px;
+		padding: 5px;
+		display: inline-block;
+		width: 100px;
+    }
+
+#frm-search {
+    border-radius: 18px; }
+   /*box-shadow: 0 2px 1px rgba(0, 0, 0, 0.4) inset, 0 1px 0 rgba(255, 255, 255, 0.5);
+    height: 28px;
+    margin: 6px;
+    padding: 0;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+/* */
+
+#frm-search input{
+    border-radius: 18px;
+    box-shadow: 0px 0px 5px #888888;
+    color: #AAA;
+    height: 30px;
+    outline: none;
+    background: url(../img/ico-search.png) no-repeat 7px center;
+    padding: 0 0 0 30px;
+    width: 70px;
+    transition: 0.5s;
+	-webkit-transition: 0.5s;
+	-o-transition: 0.5s;
+	-moz-transition: 0.5s;
+	-ms-transition: 0.5s;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+
+        #frm-search input::-webkit-input-placeholder {
+            color: #AAA;
+            font-weight: 300;
+            letter-spacing: 0px; }
+
+        #frm-search input:-moz-placeholder {
+            color: #AAA;
+            font-weight: 300;
+            letter-spacing: 0px }
+
+
+#frm-search input:focus {
+/*    background: url(../img/ico-search.png) no-repeat 7px center;*/
+    background-color: #FFF;
+    color: #222;
+   /* text-shadow: 0 1px 0 #FFFFFF;*/
+    width: 150px;
+}/*#363739;*/

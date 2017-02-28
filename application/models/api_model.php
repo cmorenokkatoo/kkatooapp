@@ -1,0 +1,42 @@
+<?php
+/**
+ * Created by JetBrains PhpStorm.
+ * User: Israel
+ * Date: 5/07/13
+ * Time: 14:57
+ * To change this template use File | Settings | File Templates.
+ */
+ 
+class Api_model extends CI_Model
+{
+    public function get($id){
+        $this->db->select("username,register_date");
+        $query = $this->db->get_where("users_api", array("id" => $id));
+        if($query->num_rows() == 1){
+            return $query->row();
+        }
+    }
+ 
+    public function get_all(){
+        $query = $this->db->get("users_api");
+        if($query->num_rows() > 0){
+            return $query->result();
+        }
+    }
+ 
+    public function posts($id){
+        $this->db->where("user_id", $id);
+        $query = $this->db->get("messages_api");
+        if($query->num_rows() > 0){
+            return $query->result();
+        }
+    }
+ 
+    public function create_user($username,$password){
+        $data = array(
+            "username" => $username,
+            "password" => $password
+        );
+        return $this->db->insert("users_api", $data);
+    }
+}

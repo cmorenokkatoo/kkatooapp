@@ -1,0 +1,312 @@
+body {
+	padding-top: 100px; /*por el menu estatico arriba*/
+	background-color: #eFeFeF;
+	font-family: 'Open Sans', sans-serif;
+}
+
+div {
+	/*border: 1px solid #CCC;
+	background-color: #ddd;*/
+	box-sizing:border-box;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+}
+
+/*********************************************
+* HEADER DE LA PAGINA
+*********************************************/
+.avail-credits-badge { /* el badge que dice cuántos créditos hay */
+	position: absolute;
+	left:50%;
+	margin-left: -75px;
+	margin-top: -5px;
+	width: 150px;
+	border: 1px solid #fec955;
+	height: 55px;
+	border-radius: 0 0 5px 5px;
+	text-align: center;
+	background-color: #FFF;
+}
+	.avail-credits-badge a {
+		display: block;
+		width: 150px;
+		height: 55px;
+		font-size: 20px;
+		font-family: 'Open Sans Condensed', sans-serif;
+		color: #484848;
+	}
+	.avail-credits-badge .number {
+		width: 60px;
+	 	float: left;
+		font-size: 50px;
+		font-weight: 700;
+		line-height: 55px;
+		margin-left: 2px;
+		text-align: center;
+		letter-spacing: -2px;
+	}
+	.avail-credits-badge .legend {
+		float: left;
+		font-size: 18px;
+		font-weight: 300;
+		line-height: 18px;
+		margin-left: 2px;
+		text-align: left;
+		width: 70px;
+		margin-top: 9px;
+	}
+
+.btn-group>.dropdown-menu {
+	text-align: left;
+}
+
+.navbar-inner {
+	height: 69px;
+	background: #FFF url(../img/bg-main-header.png) 0 0 repeat-x;
+	margin: 0;
+}
+
+.navbar .brand {
+	padding: 3px 0 0;
+}
+
+.navbar .btn-group .btn {
+	margin-top: 10px;
+}	
+
+.usr-menu {
+	text-align: right;
+}
+
+
+/*********************************************
+* CUERPO DE LA APP
+*********************************************/
+#app-container {
+	background-color: #fcfcfc;
+	box-shadow: 0px 0px 3px 1px #ddd;
+}
+
+/*********************************************
+* HEADER DE LA APP
+*********************************************/
+h1#app-name {
+	font-family: 'Open Sans Condensed', sans-serif;
+	letter-spacing: -1px;
+	margin: 6px 0 0;
+}
+
+#app-header {
+	height: 85px;
+	border-bottom: 1px solid #ccc;
+	background: -webkit-linear-gradient(top, #fafafa, #ededed);
+	background: -moz-linear-gradient(top, #fafafa, #ededed);
+	background: -ms-linear-gradient(top, #fafafa, #ededed);
+	background: -o-linear-gradient(top, #fafafa, #ededed);
+}
+
+.app-image {
+	height: 85px;
+	float: left;
+	/*border: 1px solid #000;*/
+	line-height: 80px;
+	padding: 0 10px;
+}
+
+#app-description {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+	color: #aaa;
+	line-height: 14px;
+	/*letter-spacing: -1px;*/
+}
+
+#frm-campaign-name {
+	margin-top: 26px;
+	padding-right: 20px;
+}
+
+#frm-campaign-name label {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 24px;
+	font-weight: 700;
+	color: #666;
+}
+
+#frm-campaign-name input {
+	border: 0px;
+	border-radius: 3px;	
+	font-size: 18px;
+	line-height: 24px;
+	padding: 3px 3px 3px 8px;
+}
+
+/*********************************************
+* CUERPO DE LA APP
+*********************************************/
+#tabs {
+	margin-top: 25px;
+
+	/*border: 1px solid #000;*/
+}
+
+#tab-content {
+	background-color:#FFF;
+	/*border: 1px solid #000;/**/
+	/*margin: 5px;*/
+	/*padding: 5px 25px 0 25px;*/
+}
+
+#steps-tabs {
+	margin: 0;
+}
+
+.nav-tabs>li {
+	margin-left: 10px;
+}
+
+#contacts-select {
+	background-color: #FFF;
+}
+
+#contacts-header {
+	border-bottom: 1px solid #ddd;
+}
+
+#contacts-header h2 {
+	/*font-family: 'Open Sans Condensed', sans-serif;*/
+	font-weight: 300;
+	font-size: 28px;
+	letter-spacing: -2px;
+	color: #666;
+	margin: 10px 0 0 0;
+	padding: 0 15px 0 15px;
+
+}
+
+#contacts-links {
+	text-align: right;
+	line-height: 36px;
+	height: 70px;
+	width:440px;
+}
+	#contacts-admin-ico, #contacts-filter-ico {
+		display: inline-block;
+		margin-top: 15px;
+		margin-left: 15px;
+		width: 41px;
+		height: 40px;
+		/*border: 1px solid #000;*/
+	}
+
+	#contacts-admin-ico a {
+		display: block;
+		width: 41px;
+		height: 40px;
+		background: url(../img/ico-contacts-admin.png) 0 0 no-repeat;
+	}
+	#contacts-admin-ico a:hover {
+		background-position:-41px 0px;
+	}
+
+	#contacts-filter-ico a {
+		display: block;
+		width: 41px;
+		height: 40px;
+		background: url(../img/ico-contacts-filter.png) 0 0 no-repeat;
+	}
+	#contacts-filter-ico a:hover {
+		background-position:-41px 0px;
+	}
+
+
+#contacts-selected-badge { /* el badge que dice cuántos créditos hay */
+	position: absolute;
+	left:50%;
+	margin-left: -75px;
+	margin-top: 5px;
+	width: 150px;
+	border: 1px solid #d6d6d6;
+	height: 55px;
+	border-radius: 5px;
+	text-align: center;
+	background-color: #e5e5e5;
+}
+	#contacts-selected-badge a {
+		display: block;
+		width: 150px;
+		height: 55px;
+		font-size: 20px;
+		font-family: 'Open Sans Condensed', sans-serif;
+		color: #484848;
+		text-shadow: 0px 1px 0px #FFF;
+
+	}
+	#contacts-selected-badge .number {
+		width: 60px;
+	 	float: left;
+		font-size: 50px;
+		font-weight: 700;
+		line-height: 55px;
+		margin-left: 2px;
+		text-align: center;
+		letter-spacing: -3px;
+	}
+	#contacts-selected-badge .legend {
+		float: left;
+		font-size: 18px;
+		font-weight: 300;
+		line-height: 18px;
+		margin-left: 2px;
+		text-align: left;
+		width: 70px;
+		margin-top: 9px;
+	}
+
+/*********************************************
+* FILTRO DESPLEGABLE
+*********************************************/	
+
+#frm-filtro {
+	padding: 15px;
+	background-color: #fcefd6;
+	text-align: center;
+	box-shadow: 0px 0px 8px #aaa inset;
+	/*box-shadow: h-shadow v-shadow blur spread color inset;*/
+}
+
+/*********************************************
+* TABLA DE CARTERA
+*********************************************/
+#table-cartera, #table-selected {
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	width: 90%;
+	margin: 20px auto;
+}
+
+
+#table-cartera tr, #table-selected tr {
+	/*border: 1px solid #ccc;*/
+	line-height: 40px;
+}
+#table-cartera td, #table-selected td {
+	text-align: center;
+}
+
+#table-cartera input[type="checkbox"] {
+	margin: 0 10px;
+	text-align: center;
+}
+
+td.left-align {
+	text-align: left !important;
+	padding-left: 10px;
+}
+
+td > img {
+	margin-right: 15px;
+	border: 1px solid #DDD;
+
+}

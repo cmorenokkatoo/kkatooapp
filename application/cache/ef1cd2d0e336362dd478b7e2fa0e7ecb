@@ -1,0 +1,88 @@
+1488220550TS---><!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    	<title>Llamadas masivas automáticas, TTS y envío de mensajes de texto | Grupo Mensajes de Voz</title>
+	<meta name="description" content="Mensajes de Voz te permite programar llamadas masivas para enviar a través de internet a cualquier teléfono fijo o celular. Exporta tus contactos, crea sube o graba tu mensaje y programa fecha y hora de tu campaña. El Social dialing llegó a Colombia con Mensajes de Voz.">
+  <meta name="keywords" content="Llamadas robóticas, llamadas automáticas, llamadas masivas por internet, llamadas masivas, plataforma de llamadas automáticas, Medellín, llamadas a celular, llamadas programadas, llamadas a fijos, llamadas, Colombia, Argentina, Brasil, Perú, Venezuela, Ecuador, Uruguay, Chile, Panamá, Costa Rica, Nicaragua, El Salvador, México, Estados Unidos, España, Paraguay, Llamadas por Internet, Internet, Llamadas, Telemarketing, Telemercadeo, Landingpage, Suscripción Móvil">
+  <meta name="revisit-after" content="2 days">
+  <meta name="copyright" content="mensajesdevoz.co">
+  <meta name="publisher" content="mensajesdevoz.co">
+  <meta name="distribution" content="Global">
+  <meta name="city" content="Bogotá">
+  <meta name="country" content="Colombia">
+  <meta content="INDEX, FOLLOW" name="ROBOTS">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<!-- Favicon -->
+	<link rel="apple-touch-icon" sizes="57x57" href="/assets/ico/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/assets/ico/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/assets/ico/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/assets/ico/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/assets/ico/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/assets/ico/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/assets/ico/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/assets/ico/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/assets/ico/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/assets/ico/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/assets/ico/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/assets/ico/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/assets/ico/favicon-16x16.png">
+	<link rel="manifest" href="/assets/ico/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/assets/ico/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<link rel="stylesheet" href="http://www.kka.to/assets/css/newbranding/main.css">
+	<!-- <link rel="stylesheet" href="http://www.kka.to/assets/css/normalize.css"> -->
+	<!-- <link rel="stylesheet" href="http://www.kka.to/assets/css/carousel.css"> -->
+</head>
+<body>
+<!--Start of Zendesk Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="https://v2.zopim.com/?4cfmhMdVqEuutXlZYd7L5WG7GQwfqW02";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zendesk Chat Script--><script type="text/javascript">
+	window.KKATOO_ROOT = ".mensajesdevoz.co";
+</script>		<div id="headerlogin">
+							<a href="http://www.kka.to"><img id="enlace_logo"  src="http://www.kka.to/assets/img/logo_principal_mv.jpg" alt="Mensajes de Voz"/></a>
+    </div>
+
+<!-- Login ================================================== -->
+<div class="mainsignincontent">
+    <div class="titlesignin">
+        <h1>Acceder para usar la plataforma</h1>
+    </div>
+    <div class="card signin-card" id="signin-card">
+        <div id="formframe">
+            <form action="http://www.kka.to/login/signin" method="post" accept-charset="utf-8" id="signin">                    <div class="formulario frm_nbr">
+                        <div class="control-group">
+                            <div class="controls">
+                                <div class="input-prepend">
+                                    <input class="txt_email" placeholder="Ingresa tu dirección de correo electrónico" type="text" name="email" value="" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <div class="controls">
+                                <div class="input-prepend">
+                                    <input class="txt_password" placeholder="Ingresa tu contraseña" type="password" name="password" autocomplete="off" required>
+                                    <input class=" btn btn-warning btn_login" type="submit" value="Siguiente" >
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </form>            <a href="http://www.kka.to/login/forgot" class="loginlink" alt="¿Has olvidado tu contraseña?">Recordar contraseña</a>
+        </div>
+    </div>
+    <a href="http://www.kka.to/login/register" class="loginlink" id="registerlink" alt="Crea una nueva cuenta">Crear cuenta</a>
+    <p>Todos los datos almacenados son protegidos y no son enviados a terceros.</p>
+</div>

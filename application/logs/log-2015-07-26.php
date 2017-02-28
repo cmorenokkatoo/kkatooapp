@@ -1,0 +1,27 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-07-26 01:54:24 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 02:36:02 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 03:12:20 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-07-26 03:12:21 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-07-26 05:25:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 05:25:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 05:25:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 05:25:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 05:47:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 06:08:15 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 06:16:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 08:38:41 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-07-26 08:38:42 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-07-26 08:38:42 --> 404 Page Not Found --> wp-content
+ERROR - 2015-07-26 08:38:43 --> 404 Page Not Found --> blog
+ERROR - 2015-07-26 09:34:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 12:17:16 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-07-26 14:47:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 14:47:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 14:47:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 14:47:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 14:47:56 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 15:10:34 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 16:39:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-07-26 19:03:37 --> 404 Page Not Found --> robots.txt

@@ -1,0 +1,18 @@
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="1920px" height="360px" viewBox="0 0 1920 360" enable-background="new 0 0 1920 360" xml:space="preserve"
+	>
+<defs>
+</defs>
+<linearGradient id="Pasto_3_" gradientUnits="userSpaceOnUse" x1="960.0001" y1="360" x2="960.0001" y2="-4.310095e-008">
+	<stop  offset="0" style="stop-color:#42A047"/>
+	<stop  offset="1" style="stop-color:#66BB6A"/>
+</linearGradient>
+<path id="Pasto_2_" fill="url(#Pasto_3_)" d="M1920,360H960H0V0c0,0,1372.4,0,960,0s960,0,960,0V360z"/>
+<g id="Carretera_1_">
+	<polygon id="Borde_de_carretera_4_" fill="#4D8C50" points="1920,360 929.6,360 0,360 786.8,0 949.1,0 1133.2,0 	"/>
+	<polygon id="Borde_de_carretera_1_" fill="#FFFFFF" points="1889.6,360 960,360 30.4,360 789.3,0 960,0 1130.7,0 	"/>
+	<polygon id="Carretera_2_" fill="#333333" points="1787.3,360 960,360 132.7,360 802.3,0 960,0 1117.7,0 	"/>
+</g>
+</svg>

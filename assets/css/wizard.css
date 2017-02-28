@@ -1,0 +1,368 @@
+div {
+	/*border: 1px solid #CCC;
+	background-color: #ddd;*/
+	box-sizing:border-box;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+}
+
+/************************************************************************
+** HEADER DEL WIZARD
+************************************************************************/
+
+#app-header  {
+	height: 85px;
+	border-bottom: 1px solid #ccc;
+	background: -webkit-linear-gradient(top, #fafafa, #ededed);
+	background: -moz-linear-gradient(top, #fafafa, #ededed);
+	background: -ms-linear-gradient(top, #fafafa, #ededed);
+	background: -o-linear-gradient(top, #fafafa, #ededed);
+}
+
+#app-header h2 {
+	font-weight: 300;
+	font-size: 36px;
+	letter-spacing: -2px;
+	color: #686868;
+	line-height: 63px;
+	padding-left: 20px;
+}
+
+/************************************************************************
+** CONTENIDO DEL WIZARD
+************************************************************************/
+/*** Subtitulos con banda gris */
+#customize-app h3,
+#content-app h3,
+#payment-options h3 {
+	background-color: #e8e8e8;
+	padding: 5px 0 5px 15px;
+	font-weight: 300;
+	margin: 20px 0;
+	letter-spacing: -1px;
+	clear: both;
+}
+
+/*** Bloque de "Personalización" - subir imagen*/
+.customize-img-upload {
+	/*float: left;*/
+	display:inline-block;
+	vertical-align:top;
+	margin: 0 20px 0 60px;
+}
+.dropdiv {
+	position:relative;
+	background-color: #efefef;
+	border-radius: 5px;
+	border: 8px dotted #ccc;
+	height: 180px;
+	margin: 0 auto 5px auto;
+	padding: 15px;
+	text-align: center;
+	width: 220px;
+}
+.content-upload-img-app{
+	position: absolute;
+	left: 0;
+	top: 50%;
+	margin-top: -44px;
+	z-index: 999;
+}
+.dropdiv img{
+	position: relative;
+	top: -25px;
+	left: 0;
+	margin:0 auto;
+}
+.theimage{
+	width: 204px;
+	height: 164px;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.theimage canvas{
+	position: relative;
+	left: 0px;
+	top: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	display:none;
+}
+.dropdiv a {
+	background: url(../img/ico-upload-audio-48.png) 0 0 no-repeat;
+	display: block;
+	height: 49px;
+	margin: 10px auto 0 auto;
+	width: 48px;
+}
+	.dropdiv a:hover {
+		background-position: -48px 0; 
+	}
+
+.msg-upload-1 {
+	display: block;
+	font-size: 16px;
+	font-weight: 600;
+	color: #000;
+	text-shadow: #fff 0px 0px 5px;
+}
+
+#msg-upload-2 {
+	display: block;
+	font-size: 12px;
+	font-weight: 400;	
+}
+.msg-upload-3 {
+	display: block;
+	font-size: 10px;
+	font-weight: 400;
+	width: 220px;
+	line-height: 10px;
+	text-align: center;
+}
+
+.form-horizontal .control-label .w250{
+	width: 250px;
+	border: 1px solid #000;
+}
+
+/*** Bloque de "Personalización" - datos de la app */
+#customize-app-data {
+	width: 540px;
+	margin-top: 20px;
+	padding-left:20px;
+}
+#frm-customize-app-data label {
+	font-size: 16px;
+	line-height: 30px;
+}
+
+#frm-customize-app-data #txt-nombre, #txt-slogan, #txt-footer, #frm-customize-app-data textarea  {
+	width: 395px;
+	margin:8px 0;
+}
+#frm-customize-app-data textarea {
+	height: 90px;
+}
+
+/*** Bloque de "Personalización" - boton para campos dinamicos */
+#dynamic-fields {
+	margin:0 80px;
+	text-align: right;
+	clear: both;
+}
+#add-dynamic-field{
+	 padding-left:147px;
+}
+#render-dynamic-fields div{
+	margin:10px 0px;
+}
+/*** Bloque de "Contenido" - checkboxes */
+#content-options-checks,
+#content-options-tabs {
+	margin-left: 80px;
+}
+
+#content-options-tabs {
+	margin-top: 20px;
+
+}
+
+#tab-content {
+	background-color: #fcfcfc;
+	height: 515px;
+}
+
+#content-aditional{
+	border-right: 1px solid #ddd;
+	height: 210px;
+}
+
+#upload-audio,
+#record-audio,
+#choose-audio {
+	float: left;
+	border: 1px solid #ddd;
+	width: 720px;
+	border-left: 0px;
+}
+
+#add-dinamic-audios {
+	margin-left: 75px;
+}
+
+#add-dynamic-audios {
+	margin-left: 75px;
+}
+
+.dropdiv2 {
+	background-color: #efefef;
+	border-radius: 5px;
+	border: 8px dotted #ccc;
+	height: 150px;
+	padding: 15px;
+	text-align: center;
+	width: 300px;
+	float: left;
+}
+
+.dropdiv2 a {
+	background: url(../img/ico-upload-audio-48.png) 0 0 no-repeat;
+	display: block;
+	height: 49px;
+	margin: 10px auto 0 auto;
+	width: 48px;
+	border: 1px solid #000;
+}
+	.dropdiv2 a:hover {
+		background-position: -48px 0; 
+	}
+
+
+.cabinet {
+	margin:0 auto;
+	cursor: pointer;
+}
+
+#msg-upload-1a {
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	margin-top: 5px;	
+}
+
+#msg-upload-2a {
+	display: block;
+	font-size: 12px;
+	font-weight: 400;	
+}
+#msg-upload-3a {
+	display: block;
+	font-size: 10px;
+	font-weight: 400;
+	width: 220px;
+	line-height: 10px;
+	text-align: center;
+}
+
+#uploaded-audios {
+	float: left;
+	margin-left: 20px;
+	width: 350px;
+}
+
+/************* Payment options */
+#payment-options-price,
+#payment-options-account {
+	margin-left: 80px;
+	width: 780px;
+}
+
+#radios {
+	margin-top: 10px;
+}
+
+.radio {
+	line-height: 20px;
+	vertical-align: top;/**/
+}
+#txt-ganancia {
+	width: 80px;
+}
+
+
+#account-type,
+#account-bank {
+	width: 100px;
+}
+#account_number {
+	width: 100px;
+}
+
+#minute-prize {
+	font-weight: 700;
+}
+
+.price {
+	width: 250px;
+	display: inline-block;
+	text-align: right;
+}
+
+#additional-percent{
+	width: 100px;
+	margin-left: 22px;
+}
+
+#final-prize {
+	width: 150px;
+	margin-left: 22px;
+	
+}
+
+#account-number {
+	width: 250px;
+	margin-left: 22px;
+	margin-bottom: 15px;
+
+}
+
+
+/****************************************************
+** PARA EL ICONO DE UPLOAD FILE
+****************************************************/
+	.SI-FILES-STYLIZED label.cabinet
+	{
+	    width: 48px;
+	    height: 48px;
+	    background: url(../img/ico-upload-audio-48.png) 0 0 no-repeat;
+	    display: block;
+	    overflow: hidden;
+	    cursor: pointer;
+	}
+	.SI-FILES-STYLIZED label.cabinet:hover
+	{
+		background-position:-48px 0px;
+	}
+
+	.SI-FILES-STYLIZED label.cabinet input.file
+	{
+	    position: relative;
+	    height: 100%;
+	    width: auto;
+	    opacity: 0;
+	    -moz-opacity: 0;
+	    filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+	}
+
+/*************************** POCHO CODIGO *******************************************/
+.upload-another-one-img{
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+	width: 100%;
+	left: 0;
+	padding: 3px 0px;
+	background: rgba(0,0,0,0.6);
+	visibility:hidden;
+	cursor:pointer;
+	color: #fff;
+}
+.upload-another-one-img a{
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/ico_upload_24px.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	vertical-align: middle;
+	text-decoration:none;
+}
+.upload-another-one-img a:hover {
+		background-position: -23px 0; 
+	}
+

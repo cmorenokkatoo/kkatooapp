@@ -1,0 +1,824 @@
+div {
+	/*border: 1px solid #CCC;
+	background-color: #ddd;*/
+	box-sizing:border-box;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+}
+
+/************************************************************************
+** HEADER DE LOS GESTORES
+************************************************************************/
+
+#app-header {
+	padding: initial;
+	background: transparent !important;
+	border: none !important;
+	box-shadow: none !important;
+}
+
+#title-and-links {
+	/*border:1px solid red;*/
+
+}
+	#title-and-links h2 {
+		font-weight: 300;
+		font-size: 36px;
+		letter-spacing: -2px;
+		color: #686868;
+		line-height: 63px;
+		float: left;
+	}
+
+
+
+
+#search {
+	display: flex;
+}
+#cajonBuscarContactos{
+	margin: 0px 10px !important;
+	border-radius: 0px !important;
+	border: none !important;
+	padding: 8px;
+}
+
+#import-gmail-ico {
+	display: inline-block;
+	/*margin-top: 15px;*/
+	/*margin-left: 15px;*/
+	width: 41px;
+	height: 40px;
+	/*border: 1px solid #000;*/
+}
+
+/*#add-ico a {
+	display: block;
+	width: 41px;
+	height: 40px;
+	background: url(../img/ico-add.png) 0 0 no-repeat;
+}
+#add-ico a:hover {
+	background-position:-41px 0px;
+}*/
+
+#links {
+	display: flex;
+	width: 80%;
+}
+#import-csv-ico, #add-ico {
+	cursor: pointer;
+	width: auto;
+	background: firebrick;
+	padding: 10px !important;
+	text-align: center;
+	margin: 0px 10px;
+}
+#import-csv-ico span, #add-ico span{
+font-size: 14px;
+}
+#import-csv-ico a , #add-ico a{
+	color: white;
+	font-size: 14px;
+	font-weight: 300;
+	display: block;
+}
+#import-csv-ico i, #add-ico i{
+	vertical-align: middle;
+	font-size: 14px;
+}
+#import-csv-ico a:hover, #add-ico a:hover{
+	color: white;
+	text-decoration: none;
+}
+#import-csv-ico:hover, #add-ico:hover
+{
+	background: black;
+}
+
+/************************************************************************
+** FLOTANTE DE AÑADIR ITEM
+************************************************************************/
+#frm-add-contact, 
+#import-csv, 
+#import-gmail, 
+#add-group, 
+.float-item
+ {
+	padding: 15px;
+	background-color: #f7f7f7;
+	text-align: center;
+	box-shadow: 0px 0px 1px 2px rgba(150,150,150,.3) !important;
+	margin: .5rem auto;
+}
+
+#frm-add-contact {
+	position: relative;
+	margin-bottom: 0;
+	padding: 15px 200px;
+	text-align: left;
+}
+
+#add-new {
+	padding: 20px;
+	background-color: #fcf4e4;
+	margin-left: 0px;
+}
+
+#add-img {
+	margin: 0 10px 0 0;
+	padding: 15px;
+	width: 120px;
+	height: 120px;
+	float: left;
+	position:absolute;
+	top: 60px;
+	border: 1px dotted #FFF;
+	background-color: #fcf4e4;
+}
+#overlay-change-photo {
+	position: absolute;
+}
+
+
+#add-basic-data {
+	padding-top: 10px;
+}
+
+#txt-name, #txt-phone {
+	width: 300px;
+	margin: 5px 0 10px 0px;
+}	
+
+#cbo-city, #cbo-country {
+	width: 150px;
+	margin-bottom: 5px;
+}
+
+
+/************************************************************************
+** FLOTANTE DE IMPORTAR CSV y GMAIL
+************************************************************************/
+#import-csv {
+	/*border: 1px solid #000;*/
+}
+#pasos-import-csv, #pasos-import-gmail {
+/*	border: 1px solid #000;
+*/	width: 100%;
+	margin: 0 auto;
+	padding: 25px;
+	text-align: center;
+}
+
+
+
+/************************************************************************
+** CUERPO DE LA APP-GRUPOS
+************************************************************************/
+#groups {
+	padding: 1rem !important;
+	border-right: 1px solid #e8e8e8;
+}
+
+/** TITULO *******************************/
+#groups h3 {
+
+	}
+#groups-title {
+	
+}
+/** Añadir contactos ************/
+#groups-add-ico {
+	display: block;
+	cursor: pointer;
+	width: 60%;
+	background: green;
+	padding: .3rem 0rem;
+}
+#groups-add-ico span{
+font-size: 14px;
+}
+#groups-add-ico a {
+	color: white;
+	font-size: 14px;
+	font-weight: 300;
+	display: block;
+}
+#groups-add-ico i{
+	vertical-align: middle;
+	font-size: 14px;
+}
+#groups-add-ico a:hover{
+	color: white;
+	text-decoration: none;
+}
+#groups-add-ico:hover
+{
+	background: black;
+}
+
+/*#groups-add-ico:hover:before
+{
+	content: "Crear Nuevo Grupo";
+	display: block;
+	position: absolute;
+	top: 165px;
+	background: #fcba41;
+	padding: 4px;
+	color: #fff;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+
+}*/
+
+.return-link{
+  	border:0px;
+  	font-weight: 300;
+  	padding: 10px;
+  	text-shadow: none;
+  	border-radius: 5px;
+  	-webkit-transition: all .5s ease-out;
+	-moz-transition: all .5s ease-out;
+	-ms-transition: all .5s ease-out;
+	-o-transition: all .5s ease-out;
+	transition: all .5s ease-out;
+	height: auto;
+	background: steelblue !important;
+  }
+  .return-link:hover{
+  	background: #343434;
+  	color: #fff;
+  	font-weight: 300;
+  	text-shadow: none;
+  	border-radius: 5px;
+  	-webkit-transition: all .5s ease-in;
+	-moz-transition: all .5s ease-in;
+	-ms-transition: all .5s ease-in;
+	-o-transition: all .5s ease-in;
+	transition: all .5s ease-in;}
+/** LISTA GRUPOS ************************/
+#groups-list,, #options-list {
+	display: block;
+	padding: 5px 10px;
+}
+#options-list {
+	height: 600px;
+	display: none;
+}
+.group-contact-item {
+	margin: 1rem auto;
+	/*width: auto;*/
+	text-align: center;
+	border: 1px dashed #a8a8a8;
+	padding: 1.5rem;
+
+}
+.groups-ico {
+	text-align: center;
+}
+.groups-ico a {
+	display: block;
+	/*background: url(../img/ico-groups-3-states.png) 0 0 no-repeat;*/
+	margin: 0 auto;
+}
+.groups-ico a i{
+	color: #303030;
+	font-size: 2rem !important;
+}
+.groups-ico a:hover {
+	background-position:-60px 0px;
+}
+
+.groups-ico a.selected, .group-contact-item .selected {
+	background-position:-120px 0px;
+	color:#444;
+}
+
+.groups-name {
+	font-size: 15px;
+	font-weight: 600;
+	color: #666;
+	text-align: center;
+}
+
+.group-count {
+	font-weight: 300;
+	color: #aaa;
+}
+
+.closegroup {
+	position: relative
+	}
+
+.closegroup a {
+	position: absolute;
+	left: 123px;
+	top: 0px;
+	color: firebrick;
+}
+
+.closegroup a:hover {
+	color: black;
+}
+
+.editar_g input {
+	background-color: #FFF;
+	font-family: 'Roboto';
+	font-size: 14px;
+	font-weight: 600;
+	color: #999;
+	border: 0;
+	padding: 5px;
+	text-align: center;
+}
+
+
+
+/************************************************************************
+** TABLA DE ITEMES
+************************************************************************/
+#items-title {
+	width: 95%;
+	margin: 20px 0 0 20px;	
+}
+	#items-title h3 {
+		font-size: 22px;
+		font-weight: 700;
+		color: #666;
+		line-height: 30px;
+		/*float: left;*/
+	}
+	.items-count {
+		line-height: 25px;
+		font-size: 14px;
+		font-weight: 400;
+		color: #888;
+	}
+
+#items-title .mass-btn {
+	float: right;
+ }
+
+#tbl-items {
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	width: 95%;
+	margin: 5px auto 10px auto;
+}
+
+#tbl-items tr {
+	/*border: 1px solid #ccc;*/
+	line-height: 40px;
+}
+#tbl-items td {
+	text-align: center;
+}
+
+td.left-align {
+	text-align: left !important;
+	padding-left: 10px;
+}
+
+td > img {
+	margin-right: 15px;
+	/*border: 1px solid #DDD;*/
+	cursor: pointer;
+}
+
+td.camp-name {
+	width: 250px;
+}
+
+
+/** CADA ITEM ******************************/
+
+.item-edit-ico, .item-view-ico, .item-delete-ico {
+	display: inline-block;
+	margin-left: 10px;
+	width: 24px;
+	height: 24px;
+	line-height: 24px;
+	vertical-align: middle;
+}
+
+.item-edit-ico a, .item-view-ico a, .item-delete-ico a {
+	display: block;
+	color: black;
+}
+.item-edit-ico a:hover, .item-view-ico a:hover, .item-delete-ico a:hover {
+	color: firebrick;
+	cursor: pointer;
+}
+
+/** FLOTANTES ITEMS ******************************/
+
+.float-item {
+	position: relative;
+	text-align: left;
+	padding: 10px 80px;
+
+}
+
+.overlay-change-photo {
+	position: absolute;
+}
+
+.basic-data-edit,.additional-data-edit {
+	padding-left: 160px;
+	line-height: 30px;
+}
+
+.item-img {
+	margin: 0 10px 0 0;
+	padding: 0;
+	width: 90px;
+	height: 90px;
+	position:absolute;
+	top: 75px;
+	left:120px;
+	border: 1px dotted #FFF;
+	background-color: #fcf4e4;
+}
+/************************************************************************
+** HEADER DEL GESTOR DE CREDITOS
+************************************************************************/
+.right-for-kredits {
+	position: relative;
+	text-align: right;
+	padding-right: 15px;
+	height: 100px;
+}
+#available-kredits {
+	min-width: 110px;
+	height:55px;
+	border-radius: 5px;
+	border:1px solid #DDD;
+	background-color: #FFF;
+	text-align: center;
+	top: 15px;
+	right: 15px;
+	position: absolute;
+	padding: 0 10px 0 10px; 
+}
+	#available-kredits #content {
+		display: block;
+		margin: 10px auto;
+		height: 5px;
+		text-align: center;
+	}
+
+	#available-kredits #content h3 {
+		font-size: 36px;
+		font-weight: 600;
+		/*float: left;
+		border: 1px solid red;*/
+		margin:0 0 0 5px;
+		line-height: 34px;
+		min-width: 30px;
+		text-align: right;
+		letter-spacing: -1px;
+		display: inline-block;
+	}
+
+	#available-kredits #content .currency-small {
+		font-size: 14px;
+		font-weight: 400;
+		display: inline-block;
+		/*line-height: 36px;*/
+		margin:-10 0;
+		vertical-align: middle;
+
+	}
+
+	#available-kredits #txt {
+/*		float: left;
+		border: 1px solid red;*/
+		margin-left: 0px;
+		text-align: left;
+		display: inline-block;
+	}
+		#available-kredits #txt #kredits {
+			font-size: 14px;
+			font-weight: 700;
+			display: block;
+			/*border: 1px solid red;*/
+		}
+		#available-kredits #txt #available {
+			font-size: 10px;
+			font-weight: 400;
+			display: block;
+			line-height: 10px;
+			/*border: 1px solid red;*/
+			text-align: right;
+
+		}
+
+		
+
+
+/************************************************************************
+** LATERAL DEL GESTOR DE CREDITOS
+************************************************************************/
+
+#options {
+	background-color: #E6E6E6;
+	width: 110px;
+}		
+
+#reload-ico {
+	text-align: center;
+}
+
+#reload-ico a {
+	display: block;
+	width: 60px;
+	height: 60px;
+	background: url(../img/ico-kredits-60.png) 0 0 no-repeat;
+	margin: 25px auto 0 auto;
+}
+#reload-ico a:hover, 
+#resume-ico a:hover, 
+#simulator-ico a:hover {
+	background-position:-60px 0px;
+}
+
+#reload-ico a.selected, 
+#resume-ico a.selected, 
+#simulator-ico a.selected {
+	background-position:-60px 0px;
+	color:#444;
+}
+
+#reload-name, 
+#resume-name, 
+#simulator-name {
+	margin-top: 10px; 
+	font-size: 16px;
+	font-weight: 400;
+	color: #666;
+	text-align: center;
+	line-height: 16px;
+	text-shadow: 0 1px 0 #eee;
+}
+
+#resume-ico a {
+	display: block;
+	width: 60px;
+	height: 60px;
+	background: url(../img/ico-resume-60.png) 0 0 no-repeat;
+	margin: 40px auto 0 auto;
+}
+
+#simulator-ico a {
+	display: block;
+	width: 60px;
+	height: 60px;
+	background: url(../img/ico-simulator-60.png) 0 0 no-repeat;
+	margin: 40px auto 0 auto;
+}
+
+/************************************************************************
+** SECCION RECARGAR CREDITOS EN EL GESTOR DE CREDITOS
+************************************************************************/
+#kredit-mgr-items {
+	width: 780px;
+	margin: 0 auto;
+}
+
+#reload-contents {
+	margin-left: 10px;
+}
+
+#reload-title h4,
+#resume-title h4,
+#simulator-title h4 {
+	font-size: 22px;
+	font-weight: 400;
+	color: #666;
+	line-height: 30px;
+	margin: 20px 0;
+}
+
+#reload-tabs {
+	width: 100%;
+}
+
+/**** FORMULARIO PAYPAL *******/
+#txt-name-pp, 
+#txt-lastname-pp, 
+#txt-address-pp,#txt-mail-pp,#txt-phone-pp  {
+	width: 300px;
+	margin: 5px 0 10px 0px;
+}	
+
+#cbo-city-pp, 
+#cbo-country-pp, 
+#cbo-package-pp, 
+#btn-reload {
+ 	width: 195px;
+	margin: 5px 0 10px 0px;
+}
+
+.asterisk {
+ 	font-weight: 700;
+ 	color: #fdb723;
+}
+
+.asterisk-explain {
+ 	font-weight: 400;
+ 	color: #666;
+ 	margin-left: 130px;
+ 	margin-top: 10px;
+ 	font-size: 12px;
+}
+
+
+
+/************************************************************************
+** SECCION SIMULADOR DE GASTO DE CREDITOS
+************************************************************************/
+#sim-contacts,
+#sim-priority,
+#sim-msg,
+#sim-results {
+	width: 380px;
+	height: 140px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 15px;
+	margin: 0 10px 10px 0;
+	float: left;
+}
+
+#sim-contacts h5,
+#sim-priority h5,
+#sim-msg h5,
+#sim-results h5 {
+	font-size: 18px;
+	margin: 0 0 15px 0;
+	padding: 0 0 5px 0;
+	border-bottom: 1px solid #ddd;
+	font-weight: 400;
+}
+
+input [type="radio"]  {
+	border: 1px solid #000;
+	line-height: 20px;
+}
+
+#txt-num-contacts {
+	width: 65px;
+	margin-left: 10px;
+}
+
+.radio {
+	padding-left: 40px;
+}
+
+.w-campo {
+	line-height: 25px;
+	/*border: 1px solid #000;*/
+	vertical-align: top;
+}
+
+.w-campo-special {
+	line-height: 25px;
+	vertical-align: top;
+	padding-top: 5px;
+	display: block;
+}
+
+#txt-duration  {
+	width: 65px;
+	margin-left: 10px;
+}
+
+#cbo-grupo,
+#cbo-priority {
+	width: 180px;
+	margin-left: 10px;
+}
+
+#sim-results {
+	background: #eee;
+	text-align: center;
+	vertical-align: center;
+	padding-top: 15px;
+}
+
+
+p#text-result-sub {
+	font-weight: 400;
+	font-size: 16px;
+	padding-top: 10px;
+}
+
+p#text-result-title {
+	display: block;
+	padding-top: 10px;
+	font-size: 45px;
+	font-weight: 700;
+	height: 80px;
+}
+
+
+
+/************************************************************************
+** SECCION DETALLES DE CAMPAÑA EN EL GESTOR DE CAMPAÑA
+************************************************************************/
+#details-contents {
+	margin: 0 30px 30px 30px;
+}
+
+
+/************************************************************************
+** SECCION GRAFICOS DEL DETALLE DE CAMPAÑAS
+************************************************************************/
+
+
+#graph-stat-01, #graph-stat-02 {
+	    width: auto;
+	    /* border-radius: 5px; */
+	    background-color: #eee;
+	    font-family: 'Roboto', sans-serif;
+	    border: 1px solid #ddd;
+	    text-align: center;
+	    /* padding: 8px 8px 8px 8px; */
+	    /* float: left; */
+	    margin: 2px auto;
+}
+#graph-stat-02 {
+	margin-left: 25px;
+}
+.gs-header {
+	background-color: #f9f9f9;
+	padding: 5px;
+}
+.gs-header h4, .gs-header h5 {
+	margin:0;
+	padding: 0;
+}
+.gs-header h5 {
+		font-weight: 300;
+}
+
+
+
+/************************************************************************
+** SECCION DE ACCIONES PARA EL GESTOR DE CONTACTOS
+************************************************************************/
+#cbo-action_options {
+	width: 100%;
+	display: block;
+	/*clear: both;
+	background-color: #ddd;*/
+
+}
+
+
+#items-data{
+	width: 90% !important;
+}
+
+.group-actions{
+	vertical-align: middle;
+}
+
+.FormImportCSV{
+	display: flex;
+	width: 50%;
+	text-align: center;
+	background: white;
+	border: 1px solid #f1f1f1;
+	padding: 10px 0px;
+	margin: 0px auto;
+}
+
+#btnImportarCSV, #file-upload{
+	margin: 0 10px;
+}
+
+#contenedorImportCSV{
+	margin: 0 auto;
+	text-align: center;
+}
+#descargarCSV{
+		background: black !important;
+		border: 0px  !important;
+		/*padding: .3rem !important;
+		line-height: initial !important;*/
+		border-radius: 0px !important;
+		color: white !important;
+		transition: 80ms ease-out all !important;
+		text-shadow: 0px 0px 0px transparent;
+		text-transform: capitalize !important;
+		padding: 5px;
+}
+#descargarCSV:hover{
+	background: firebrick !important;
+}
+#lista-pasos-import-csv li{
+	line-height: 50px;
+	width: 60%;
+	text-align: left;
+}

@@ -1,0 +1,2 @@
+<p>La aplicación <strong><?php echo $name ?></strong> ha sido actualizada.</p>
+<p>Por favor ingresa a <a href="<?php echo base_url('admin/recents') ?>" target="_blank">Nuevas Aplicaciones</a> para revisar las últimas aplicaciones actualizadas, o haz <a href="<?php echo base_url('landing/'.$uri); ?>" target="_blank">clic aquí</a> para ir directamente a la aplicación para aprobar.</p>

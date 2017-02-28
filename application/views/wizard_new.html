@@ -1,0 +1,482 @@
+<!doctype html>
+<html>
+
+<head>
+	<title>wizard_v3</title>
+	<!-- LE METAs -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+
+	<!-- LE CSS -->
+	<link rel="stylesheet" href="../../assets/css/bootstrap.css">
+	<link rel="stylesheet" href="../../assets/css/bootstrap-responsive.css">
+	<link rel="stylesheet" href="../../assets/css/wizard-v3.css">
+	<link rel="stylesheet" href="../../assets/css/colorbox.css">
+
+	<!-- LE FONTS -->
+   <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
+
+</head>
+
+<body>
+	<div id="wrapper">
+		<!-- BARRA SUPERIOR -->
+		<div id="head_bar">
+			<div class="container" id="head_container">
+				<div id="brand">LOGO</div>
+				<div class="btn-group" id="user_bar">
+		        <button class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+		        	<i class="icon-user"></i> Viktor Lozano
+		          <span class="caret"></span> 
+		        </button>
+		        <ul class="dropdown-menu">
+		          <li>
+		            <a href="#">First Link</a> 
+		          </li>
+		          <li>
+		            <a href="#">Second Link</a> 
+		          </li>
+		          <li>
+		            <a href="#">Third Link</a> 
+		          </li>
+		        </ul>
+		      </div> <!-- .btn-group -->
+	      </div> <!-- container -->
+		</div> <!-- #head_bar -->
+
+		<!-- CUERPO APP -->
+		<form>
+		<div class="container" id="body_container">
+			<header>
+				<h1>Creador de aplicaciones</h1>
+			</header>
+
+			<!-- SECCION 1 - PERSONALIZACION VISUAL -->
+			<section id="visual-customize">
+				<h2>Personalización visual</h2>
+				<div class="row section-content">
+					<!-- 1a COLUMNA -->
+					<div class="span6 left-column">
+						<div class="control-group">
+						
+							<div class="control-group">
+								<label class="control-label">Nombre de la aplicación:</label>
+								<div class="controls">
+									<input type="text" class="input-medium input-block-level" name="nombre_app" id="nombre_app"> 
+								</div>
+							</div>
+							<div class="control-group">
+								<label class="control-label">Imagen de fondo (1000 x 650 px):</label>
+								<div class="controls">
+									<input type="text" class="input-block-level input-medium" name="img_fondo" id="img_fondo"> 
+								</div>
+							</div>
+							<div class="control-group">
+								<label class="control-label">Logotipo (340px ancho):</label>
+								<div class="controls">
+									<input type="text" class="input-block-level input-medium" name="img_logotipo" id="img_logotipo"> 
+								</div>
+							</div>
+							<div class="control-group">
+								<label class="control-label">Slogan:</label>
+								<div class="controls">
+									<input type="text" class="input-block-level input-medium" name="slogan" id="slogan"> 
+								</div>
+							</div>
+							<div class="control-group">
+								<label class="control-label">Descripción de la aplicación:</label>
+								<div class="controls">
+									<textarea class="input-block-level" style="margin-top: 0px; margin-bottom: 10px; height: 78px;"
+									name="descripcion" id="descripcion"></textarea>
+								</div>
+							</div>
+							<div class="control-group">
+								<label class="control-label">Video:</label>
+								<div class="controls">
+									<input type="text" class="input-block-level input-medium" name="video" id="video"> 
+								</div>
+							</div>
+							<div class="control-group">
+								<label class="control-label">Imagen secundaria:</label>
+								<div class="controls">
+									<input type="text" class="input-medium input-block-level" name="img_secundaria" id="img_secundaria"> 
+								</div>
+							</div>
+							<div class="control-group">
+								<label class="control-label">Imagen para el market:</label>
+								<div class="controls">
+									<input type="text" class="input-medium input-block-level" name="img_para_market" id="img_para_market"> 
+								</div>
+							</div>
+						</div>
+					</div> <!-- #span6 1a columna de personalizacion visual-->
+
+					<!-- 2a COLUMNA -->
+					<div class="span6 right-column">
+						<div id="img-container" class="hidden-phone"></div>
+						<div id="img-container-mask" class="hidden-phone" style="display:none"></div>
+					</div>
+				</div> <!-- .row -->
+			</section> <!-- #visual-customize -->
+
+			<!-- SECCIÓN 2 - PERSONALIZACIÓN AVANZADA -->
+			<section id="advanced-customize">
+				<h2>Personalización avanzada</h2>
+				<div class="row">
+
+					<!-- 1a COLUMNA -->
+					<div class="span6 left-column">
+						<div class="control-group">
+							<label class="control-label">Categoría:</label>
+							<div class="controls">
+								<select class="input-block-level">
+									<option>Categoría 1</option>
+									<option>Categoría 2</option>
+									<option>Categoría 3</option>
+								</select>
+								<a class="btn pull-right btn-block">Agregar campos dinámicos</a>
+								<a></a> 
+							</div>
+						</div>
+					</div>
+
+					<!-- 2a COLUMNA -->
+					<div class="span6 right-column">
+						<div class="control-group">
+							<label class="control-label">Privacidad de la aplicación (por defecto es pública)</label>
+							<div class="controls">
+								<label class="radio" for="radio">
+									<input type="radio" value="publica" id="radio" name="privacidad" checked="checked">
+									<span>Pública</span> 
+								</label>
+								<label class="radio" for="radio">
+									<input type="radio" value="privada" id="radio" name="privacidad">
+									<span>Privada</span> 
+								</label>
+								<label class="pull-left">Dominio propio:&nbsp;</label>
+								<input type="text" class="pull-left input-xlarge" placeholder="http://www.midominio.com" name="dominio"> 
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</section>
+
+
+			<!-- SECCION 3 - PERSONALIZAR PAGO -->
+			<section id="payment-customize">
+				<h2>Personalizar pago</h2>
+				<div class="one-column">
+					<p>El modelo de costeo funciona así:</p>
+					<ol>
+						<li>kkatoo debe pagar unas tarifas según el destino escogido por el usuario y el número telefónico a llamar. <a class="inline simulator_link" href="#simulator">Consultar tarifas.</a></li>
+						<li>A este costo, se le suma el porcentaje de recargo que coloques en la casilla donde se indica y ese es el precio que se le    
+	     cobrará al usuario.</li>
+	     				<li>Del valor que determines, saldrá tu ganancia que corresponde al 70% del recargo y la de kkatoo que toma el 30% por 
+	     concepto de administración de la plataforma.</li>
+					</ol>
+					<p>A continuación, digita el porcentaje de recargo que deseas: <input type="text" class="input-mini"> <span class="percent">%</span></p>
+				</div> <!-- .one-column -->
+			</section>
+
+
+
+			<!-- SECCION 4 - LIBRERIA DE CONTENIDOS -->
+			<section id="content-library">
+				<h2>Agregar contenidos</h2>
+				<div class="row">
+
+					<!-- 1a COLUMNA -->
+					<div class="span7 left-column" id="content-library-list">
+						<p class="subtitulo">Contenidos que tendrá disponible el usuario</p>
+						<table class="table table-striped">
+							<thead>
+                        <tr>
+                          <th><input type="checkbox" class="check-all"></th>
+                          <th>Nombre</th>
+                          <th class="center">Acción</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    		<!-- ESTA PARTE ES LA QUE SE REPITE EN UN CICLO -->
+                        <tr>
+                          <td><input type="checkbox" class="chk-select"></td>
+                          <td>Chiste "Lagartijas amarillas"</td>
+									<td class="center">
+	                           <a href="javascript:;" class="item-edit-ico" data-id="107"></a>
+	                           <a href="javascript:;" class="item-view-ico" data-id="107"></a>
+	                           <a href="http://kka.to/kkatoo/contacts/delete_contact/107" class="item-delete-ico"></a>
+                        	</td>
+                        </tr>
+                        <!-- HASTA AQUI -->
+
+                        <tr>
+                           <td><input type="checkbox" class="chk-select"></td>
+                           <td>Chiste "Juanito en la tienda"</td>
+                           <td class="center">
+	                           <a href="javascript:;" class="item-edit-ico" data-id="107"></a>
+	                           <a href="javascript:;" class="item-view-ico" data-id="107"></a>
+	                           <a href="http://kka.to/kkatoo/contacts/delete_contact/107" class="item-delete-ico"></a>
+                        	</td>
+                        </tr>
+                        <tr>
+                           <td><input type="checkbox" class="chk-select"></td>
+                           <td>Chiste "El globo saltador"</td>
+                           <td class="center">
+	                           <a href="javascript:;" class="item-edit-ico" data-id="107"></a>
+	                           <a href="javascript:;" class="item-view-ico" data-id="107"></a>
+	                           <a href="http://kka.to/kkatoo/contacts/delete_contact/107" class="item-delete-ico"></a>
+                        	</td>
+                        </tr>
+                        <tr>
+                           <td><input type="checkbox" class="chk-select"></td>
+                           <td>Chiste "Calentando todo"</td>
+                           <td class="center">
+	                           <a href="javascript:;" class="item-edit-ico" data-id="107"></a>
+	                           <a href="javascript:;" class="item-view-ico" data-id="107"></a>
+	                           <a href="http://kka.to/kkatoo/contacts/delete_contact/107" class="item-delete-ico"></a>
+                        	</td>
+                        </tr>
+                        <tr>
+                           <td><input type="checkbox" class="chk-select"></td>
+                           <td>Chiste "Jaimito, presumo"</td>
+                           <td class="center">
+	                           <a href="javascript:;" class="item-edit-ico" data-id="107"></a>
+	                           <a href="javascript:;" class="item-view-ico" data-id="107"></a>
+	                           <a href="http://kka.to/kkatoo/contacts/delete_contact/107" class="item-delete-ico"></a>
+                        	</td>
+                        </tr>
+                        <tr>
+                           <td><input type="checkbox" class="chk-select"></td>
+                           <td>Chiste "Carlos el cartero"</td>
+                           <td class="center">
+	                           <a href="javascript:;" class="item-edit-ico" data-id="107"></a>
+	                           <a href="javascript:;" class="item-view-ico" data-id="107"></a>
+	                           <a href="http://kka.to/kkatoo/contacts/delete_contact/107" class="item-delete-ico"></a>
+                        	</td>
+                        </tr>
+                    </tbody>
+						</table>
+
+						<div class="pagination">
+							<ul>
+								<li><a href="#">Prev</a></li>
+								<li><a href="#">1</a></li>
+								<li><a href="#">2</a></li>
+								<li><a href="#">3</a></li>
+								<li><a href="#">4</a></li>
+								<li><a href="#">Next</a></li>
+							</ul>
+						</div>
+						
+						<label class="checkbox" for="checkbox">
+				        <input type="checkbox" value="true" id="grabar_intro" name="grabar_intro"> Permitir a los usuarios grabar un intro
+				      </label>
+				      <label class="checkbox" for="checkbox">
+				        <input type="checkbox" value="true" id="grabar_cierre" name="grabar_cierre"> Permitir a los usuarios grabar un cierre
+				      </label>
+
+					</div><!-- span 7 #content-library-list -->
+
+					<!-- 2a COLUMNA -->
+					<div class="span5 right-column" id="content-library-tabs">
+						<p class="subtitulo">Grabar nuevos contenidos</p>
+						<div class="tabbable tabbable-bordered tabs-left">
+						  	<ul class="nav nav-tabs">
+						    	<li class="active"><a href="#narrar" data-toggle="tab" id="tab-narrar" ><img src="../../assets/img/ico-text-2-speech-24.png" alt="Narrar"></a></li>
+						    	<li><a href="#subir" data-toggle="tab" id="tab-subir" ><img src="../../assets/img/ico-upload-audio-24.png" alt="Narrar"></a></li>
+						    	<li><a href="#grabar" data-toggle="tab" id="tab-grabar" ><img src="../../assets/img/ico-rec-audio-24.png" alt="Narrar"></a></li>
+						    	<!-- <li><a href="#seleccionar" data-toggle="tab" id="tab-seleccionar" ><img src="../../../assets/img/ico-choose-audio-24.png" alt="Narrar"></a></li> -->
+						  	</ul>
+						  	<div class="tab-content">
+						  		<!-- TAB NARRAR -->
+						    	<div class="tab-pane active" id="narrar">
+						    		<p>Escribe el texto a narrar:</p>
+                        	<textarea name="txt_narrar_small" id="txt_narrar_small"></textarea>
+                        	<br />
+                        	<select id="cbo_vozmini" name="cbo-vozmini" class="input-block-level">
+	                           <option value="0" disabled selected>Selecciona la voz</option>
+                           	<option value="voz1">Voz1</option> 
+                           	<option value="voz2">Voz2</option>
+                           	<option value="voz3">Voz3</option>
+                        	</select>
+                        	<a class="iframe voice_link" href="http://kka.to/kkatoo/apps/voice_view">Ejemplo de las voces</a>
+
+                        	<input type="button" value="Guardar narración" class="btn btn-block btn-guardar-narracion" />
+						    	</div>
+
+						    	<!-- TAB SUBIR -->
+								<div class="tab-pane" id="subir">
+									<div id="dropdiv-small">
+										<form>
+                                	<div class="initial-audio-upload">
+                                   	<a href="javascript:void(0);">
+                                   	<label class="cabinet"> 
+                                    	<input type="file" class="file"  name="Filedata" data-context="dropdiv-small" accept="audio/mp3" />
+                                   	</label>
+                                   	</a>
+						     				</div>
+                                
+                                	<!-- <div class="fakeupload">
+                                		<img src="../../../assets/img/ico-audio-generic-medium.png" />
+                                		<p><a href="javascript:void(0)"></a><?php echo $this->lang->line('remplaceaudio'); ?>:<span></span></p>
+                                		<input type="submit" id="subir-audio" class="btn" value="SUBIR AUDIO" />
+                                	</div> -->
+                                
+                           	 	<!-- <input type="file" name="Filedata" /> -->
+		                     		<input type="hidden" name="id_campaign"  value="<?php echo $id_campaign; ?>" />
+		                     		<input type="hidden" name="arbol" value="" class="uploadsmall-arbol" />
+                           	</form>
+                           	
+                              <span class="msg" id="msg-upload">Selecciona un archivo para subir</span>
+                           </div> <!-- dropdiv-small -->
+                           <div id="upload-audio">
+                           	Debes ser propietario de los derechos de autor o tener permiso de usar el contenido que subas. <a href="#MAS INFORMACION">Más información</a>
+                           </div>
+								</div>
+
+
+								<!-- TAB GRABAR -->
+								<div class="tab-pane" id="grabar">
+									<object width="100%" height="100%" type="application/x-shockwave-flash" data="../../assets/swf/kkatoo-audio-recorder_small.swf">
+                              <param name="movie" value="../../assets/swf/kkatoo-audio-recorder_small.swf" />
+                              <param name="quality" value="high" />
+                              <param name="wmode" value="" />
+                           </object>
+								</div>
+
+								<!-- TAB SELECCIONAR  
+								<div class="tab-pane" id="seleccionar">
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, sequi ullam nihil sapiente accusamus ipsum perspiciatis facere quae veritatis necessitatibus facilis ex odio eaque magni minus reiciendis porro dolorum temporibus!</p>
+								</div>-->
+						  </div>
+						</div>
+					</div><!-- .span5 #content-library-tabs -->
+				</div><!-- .row -->
+			</section> <!-- #content-library -->
+
+
+			<div id="hidden_container" style="display:none">
+				<?php if($app_data->tipo!=1): ?>
+	            <div id="simulator">
+					<h2>SIMULADOR DE PRECIOS</h2>
+					<p>Seleccione a continuación un país, escriba un número telefónico y presione simular para saber exactamente cuánto le costará una llamada de un minuto a ese destino.</p>
+					<?php
+	                    $hidden = array('app' => $app_data->id);
+	                    $attributes = array('name' => 'form_simulador', 'id' => 'form_simulador', 'class'=>'landing_suscribe');
+	                    echo form_open('landing/check_value_simulator', $attributes, $hidden);
+	                ?>
+					<select name="indi_pais" id="indi-pais">
+						<?php foreach($country as $county): ?>
+						<option value="<?php echo $county->id ?>" data-iconurl="<?php echo base_url("assets/img/flags/".$county->iso3.".png"); ?>"><?php echo $county->name ?></option>
+						<?php endforeach; ?>
+					</select>
+					<input type="text" name="phone" value="" id="phone" maxlength="10" size="10" placeholder="TELEFONO MOVIL">
+					<input type="submit" value="Simular" />
+					</form>
+					<div id="valor_simulado">
+						Una llamada al destino seleccionado costaría:
+						<p class="txt simulated_val">$</p>
+	            	</div>
+	            </div>
+	            
+	        	<?php endif; ?>
+        </div>
+
+
+			<div id="btn_container">			
+				 <button class="btn btn-warning btn-large btn-save-app">GUARDAR Y ENVIAR APLICACIÓN PARA APROBACIÓN</button>
+			</div>
+		</div><!-- #container -->
+		</form>
+	</div><!-- #wrapper -->
+
+	<!-- LE JAVASCRIPT -->
+	<script src="../../assets/js/vendor/jquery-1.8.3.min.js"></script>
+	<script src="../../assets/js/bootstrap.min.js"></script>
+   <script src="../../assets/js/fancybox/jquery.fancybox-1.3.4.js"></script> <!-- para las voces -->
+   <script src="../../assets/js/jquery.colorbox-min.js"></script><!-- para el simulador -->
+   <script src="../../assets/js/si.files.js"></script> <!-- para la subida de archivos -->
+
+	<script>
+
+	$(document).ready(function($){
+		$(".ifancybox").fancybox({
+        	'autoDimensions': false,
+       	'autoScale' : false,
+         'transitionIn' : 'elastic',
+         'transitionOut' : 'elastic',
+         'type' : 'iframe',
+         'scrolling': 'auto'
+	   });
+	});
+
+        $("#img_fondo").focus(function(event) {
+        		$("#img-container").css("background-position", "0px -330px")
+        })
+        $("#img_fondo").focusout(function(event) {
+        		$("#img-container").css("background-position", "0px 0px")
+        })
+
+        $("#nombre_app").focus(function(event) {
+        		$("#img-container-mask").css("display", "")
+        		$("#img-container-mask").css("background-position", "0px 0px")
+        })
+        $("#nombre_app").focusout(function(event) {
+        		$("#img-container-mask").css("display", "none")
+        })
+
+        $("#img_logotipo").focus(function(event) {
+        		$("#img-container-mask").css("display", "")
+        		$("#img-container-mask").css("background-position", "0px -330px")
+        })
+        $("#img_logotipo").focusout(function(event) {
+        		$("#img-container-mask").css("display", "none")
+        })
+
+        $("#slogan").focus(function(event) {
+        		$("#img-container-mask").css("display", "")
+        		$("#img-container-mask").css("background-position", "0px -660px")
+        })
+        $("#slogan").focusout(function(event) {
+        		$("#img-container-mask").css("display", "none")
+        })
+
+        $("#descripcion").focus(function(event) {
+        		$("#img-container-mask").css("display", "")
+        		$("#img-container-mask").css("background-position", "0px -990px")
+        })
+        $("#descripcion").focusout(function(event) {
+        		$("#img-container-mask").css("display", "none")
+        })
+
+        $("#video").focus(function(event) {
+        		$("#img-container-mask").css("display", "")
+        		$("#img-container-mask").css("background-position", "0px -1320px")
+        })
+        $("#video").focusout(function(event) {
+        		$("#img-container-mask").css("display", "none")
+        })
+        $("#img_secundaria").focus(function(event) {
+        		$("#img-container-mask").css("display", "")
+        		$("#img-container-mask").css("background-position", "0px -1650px")
+        })
+        $("#img_secundaria").focusout(function(event) {
+        		$("#img-container-mask").css("display", "none")
+        })
+
+        SI.Files.stylizeAll();
+
+        $("a.simulator_link").colorbox({inline:true, href:"#simulator" ,width:500});
+        $("a.voice_link").colorbox({iframe:true, width:500, height:500});
+
+       /* ACTIVAR LA SELECCIÓN DE TODAS LAS FILAS UNA POR UNA */
+        // $(".check-all").click(function(event){
+        //     resaltar_all_filas(this);
+        // });
+
+
+	</script>
+</body>
+
+</html>

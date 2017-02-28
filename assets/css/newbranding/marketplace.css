@@ -1,0 +1,61 @@
+   body{
+   	background: #2E80AB !important;
+   }
+   h1{
+        margin: 8rem auto !important;
+        text-align: center;
+        font-size: 2.5em;
+    }
+
+    .app_link{
+        display: block !important;
+    }
+    
+    .mkt-app-ficha{
+    	margin-bottom: 0 !important;
+	    background-color: #f7f8f9 !important;
+	    margin: 0 5px !important;
+      text-align: center !important;
+      font-weight: 300;
+      padding: 5px !important;
+      flex: auto !important;
+    }
+    .mkt-app-foto{
+        border-radius: 100% !important;
+        width: 128px !important;
+        height: 128px !important;
+    }
+   .mkt-app-ficha span{
+        font-style: italic;
+       color: #757474;
+       font-weight: 700;
+       font-size: 18px !important;
+    }
+    .mkt-app-ficha h4{
+        font-size: 18px !important;
+        text-align: center !important;
+        font-weight: 300 !important;
+    }
+    .mkt-app-ficha p{
+        padding: 3px 0px;
+    }
+    
+
+    #header-mkt{
+  background: white !important;
+	padding-top: 1em !important;
+	padding-bottom: 1em !important;
+	width: 100% !important;
+  }
+  #recargar-saldo{
+    margin: 5px;
+    padding: .5em 1em;
+    box-sizing: border-box;
+    background: #fff;
+    border-radius: 3px;
+    display: inline-block;
+    border: 1px solid #fcba41;
+    cursor: pointer;
+    vertical-align: middle;
+}
+

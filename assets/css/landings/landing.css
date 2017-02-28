@@ -1,0 +1,64 @@
+/* CSS Document */
+
+/**	  MENSAJES  **/
+.mensajes{
+	
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	padding-top: 15px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: auto;
+	width: 100%;
+	padding-bottom: 12px;
+	z-index: 999;	
+}
+.exito{background: #ABD8B7;}
+.error{background: #FAFFBD;}
+.mensaje{
+	display: block;
+	margin-left: 4.5%;
+	font-size: 14px;
+	font-weight: 500;
+	letter-spacing: 0;
+	color: #000;
+}
+.titulo-mensaje{
+	font-weight: bolder;
+	font-size: 20px;
+	margin-left: 3%;
+}
+.exito .titulo-mensaje{color: #036905;}
+.error .titulo-mensaje{color: #c00607;}
+.mensajes .cerrar{
+	position: absolute;
+	font-size: 18px;
+	font-weight: bolder;
+	top: 20px;
+	right: 30px;
+}
+.mensajes .cerrar a{
+	text-decoration:none;
+	color: black;
+}
+
+
+/*******************************************************************
+** VENTANA FLOTANTE DE CREDITOS DISPONIBLES*************************/
+
+#available-kredits {
+	position: absolute;
+	left:550px;
+	top:30px;
+	width: 430px;
+	height: 120px;
+	border: 3px solid #FFF;
+	border-radius: 5px;
+	background-color:rgb(76,181,51);
+	font-size: 24px;
+	text-align: center;
+	font-family: "Open Sans";
+	padding: 20px;
+	color:#000;
+}

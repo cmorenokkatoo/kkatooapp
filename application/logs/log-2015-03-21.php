@@ -1,0 +1,114 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-03-21 02:01:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 02:01:18 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 04:08:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 04:18:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 04:18:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 04:18:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 04:18:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 05:22:06 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-03-21 05:22:07 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-03-21 05:22:07 --> 404 Page Not Found --> wp-content
+ERROR - 2015-03-21 05:22:08 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-03-21 05:22:08 --> 404 Page Not Found --> wp-content
+ERROR - 2015-03-21 05:22:08 --> 404 Page Not Found --> blog
+ERROR - 2015-03-21 05:22:09 --> 404 Page Not Found --> blog
+ERROR - 2015-03-21 09:09:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 10:46:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 10:52:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 11:58:26 --> 404 Page Not Found --> assets
+ERROR - 2015-03-21 11:58:53 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-03-21 11:58:58 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-03-21 11:58:58 --> Severity: Notice  --> Undefined variable: contact /home/kka/public_html/application/views/contact_manager.php 813
+ERROR - 2015-03-21 12:25:40 --> 404 Page Not Found --> assets
+ERROR - 2015-03-21 12:25:45 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-03-21 13:04:12 --> 404 Page Not Found --> editor
+ERROR - 2015-03-21 13:04:12 --> 404 Page Not Found --> FCKeditor
+ERROR - 2015-03-21 13:04:13 --> 404 Page Not Found --> FCK
+ERROR - 2015-03-21 13:04:14 --> 404 Page Not Found --> manage
+ERROR - 2015-03-21 13:04:14 --> 404 Page Not Found --> editor
+ERROR - 2015-03-21 13:04:14 --> 404 Page Not Found --> editor
+ERROR - 2015-03-21 13:58:18 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 14:02:20 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 15:30:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 16:36:01 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2015-03-21 16:36:01 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2015-03-21 16:38:50 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 16:42:51 --> 404 Page Not Found --> assets
+ERROR - 2015-03-21 16:42:51 --> 404 Page Not Found --> assets
+ERROR - 2015-03-21 16:42:51 --> 404 Page Not Found --> assets
+ERROR - 2015-03-21 16:42:51 --> 404 Page Not Found --> assets
+ERROR - 2015-03-21 16:42:56 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-03-21 16:43:02 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-03-21 16:43:47 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-03-21 16:44:22 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-03-21 16:55:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 17:26:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 17:29:47 --> 404 Page Not Found --> editor
+ERROR - 2015-03-21 17:29:47 --> 404 Page Not Found --> cms
+ERROR - 2015-03-21 17:29:48 --> 404 Page Not Found --> javascripts
+ERROR - 2015-03-21 17:29:49 --> 404 Page Not Found --> news
+ERROR - 2015-03-21 17:29:50 --> 404 Page Not Found --> html
+ERROR - 2015-03-21 17:29:50 --> 404 Page Not Found --> _engine
+ERROR - 2015-03-21 17:29:51 --> 404 Page Not Found --> include
+ERROR - 2015-03-21 17:29:52 --> 404 Page Not Found --> HTMLEditor
+ERROR - 2015-03-21 17:29:53 --> 404 Page Not Found --> Backend
+ERROR - 2015-03-21 17:29:54 --> 404 Page Not Found --> news_script
+ERROR - 2015-03-21 17:29:56 --> 404 Page Not Found --> wp-content
+ERROR - 2015-03-21 17:29:56 --> 404 Page Not Found --> wp-content
+ERROR - 2015-03-21 17:29:57 --> 404 Page Not Found --> community
+ERROR - 2015-03-21 17:29:58 --> 404 Page Not Found --> scripts
+ERROR - 2015-03-21 17:29:59 --> 404 Page Not Found --> assets
+ERROR - 2015-03-21 17:29:59 --> 404 Page Not Found --> main
+ERROR - 2015-03-21 17:30:00 --> 404 Page Not Found --> php
+ERROR - 2015-03-21 17:30:01 --> 404 Page Not Found --> register
+ERROR - 2015-03-21 17:30:02 --> 404 Page Not Found --> CFIDE
+ERROR - 2015-03-21 17:30:03 --> 404 Page Not Found --> fckeditor
+ERROR - 2015-03-21 17:30:04 --> 404 Page Not Found --> inurl-
+ERROR - 2015-03-21 17:30:05 --> 404 Page Not Found --> pub
+ERROR - 2015-03-21 17:30:05 --> 404 Page Not Found --> Manage
+ERROR - 2015-03-21 17:30:07 --> 404 Page Not Found --> public
+ERROR - 2015-03-21 17:30:08 --> 404 Page Not Found --> asetrack
+ERROR - 2015-03-21 17:30:09 --> 404 Page Not Found --> js
+ERROR - 2015-03-21 17:30:10 --> 404 Page Not Found --> wp-content
+ERROR - 2015-03-21 17:30:10 --> 404 Page Not Found --> fckphp
+ERROR - 2015-03-21 17:30:11 --> 404 Page Not Found --> site/modules
+ERROR - 2015-03-21 17:30:12 --> 404 Page Not Found --> AWT
+ERROR - 2015-03-21 17:30:13 --> 404 Page Not Found --> fronteiranorte
+ERROR - 2015-03-21 17:30:14 --> 404 Page Not Found --> app
+ERROR - 2015-03-21 17:30:15 --> 404 Page Not Found --> cart
+ERROR - 2015-03-21 17:30:15 --> 404 Page Not Found --> paginas
+ERROR - 2015-03-21 17:30:16 --> 404 Page Not Found --> util
+ERROR - 2015-03-21 17:30:17 --> 404 Page Not Found --> extensions
+ERROR - 2015-03-21 17:30:18 --> 404 Page Not Found --> mambots
+ERROR - 2015-03-21 17:30:18 --> 404 Page Not Found --> blog
+ERROR - 2015-03-21 17:30:19 --> 404 Page Not Found --> classifieds
+ERROR - 2015-03-21 17:30:20 --> 404 Page Not Found --> data
+ERROR - 2015-03-21 17:30:20 --> 404 Page Not Found --> adminweb
+ERROR - 2015-03-21 17:30:21 --> 404 Page Not Found --> jsincludes
+ERROR - 2015-03-21 17:30:22 --> 404 Page Not Found --> modules
+ERROR - 2015-03-21 17:30:22 --> 404 Page Not Found --> resources
+ERROR - 2015-03-21 17:30:23 --> 404 Page Not Found --> common
+ERROR - 2015-03-21 17:30:24 --> 404 Page Not Found --> library
+ERROR - 2015-03-21 17:30:24 --> 404 Page Not Found --> multicms
+ERROR - 2015-03-21 17:30:25 --> 404 Page Not Found --> administrator
+ERROR - 2015-03-21 17:30:26 --> 404 Page Not Found --> plugins
+ERROR - 2015-03-21 17:30:26 --> 404 Page Not Found --> html
+ERROR - 2015-03-21 17:30:27 --> 404 Page Not Found --> js
+ERROR - 2015-03-21 17:30:28 --> 404 Page Not Found --> javascripts
+ERROR - 2015-03-21 17:30:29 --> 404 Page Not Found --> joomla
+ERROR - 2015-03-21 17:30:29 --> 404 Page Not Found --> assets
+ERROR - 2015-03-21 17:30:30 --> 404 Page Not Found --> v1
+ERROR - 2015-03-21 17:30:31 --> 404 Page Not Found --> core
+ERROR - 2015-03-21 17:30:31 --> 404 Page Not Found --> db
+ERROR - 2015-03-21 17:30:32 --> 404 Page Not Found --> dhtml_editor
+ERROR - 2015-03-21 17:30:33 --> 404 Page Not Found --> blogscript
+ERROR - 2015-03-21 17:30:33 --> 404 Page Not Found --> gallery
+ERROR - 2015-03-21 17:30:34 --> 404 Page Not Found --> control
+ERROR - 2015-03-21 17:30:35 --> 404 Page Not Found --> gateweb
+ERROR - 2015-03-21 17:30:36 --> 404 Page Not Found --> static
+ERROR - 2015-03-21 20:41:30 --> Severity: Warning  --> json_encode(): Invalid UTF-8 sequence in argument /home/kka/public_html/application/controllers/campaign.php 224
+ERROR - 2015-03-21 21:39:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 21:45:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-03-21 23:12:51 --> 404 Page Not Found --> robots.txt

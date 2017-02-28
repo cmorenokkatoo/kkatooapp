@@ -1,0 +1,9 @@
+.container{
+	background-image: url("assets/img/verify_back.png");
+	text-align: center;
+	margin: 0 auto;
+}
+
+.logo-header{
+margin-left: 25%
+}

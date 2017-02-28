@@ -1,0 +1,114 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-05-30 01:19:20 --> 404 Page Not Found --> kkatoo
+ERROR - 2015-05-30 04:24:55 --> 404 Page Not Found --> wp-login.php
+ERROR - 2015-05-30 04:24:57 --> 404 Page Not Found --> wp-login.php
+ERROR - 2015-05-30 04:30:24 --> 404 Page Not Found --> includes
+ERROR - 2015-05-30 04:30:24 --> 404 Page Not Found --> assets
+ERROR - 2015-05-30 04:30:24 --> 404 Page Not Found --> inc
+ERROR - 2015-05-30 04:30:24 --> 404 Page Not Found --> lib
+ERROR - 2015-05-30 04:30:28 --> 404 Page Not Found --> core_main
+ERROR - 2015-05-30 04:30:28 --> 404 Page Not Found --> js
+ERROR - 2015-05-30 04:30:28 --> 404 Page Not Found --> plugins
+ERROR - 2015-05-30 04:30:28 --> 404 Page Not Found --> fckeditor
+ERROR - 2015-05-30 04:30:28 --> 404 Page Not Found --> files
+ERROR - 2015-05-30 04:30:29 --> 404 Page Not Found --> ckeditor
+ERROR - 2015-05-30 04:30:29 --> 404 Page Not Found --> automne
+ERROR - 2015-05-30 04:30:29 --> 404 Page Not Found --> addons
+ERROR - 2015-05-30 04:30:29 --> 404 Page Not Found --> files
+ERROR - 2015-05-30 04:40:28 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 04:42:14 --> 404 Page Not Found --> files
+ERROR - 2015-05-30 04:42:14 --> 404 Page Not Found --> js
+ERROR - 2015-05-30 04:42:14 --> 404 Page Not Found --> assets
+ERROR - 2015-05-30 04:42:14 --> 404 Page Not Found --> inc
+ERROR - 2015-05-30 04:42:14 --> 404 Page Not Found --> lib
+ERROR - 2015-05-30 04:42:19 --> 404 Page Not Found --> core_main
+ERROR - 2015-05-30 04:42:19 --> 404 Page Not Found --> fckeditor
+ERROR - 2015-05-30 04:42:19 --> 404 Page Not Found --> plugins
+ERROR - 2015-05-30 04:42:19 --> 404 Page Not Found --> includes
+ERROR - 2015-05-30 04:42:19 --> 404 Page Not Found --> files
+ERROR - 2015-05-30 04:42:19 --> 404 Page Not Found --> ckeditor
+ERROR - 2015-05-30 04:42:19 --> 404 Page Not Found --> automne
+ERROR - 2015-05-30 04:42:19 --> 404 Page Not Found --> addons
+ERROR - 2015-05-30 07:03:08 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 07:29:05 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 07:29:06 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 07:29:06 --> 404 Page Not Found --> wp-content
+ERROR - 2015-05-30 07:29:12 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 07:29:12 --> 404 Page Not Found --> wp-content
+ERROR - 2015-05-30 07:29:18 --> 404 Page Not Found --> blog
+ERROR - 2015-05-30 07:29:24 --> 404 Page Not Found --> blog
+ERROR - 2015-05-30 07:35:00 --> 404 Page Not Found --> wp-login.php
+ERROR - 2015-05-30 07:35:01 --> 404 Page Not Found --> wp-login.php
+ERROR - 2015-05-30 08:05:15 --> 404 Page Not Found --> wp-login.php
+ERROR - 2015-05-30 08:05:17 --> 404 Page Not Found --> wp-login.php
+ERROR - 2015-05-30 08:13:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 08:48:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 09:29:31 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 09:30:23 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 09:41:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 09:55:26 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 10:26:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 11:33:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 12:21:04 --> 404 Page Not Found --> assets
+ERROR - 2015-05-30 12:21:05 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-05-30 12:21:09 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-05-30 12:21:09 --> Severity: Notice  --> Undefined variable: contact /home/kka/public_html/application/views/contact_manager.php 813
+ERROR - 2015-05-30 12:21:11 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-05-30 12:21:11 --> Severity: Notice  --> Undefined variable: contact /home/kka/public_html/application/views/contact_manager.php 813
+ERROR - 2015-05-30 12:21:27 --> 404 Page Not Found --> assets
+ERROR - 2015-05-30 12:21:34 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-05-30 12:21:39 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-05-30 12:22:37 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-05-30 12:23:09 --> Severity: Notice  --> Trying to get property of non-object /home/kka/public_html/application/views/contact_manager.php 810
+ERROR - 2015-05-30 13:32:25 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 13:32:27 --> 404 Page Not Found --> kkatoo
+ERROR - 2015-05-30 13:55:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 13:59:52 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 13:59:52 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 13:59:52 --> 404 Page Not Found --> wp-content
+ERROR - 2015-05-30 13:59:52 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 13:59:52 --> 404 Page Not Found --> wp-content
+ERROR - 2015-05-30 14:00:00 --> 404 Page Not Found --> blog
+ERROR - 2015-05-30 14:00:01 --> 404 Page Not Found --> blog
+ERROR - 2015-05-30 14:06:12 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 14:29:00 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 14:29:00 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 15:17:57 --> 404 Page Not Found --> wp-login.php
+ERROR - 2015-05-30 15:17:58 --> 404 Page Not Found --> wp-login.php
+ERROR - 2015-05-30 15:38:14 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 15:38:14 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 15:38:14 --> 404 Page Not Found --> wp-content
+ERROR - 2015-05-30 15:38:14 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 15:38:14 --> 404 Page Not Found --> wp-content
+ERROR - 2015-05-30 15:38:22 --> 404 Page Not Found --> blog
+ERROR - 2015-05-30 15:38:23 --> 404 Page Not Found --> blog
+ERROR - 2015-05-30 16:03:48 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 16:44:30 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 16:48:42 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 17:20:33 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 19:02:44 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 20:34:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 20:37:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 20:37:11 --> 404 Page Not Found --> xmlrpc.php
+ERROR - 2015-05-30 20:37:17 --> 404 Page Not Found --> blog
+ERROR - 2015-05-30 20:37:22 --> 404 Page Not Found --> blog
+ERROR - 2015-05-30 21:12:45 --> 404 Page Not Found --> robots.txt
+ERROR - 2015-05-30 21:42:34 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 21:42:36 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 21:42:36 --> 404 Page Not Found --> wp-content
+ERROR - 2015-05-30 21:42:36 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 21:42:38 --> 404 Page Not Found --> wp-content
+ERROR - 2015-05-30 21:42:49 --> 404 Page Not Found --> blog
+ERROR - 2015-05-30 21:42:51 --> 404 Page Not Found --> blog
+ERROR - 2015-05-30 21:51:58 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 21:51:58 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 21:51:59 --> 404 Page Not Found --> wp-content
+ERROR - 2015-05-30 21:51:59 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 21:51:59 --> 404 Page Not Found --> blog
+ERROR - 2015-05-30 21:51:59 --> 404 Page Not Found --> wp-content
+ERROR - 2015-05-30 21:52:00 --> 404 Page Not Found --> blog
+ERROR - 2015-05-30 21:55:42 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 21:59:54 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 21:59:59 --> 404 Page Not Found --> wp-admin
+ERROR - 2015-05-30 22:05:38 --> 404 Page Not Found --> robots.txt

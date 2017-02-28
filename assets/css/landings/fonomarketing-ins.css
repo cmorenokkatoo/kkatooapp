@@ -1,0 +1,533 @@
+* {
+	box-sizing:border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+html, body {
+	display:table;
+	margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+	background-color: #222;
+	margin: 0;
+	padding: 0;
+	font-family: "Open sans", sans-serif;
+	background: url(../../img/landings/fonomarketing-ins/bg-page.gif);
+
+}
+
+
+
+/*******************************************************************
+** CONTENEDOR PRINCIPAL DE LA PAGINA *******************************/
+
+#main-container {
+	position: relative;
+	display: table-cell;
+	height: 100%;
+	width: 100%;
+	margin: 0;
+   vertical-align: middle;
+}
+
+#main-content {
+	position: relative;
+	border: 1px solid #222;/**/
+	width: 1000px;
+	height: 650px;
+	overflow: none;
+	background: url(../../img/landings/fonomarketing-ins/background-image.jpg) no-repeat;
+	padding: 10px 40px;
+	margin: 0 auto;
+	-moz-box-shadow: 0 0 10px #000;
+	-webkit-box-shadow: 0 0 10px#000;
+	box-shadow: 0 0 10px #000;
+}
+
+
+
+
+/*******************************************************************
+** TITULO DE LA APLICACION ****************************************/
+
+#main-content h1, #main-content h2  {
+	font-family: "Yanone Kaffeesatz", sans-serif;
+}
+
+#main-content h2 { /*slogan*/
+	position: absolute;
+	top:50px;
+	left:470px;
+	font-size: 49px;
+	line-height: 40px;
+	color: #c1272d;
+	text-align: center;
+	letter-spacing: -1px;
+	margin:0;
+	text-shadow: 0 0 2px #b5b5b5 ;
+}
+
+#app-name-01 { /*fonocuentos*/
+	font-size: 40px;
+	-webkit-text-stroke-color: white;
+	-webkit-text-stroke-width: 1px;
+	letter-spacing: -2px;
+	color: #555;
+	text-shadow: 0 0 10px #666 ;
+}
+
+#app-name-02 { /*infantiles*/
+	font-size: 90px;
+	-webkit-text-stroke-color: white;
+	-webkit-text-stroke-width: 2px;
+	letter-spacing: -2px;	
+	text-shadow:
+   -2px -2px 0 #fff,  
+    2px -2px 0 #fff,
+    -2px 2px 0 #fff,
+     2px 2px 0 #fff;
+   	text-shadow: 0 0 10px #666;/**/
+}
+
+.rojo { color: #cc4844; }
+.naranja { color: #fea65c; }
+.amllo { color: #ede277; }
+.verde { color: #93ab4a; }
+.cian { color: #649db0; }
+.azul { color: #4857a4; }
+.morado { color: #835c9b; }
+
+
+
+/*******************************************************************
+** DESCRIPCION DE LA APLICACION ***********************************/
+
+#desc-container	{
+	width: 500px;
+	position: absolute;
+	top:315px;
+	left: 480px;
+	font-family: "Yanone Kaffeesatz", sans-serif;
+}
+
+#desc-container #sub-content-01	{
+	width: 246px;
+	/*position: absolute;*/
+	background:#c1272d;
+	border-radius: 10px;
+	/*top:315px;
+	left: 735px;*/
+	font-family: "Yanone Kaffeesatz", sans-serif;
+	float: left;
+	height: 300px;
+	font-size: 18px;
+	line-height: 20px;
+	padding: 10px;
+	text-align: justify;
+
+}
+
+#desc-container #sub-content-01 h3 {
+	font-weight: 400;
+	font-size: 28px;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+	letter-spacing: 0px;
+}
+
+#desc-container #sub-content-01 p {
+	color: #bbd7ca;
+	font-weight: 300;
+}
+
+
+
+#desc-container #sub-content-02	{
+	width: 246px;
+	/*position: absolute;*/
+	/*background:rgba(140,198,63,1);*/
+	border-radius: 10px;
+	border: 4px solid #999;
+	/*top:315px;
+	left: 735px;*/
+	font-family: "Yanone Kaffeesatz", sans-serif;
+	float: right;
+	height: 300px;
+}
+
+#desc-container #sub-content-02 h3 {
+	font-weight: 700;
+	font-size: 28px;
+	color: #c1272d;
+	margin: 0 0 0 10px;
+	padding: 0;
+}
+
+
+/*#desc-container p {
+	font-size: 16px;
+	margin: 0 0 0 0;
+	padding: 0;
+	line-height: 24px;
+	font-weight: 300;
+	color: #fff;
+}*/
+
+ol {
+	font-size: 14px;
+	line-height: 15px;
+	font-weight: 300;
+	color: #333;
+	padding: 0 10px 0 25px;
+	margin-top: 0;
+	text-align: justify;
+}
+li {
+
+	text-shadow: 0 0 1px #bbb;/**/
+	margin-top: 5px;
+}
+
+
+
+.resaltado {
+	font-weight: 700;
+}
+
+#video-container {
+	margin-top: 10px;
+	cursor: pointer;
+}
+
+#video-container .text {
+	font-size: 14px;
+	font-weight: 600;
+	text-align: right;
+	display: inline-block;
+	width: 260px;
+	line-height: 14px;
+}
+
+#video-container .img {
+	display: inline-block;
+	width: 41px;
+	height: 29px;
+	margin-left: 5px;
+}
+
+.video-link, .video-link:visited, .video-link:focus {
+	text-decoration: none;
+	color:#08e;
+}
+
+
+/*******************************************************************
+** PAG.2 CAMPOS DINAMICOS Y PAGO  **********************************/
+
+#extra-data-container {
+	width: 465px;
+	height: 430px;
+	padding: 20px;
+	overflow: auto;
+	background:rgba(255,255,255,0.8);
+	border-radius: 5px;
+	font-size: 14px;
+}
+
+#extra-data-container p {
+	margin: 0;
+	padding: 0;
+}
+
+.subtitulo {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+hr {
+	border-top: 1px dotted #ddd;
+	margin: 4px 0;
+	width: 100%;
+}
+
+label {
+	display:inline-block;
+	width: 90px;
+	margin: 0px 5px 0 0;
+	text-align: right;
+	line-height: 20px;
+}
+
+.dyn-label:after, label:after {
+	content:': ';
+}
+
+.form-row, .form-row-dyn {
+	margin: 10px 0;
+	vertical-align: bottom;
+}
+
+input[type="text"], .dyn-combo-field {
+	height: 30px;
+	border: 1px solid #ddd;
+	margin:0;
+	line-height: 30px;
+}
+
+.txt-field, .combo-field {
+	border: 1px solid #ddd;
+	width: 300px;
+	height: 30px;
+	margin:0;
+	line-height: 30px;
+}
+
+
+#consignacion_options {
+	background-color: #ddd;
+	padding: 15px;
+	font-size: 14px;
+	border-radius: 3px;
+	margin: 10px;
+}
+
+
+/*******************************************************************
+** PAG.3 PAGINA DE AGRADECIMIENTOS  ********************************/
+#thanks-container {
+	width: 440px;
+	height: 240px;
+	padding: 30px;
+	overflow: none;
+	background:rgba(255,255,255,0.8);
+	border-radius: 5px;
+	font-size: 14px;
+	margin-top: 75px
+}
+
+#thanks-container p.title { 
+	font-size: 24px;
+	text-align: center;
+}
+
+#thanks-container p.subtitle { 
+	font-size: 18px;
+	text-align: center;
+	color: #7d7d7d;
+}
+
+
+/*******************************************************************
+** IMAGEN ADICIONAL DE LA APLICACION ******************************/
+
+#img2-container {
+	position: absolute;
+	left: 546px;
+	top: 120px;
+}
+
+#secondary-img-footer {
+	font-family: "Yanone Kaffeesatz", sans-serif;
+	font-size:23px;
+	width: 360px;
+	font-weight: 400;
+	color: #444;
+}
+
+#secondary-img-footer a {
+	font-family: "Yanone Kaffeesatz", sans-serif;
+	font-size:22px;
+	font-weight: 400;
+	color: #999;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+
+/*******************************************************************
+** SUSCRIPCION ****************************************************/
+
+#susc-container {
+	width: 256px;
+	border-radius: 5px;
+	background-color: #FFF;
+	position: absolute;
+	top: 550px;
+	left: 100px;
+}
+
+
+.btn-fonomarketing-ins {
+	width: 256px;
+	height: 55px;
+	line-height: 55px;
+	border: 0;
+	border-radius: 5px;
+	font-family: "Yanone Kaffeesatz", sans-serif;
+	font-weight: 700;
+	font-size: 36px;
+	text-shadow: 0 -1px 0px #000;
+	color: #FFF;
+	cursor: pointer;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	letter-spacing: 2px;
+	background: #bd222a;
+}
+
+
+
+#indi-pais {
+	height: 30px;
+	width: 100px;
+	border: 1px solid #ddd;
+	font-family: "Open sans", sans-serif;
+	padding: 3px;
+	margin: 0px 0 0px 0px;
+}
+
+#phone {
+	height: 30px;
+	width: 140px;
+	border: 1px solid #ddd;
+	font-family: "Open sans", sans-serif;
+	padding: 3px;
+	margin: 0px 5px;
+}
+
+#email {
+	height: 30px;
+	width: 237px;
+	border: 1px solid #ddd;
+	font-family: "Open sans", sans-serif;
+	padding: 3px;
+	margin: 0px 0px;
+	margin-bottom: 5px;
+}
+
+
+
+#susc-launch {
+	height: 42px;
+	width: 256px;
+}
+
+#susc-btn {
+	height: 30px;
+	width: 30px;
+	margin: 0px 0px;
+	padding: 0;
+}
+
+#susc-paypal {
+	height: 40px;
+	width: 300px;
+	margin-left: 95px;
+	margin-top: 10px;
+}
+#susc-consignacion {
+	height: 40px;
+	width: 300px;
+	margin: 10px 30px 0;
+}
+
+#form-container {
+	margin: 8px 8px;
+}
+
+
+/*******************************************************************
+** VENTANA FLOTANTE DE CREDITOS DISPONIBLES*************************/
+
+#available-kredits {
+	position: absolute;
+	left:550px;
+	top:30px;
+	width: 430px;
+	height: 120px;
+	border: 3px solid #FFF;
+	border-radius: 5px;
+	background-color:rgba(76,181,51,0.8);
+	font-size: 24px;
+	text-align: center;
+	font-family: "Open Sans";
+	padding: 20px;
+	color:#000;
+}
+
+
+
+/*******************************************************************
+** SIMULADOR DE PRECIOS ********************************************/
+
+.simulator_link {
+	display:none;
+}
+
+#simulator h2 {
+	width: 100%;
+	background-color: #ddd;
+	padding: 8px;
+	margin: 0 0 5px 0;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 700;
+	letter-spacing: -1px;
+}
+
+#simulator p {
+	width: 100%;
+	padding: 20px;
+	text-align: justify;
+	font-size: 14px;
+	font-weight: 400;
+	margin: 0;
+
+}
+
+#simulator form {
+	text-align: center;
+	margin: 0 20px 0;
+	}
+
+#simulator input[type="text"] {
+	width:150px; 
+	height: 30px;
+	padding: 5px;
+}
+#simulator select {
+	width:150px; 
+	height: 30px;
+	padding: 5px;
+}
+#simulator input[type="submit"] {
+	width:70px; 
+	height: 30px;
+	padding: 0px;
+	text-transform: uppercase;
+	font-size: 18px;
+	line-height: 30px;
+	font-family:  "Yanone Kaffeesatz", sans-serif;
+	display: inline;
+	
+}
+
+#valor_simulado {
+	padding: 10px;
+	font-size: 12px;
+	text-align: center;
+	border:2px dotted #ddd;
+	margin: 10px 20px 10px 20px;
+	color: #888;
+}
+#valor_simulado p {
+	font-size: 18px;
+	font-weight: 700;
+	color: #333;
+	text-align: center;
+}
