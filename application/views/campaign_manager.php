@@ -4,7 +4,6 @@
 ?>
 <style>
 *{
-  font-family: 'Roboto', sans-serif;
   box-sizing: border-box;
   text-decoration: none;
   list-style: none;

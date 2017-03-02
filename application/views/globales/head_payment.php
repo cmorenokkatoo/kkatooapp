@@ -32,7 +32,7 @@
 
       <!-- STYLES -->
       <link href='http://fonts.googleapis.com/css?family=Roboto:300,600,900' rel='stylesheet' type='text/css'>
-      <link href="<?php //echo base_url("assets/css/bootstrap.min.css"); ?>" rel="stylesheet">
+      <link href="<?php echo base_url("assets/css/bootstrap.min.css"); ?>" rel="stylesheet">
       <link href="<?php echo base_url("assets/css/steps.css"); ?>" rel="stylesheet">
       <link href="<?php echo base_url("assets/css/mgrs.css"); ?>" rel="stylesheet">
       <link href="<?php echo base_url("assets/css/wizard.css"); ?>" rel="stylesheet">

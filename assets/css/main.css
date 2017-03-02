@@ -27,9 +27,9 @@ select,
 textarea {
     color: #222;
 }
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
+/*@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');*/
 *{
-	font-family: 'Roboto', sans-serif;
+	font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
 body {

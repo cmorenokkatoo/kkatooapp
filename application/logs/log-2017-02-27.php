@@ -4387,3 +4387,3793 @@ ERROR - 2017-02-27 15:30:09 --> 404 Page Not Found --> assets
 ERROR - 2017-02-27 15:30:10 --> 404 Page Not Found --> assets
 ERROR - 2017-02-27 15:30:10 --> 404 Page Not Found --> assets
 ERROR - 2017-02-27 15:30:10 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 15:31:00 --> 404 Page Not Found --> cgi
+ERROR - 2017-02-27 15:31:01 --> 404 Page Not Found --> stssys.htm
+ERROR - 2017-02-27 15:31:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:31:01 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:31:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:31:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:31:02 --> 404 Page Not Found --> command.php
+ERROR - 2017-02-27 15:31:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:31:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:31:37 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:31:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:31:37 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-02-27 15:31:39 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 15:31:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:31:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:31:49 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:31:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:31:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:31:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:31:55 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:31:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:32:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:02 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:32:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:32:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:06 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:32:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:32:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:11 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:32:11 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:32:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:16 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:32:16 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:32:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:20 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:32:20 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:32:26 --> 404 Page Not Found --> inicio
+ERROR - 2017-02-27 15:32:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-02-27 15:32:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:39 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:32:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:32:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:32:50 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:32:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:33:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:33:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:33:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:33:48 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:33:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:33:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:33:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:33:56 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:33:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:34:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:34:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:34:27 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:34:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:34:27 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:34:27 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:34:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:34:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:34:31 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:34:31 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:34:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:34:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:34:34 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:34:40 --> 404 Page Not Found --> mensajesdevoz.com.pe
+ERROR - 2017-02-27 15:34:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:34:41 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:34:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:34:41 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:34:41 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:34:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:34:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:34:44 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:34:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:34:44 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:34:44 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:34:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:34:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:34:49 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:34:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:34:49 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:34:50 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:34:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:35:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:35:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:35:07 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:35:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:35:07 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:35:07 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:35:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:36:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:36:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:36:38 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:36:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:36:39 --> Severity: Notice  --> unserialize(): Error at offset 0 of 159 bytes /var/www/html/system/libraries/Session.php 728
+ERROR - 2017-02-27 15:36:39 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:36:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:37:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:37:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:37:03 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:37:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:37:05 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 15:37:05 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 15:37:05 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 15:37:05 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 15:37:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:37:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:37:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:37:16 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:37:16 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:37:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-02-27 15:37:17 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 15:37:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:37:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-02-27 15:37:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:37:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:37:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/csv_preview.php 77
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/csv_preview.php 77
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/csv_preview.php 78
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/csv_preview.php 78
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:37:58 --> Severity: Notice  --> Undefined index: nombre /var/www/html/application/views/csv_preview.php 185
+ERROR - 2017-02-27 15:38:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:38:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:38:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:38:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:39:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:40:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:41:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:41:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:41:24 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:41:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:41:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:41:24 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:41:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:41:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:41:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/api.php 35
+ERROR - 2017-02-27 15:41:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:41:25 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:41:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:41:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:41:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/api.php 641
+ERROR - 2017-02-27 15:41:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:41:43 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:41:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:41:44 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 15:41:44 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 15:41:44 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 15:41:44 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 15:41:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:41:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:41:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:41:52 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:41:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:41:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-02-27 15:41:53 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 15:42:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:42:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:42:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-02-27 15:42:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:42:30 --> Usted no ha seleccionado un archivo para cargar.
+ERROR - 2017-02-27 15:42:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:42:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:42:35 --> Usted no ha seleccionado un archivo para cargar.
+ERROR - 2017-02-27 15:42:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:43:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:44:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:45:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:05 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/csv_preview.php 77
+ERROR - 2017-02-27 15:46:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/csv_preview.php 77
+ERROR - 2017-02-27 15:46:05 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/csv_preview.php 78
+ERROR - 2017-02-27 15:46:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/csv_preview.php 78
+ERROR - 2017-02-27 15:46:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 15:46:20 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 15:46:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:23 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:46:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 15:46:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:25 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 15:46:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 15:46:25 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 15:46:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 15:46:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:25 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 15:46:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:29 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 15:46:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 15:46:29 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 15:46:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 15:46:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:32 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 15:46:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 15:46:32 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 15:46:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 15:46:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:46:47 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step2.php 147
+ERROR - 2017-02-27 15:46:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step2.php 147
+ERROR - 2017-02-27 15:46:47 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step2.php 148
+ERROR - 2017-02-27 15:46:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step2.php 148
+ERROR - 2017-02-27 15:46:47 --> Severity: Notice  --> Undefined variable: the_url_record /var/www/html/application/views/step2.php 932
+ERROR - 2017-02-27 15:46:47 --> Severity: Notice  --> Undefined variable: the_url_record /var/www/html/application/views/step2.php 934
+ERROR - 2017-02-27 15:47:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:48:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:49:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:49:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:49:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:49:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:49:17 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step2.php 147
+ERROR - 2017-02-27 15:49:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step2.php 147
+ERROR - 2017-02-27 15:49:17 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step2.php 148
+ERROR - 2017-02-27 15:49:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step2.php 148
+ERROR - 2017-02-27 15:49:17 --> Severity: Notice  --> Undefined variable: the_url_record /var/www/html/application/views/step2.php 932
+ERROR - 2017-02-27 15:49:17 --> Severity: Notice  --> Undefined variable: the_url_record /var/www/html/application/views/step2.php 934
+ERROR - 2017-02-27 15:49:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:49:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:49:25 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step2.php 147
+ERROR - 2017-02-27 15:49:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step2.php 147
+ERROR - 2017-02-27 15:49:25 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step2.php 148
+ERROR - 2017-02-27 15:49:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step2.php 148
+ERROR - 2017-02-27 15:49:25 --> Severity: Notice  --> Undefined variable: the_url_record /var/www/html/application/views/step2.php 932
+ERROR - 2017-02-27 15:49:25 --> Severity: Notice  --> Undefined variable: the_url_record /var/www/html/application/views/step2.php 934
+ERROR - 2017-02-27 15:49:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:49:52 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step3.php 150
+ERROR - 2017-02-27 15:49:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step3.php 150
+ERROR - 2017-02-27 15:49:52 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step3.php 151
+ERROR - 2017-02-27 15:49:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step3.php 151
+ERROR - 2017-02-27 15:50:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:50:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:50:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:50:15 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 15:50:15 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 15:50:15 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 15:50:15 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 15:51:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:52:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:53:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:53:03 --> Severity: Notice  --> Undefined variable: phone /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 20:53:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 20:53:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 518
+ERROR - 2017-02-27 15:54:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:55:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:55:02 --> Severity: Notice  --> Undefined variable: phone /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 20:55:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 20:55:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 518
+ERROR - 2017-02-27 15:56:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:56:02 --> Severity: Notice  --> Undefined variable: phone /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 20:56:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 20:56:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 518
+ERROR - 2017-02-27 15:56:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:56:34 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 15:56:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 15:56:34 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 15:56:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 15:57:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:57:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:57:18 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 15:57:18 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 15:57:18 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 15:57:18 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 15:58:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:58:03 --> Severity: Notice  --> Undefined variable: phone /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 20:58:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 20:58:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 518
+ERROR - 2017-02-27 20:58:03 --> Severity: Notice  --> Undefined variable: phone /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 20:58:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 20:58:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 518
+ERROR - 2017-02-27 15:58:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:58:25 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 15:58:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 15:58:25 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 15:58:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 15:59:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:59:03 --> Severity: Notice  --> Undefined variable: phone /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 20:59:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 20:59:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 518
+ERROR - 2017-02-27 15:59:09 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-02-27 15:59:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 15:59:10 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 15:59:10 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 16:00:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:00:02 --> Severity: Notice  --> Undefined variable: phone /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 21:00:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 21:00:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 518
+ERROR - 2017-02-27 16:01:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:01:02 --> Severity: Notice  --> Undefined variable: phone /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 21:01:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 517
+ERROR - 2017-02-27 21:01:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/controllers/queues.php 518
+ERROR - 2017-02-27 16:02:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:03:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:04:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:05:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:06:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:07:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:08:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:09:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:10:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:11:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:12:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:12:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:12:02 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 16:12:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 16:12:02 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 16:12:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 16:13:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:14:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:15:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:15:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:15:40 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 16:15:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 16:16:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:17:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:18:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:19:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:19:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:19:44 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 16:19:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 16:19:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:19:52 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 16:19:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 16:19:52 --> 404 Page Not Found --> th1s_1s_a_4o4.html
+ERROR - 2017-02-27 16:19:53 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 16:19:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:19:54 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 16:19:54 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 16:19:54 --> 404 Page Not Found --> google_analytics_auto.js
+ERROR - 2017-02-27 16:19:54 --> 404 Page Not Found --> mensajesdevoz.com.pe
+ERROR - 2017-02-27 16:19:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:19:55 --> 404 Page Not Found --> mensajesdevoz.com.pe
+ERROR - 2017-02-27 16:19:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:19:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:19:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:19:56 --> Could not find the language line "indi_pais"
+ERROR - 2017-02-27 16:19:56 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 16:19:56 --> 404 Page Not Found --> img-sys
+ERROR - 2017-02-27 16:19:56 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 16:19:56 --> 404 Page Not Found --> mensajesdevoz.com.pe
+ERROR - 2017-02-27 16:19:56 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 16:19:57 --> 404 Page Not Found --> mensajesdevoz.com.pe
+ERROR - 2017-02-27 16:19:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:20:00 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 16:20:00 --> 404 Page Not Found --> mensajesdevoz.com.pe
+ERROR - 2017-02-27 16:20:00 --> 404 Page Not Found --> path
+ERROR - 2017-02-27 16:20:00 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 16:20:00 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 16:20:00 --> 404 Page Not Found --> mensajesdevoz.com.pe
+ERROR - 2017-02-27 16:20:00 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 16:20:01 --> 404 Page Not Found --> google_analytics_auto.js
+ERROR - 2017-02-27 16:20:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:21:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:22:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:23:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:24:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:25:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:26:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:27:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:28:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:29:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:30:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:31:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:31:04 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-02-27 16:31:08 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 16:31:45 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 16:32:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:33:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:34:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:35:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:36:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:37:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:38:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:38:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:38:53 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 16:38:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 16:38:53 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 16:39:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:40:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:40:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:40:14 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 16:40:14 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 16:41:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:42:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:43:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:44:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:45:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:46:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:47:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:48:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:49:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:50:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:51:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:52:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:53:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:54:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:55:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:56:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:57:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:58:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:58:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:58:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 16:58:58 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 16:58:58 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 16:59:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:00:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:01:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:02:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:03:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:04:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:05:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:06:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:06:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-02-27 17:06:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:06:40 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:06:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:07:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:08:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:09:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:09:57 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:10 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 17:10:10 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 17:10:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:15 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:10:15 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:10:15 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:10:15 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:10:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:21 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:10:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:10:21 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:10:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:10:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:27 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:10:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:10:27 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:10:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:10:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:27 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 17:10:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 17:10:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:30 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:10:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:10:30 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:10:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:10:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: totales /var/www/html/application/views/campaign_manager.php 166
+ERROR - 2017-02-27 17:10:48 --> Severity: Notice  --> Undefined index: exitosas /var/www/html/application/views/campaign_manager.php 167
+ERROR - 2017-02-27 17:10:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:11:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:11:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:11:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:11:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:11:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:12:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:12:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:12:15 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/csv_preview.php 77
+ERROR - 2017-02-27 17:12:15 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/csv_preview.php 77
+ERROR - 2017-02-27 17:12:15 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/csv_preview.php 78
+ERROR - 2017-02-27 17:12:15 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/csv_preview.php 78
+ERROR - 2017-02-27 17:13:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:14:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:50 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:15:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:15:59 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 17:15:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 17:16:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:01 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:16:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:16:01 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:16:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:16:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:33 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:33 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/csv_preview.php 77
+ERROR - 2017-02-27 17:16:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/csv_preview.php 77
+ERROR - 2017-02-27 17:16:33 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/csv_preview.php 78
+ERROR - 2017-02-27 17:16:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/csv_preview.php 78
+ERROR - 2017-02-27 17:16:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:42 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:16:42 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:16:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:46 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:16:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 123
+ERROR - 2017-02-27 17:16:46 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:16:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step1.php 124
+ERROR - 2017-02-27 17:16:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:57 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:16:57 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step2.php 147
+ERROR - 2017-02-27 17:16:57 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step2.php 147
+ERROR - 2017-02-27 17:16:57 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step2.php 148
+ERROR - 2017-02-27 17:16:57 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step2.php 148
+ERROR - 2017-02-27 17:16:57 --> Severity: Notice  --> Undefined variable: the_url_record /var/www/html/application/views/step2.php 932
+ERROR - 2017-02-27 17:16:57 --> Severity: Notice  --> Undefined variable: the_url_record /var/www/html/application/views/step2.php 934
+ERROR - 2017-02-27 17:17:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:17:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:17:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:17:05 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step2.php 147
+ERROR - 2017-02-27 17:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step2.php 147
+ERROR - 2017-02-27 17:17:05 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step2.php 148
+ERROR - 2017-02-27 17:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step2.php 148
+ERROR - 2017-02-27 17:17:05 --> Severity: Notice  --> Undefined variable: the_url_record /var/www/html/application/views/step2.php 932
+ERROR - 2017-02-27 17:17:05 --> Severity: Notice  --> Undefined variable: the_url_record /var/www/html/application/views/step2.php 934
+ERROR - 2017-02-27 17:18:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:18:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:18:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:18:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:18:22 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step2.php 147
+ERROR - 2017-02-27 17:18:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step2.php 147
+ERROR - 2017-02-27 17:18:22 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step2.php 148
+ERROR - 2017-02-27 17:18:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step2.php 148
+ERROR - 2017-02-27 17:18:22 --> Severity: Notice  --> Undefined variable: the_url_record /var/www/html/application/views/step2.php 932
+ERROR - 2017-02-27 17:18:22 --> Severity: Notice  --> Undefined variable: the_url_record /var/www/html/application/views/step2.php 934
+ERROR - 2017-02-27 17:18:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:18:30 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step3.php 150
+ERROR - 2017-02-27 17:18:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step3.php 150
+ERROR - 2017-02-27 17:18:30 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/step3.php 151
+ERROR - 2017-02-27 17:18:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/step3.php 151
+ERROR - 2017-02-27 17:18:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:18:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:18:49 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 17:18:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 17:18:49 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 17:18:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 17:19:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:19:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-02-27 17:19:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:19:44 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:19:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:20:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:20:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:20:27 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 17:20:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 56
+ERROR - 2017-02-27 17:20:27 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 17:20:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/campaign_detail.php 57
+ERROR - 2017-02-27 17:20:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:20:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:21:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:21:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:21:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:21:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:21:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:21:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:21:11 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:21:11 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:21:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:21:12 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:21:12 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:22:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:23:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:23:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:23:12 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:23:12 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:24:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:25:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:25:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:25:13 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:25:13 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:25:40 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-02-27 17:25:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2017-02-27 17:26:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:27:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:27:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:27:14 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:27:14 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:28:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:29:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:29:09 --> 404 Page Not Found --> blog
+ERROR - 2017-02-27 17:29:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:29:15 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:29:15 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:30:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:31:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:31:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:31:15 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:31:15 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:32:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:33:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:33:07 --> 404 Page Not Found --> blog
+ERROR - 2017-02-27 17:33:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:33:16 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:33:16 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:34:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:35:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:35:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:35:17 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:35:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:36:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:37:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:37:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:37:18 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:37:18 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:38:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:39:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:39:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:39:18 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:39:18 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:40:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:41:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:41:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:41:19 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:41:19 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:42:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:43:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:43:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:43:19 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:43:19 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:44:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:45:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:45:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:45:19 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:45:19 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:46:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:47:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:47:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:47:19 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:47:19 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:48:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:49:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:49:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:49:19 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:49:19 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:50:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:51:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:51:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:51:20 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:51:20 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:51:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:51:39 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:51:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:52:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:53:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:53:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:53:20 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:53:20 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:54:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:55:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:55:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:55:20 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:55:20 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:56:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:57:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:57:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:57:20 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:57:20 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:58:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:59:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:59:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 17:59:20 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 17:59:20 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:00:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:01:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:01:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:01:21 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:01:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:02:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:02:07 --> Severity: Notice  --> Undefined index: HTTP_HOST /var/www/html/application/config/config.php 19
+ERROR - 2017-02-27 18:02:07 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-02-27 18:03:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:03:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:03:21 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:03:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:04:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:05:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:05:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:05:21 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:05:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:06:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:07:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:07:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:07:21 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:07:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:08:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:09:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:09:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:09:21 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:09:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:10:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:11:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:11:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:11:22 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:11:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:12:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:12:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:12:06 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:12:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:12:11 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 18:12:11 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 18:12:11 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 18:12:11 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 18:13:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:13:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:13:22 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:13:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:14:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:14:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:15:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:15:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:15:23 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:15:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:16:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:17:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:17:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:17:23 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:18:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:18:29 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 18:19:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:19:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:19:23 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:19:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:20:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:21:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:21:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:21:23 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:21:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:22:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:23:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:23:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:23:24 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:23:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:24:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:25:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:25:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:25:24 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:25:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:26:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:27:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:27:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:27:24 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:27:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:27:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:27:30 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:27:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:28:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:29:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:29:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:29:24 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:29:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:30:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:31:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:31:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:31:25 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:31:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:32:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:33:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:33:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:33:25 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:33:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:33:41 --> 404 Page Not Found --> wp-content
+ERROR - 2017-02-27 18:34:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:35:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:35:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:35:25 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:35:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 18:36:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:36:52 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 18:36:52 --> 404 Page Not Found --> mensajesdevoz.com.pe
+ERROR - 2017-02-27 18:36:58 --> 404 Page Not Found --> mensajesdevoz.com.pe
+ERROR - 2017-02-27 18:36:58 --> 404 Page Not Found --> mensajesdevoz.com.pe
+ERROR - 2017-02-27 18:37:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:37:03 --> 404 Page Not Found --> mensajesdevoz.com.pe
+ERROR - 2017-02-27 18:37:03 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 18:37:25 --> 404 Page Not Found --> 3g.com.co
+ERROR - 2017-02-27 18:38:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:39:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:40:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:41:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:42:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:43:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:44:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:45:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:46:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:47:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:48:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:49:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:50:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:51:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:52:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:53:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:54:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:55:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:56:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:56:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:57:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:58:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 18:59:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:00:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:01:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:02:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:03:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:04:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:05:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:06:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:07:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:07:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:08:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:09:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:09:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:10:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:11:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:12:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:13:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:14:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:14:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:14:16 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 19:14:16 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 19:15:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:16:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:17:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:18:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:19:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:20:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:21:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:22:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:23:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:23:12 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-02-27 19:23:16 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 19:24:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:25:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:26:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:27:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:28:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:28:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:29:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:30:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:30:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:30:53 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 19:30:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 19:31:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:32:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:33:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:34:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:35:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:36:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:37:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:38:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:39:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:40:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:41:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:42:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:43:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:44:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:45:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:46:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:47:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:48:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:49:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:50:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:51:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:51:23 --> 404 Page Not Found --> blog
+ERROR - 2017-02-27 19:52:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:53:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:54:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:55:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:56:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:57:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:57:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:57:49 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 19:57:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 19:58:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 19:59:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:00:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:01:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:02:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:03:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:04:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:05:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:06:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:07:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:08:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:09:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:10:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:11:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:11:22 --> 404 Page Not Found --> blog
+ERROR - 2017-02-27 20:12:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:13:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:14:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:15:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:15:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:15:11 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 20:15:11 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 20:15:34 --> 404 Page Not Found --> blog
+ERROR - 2017-02-27 20:16:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:17:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:18:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:19:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:20:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:21:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:22:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:23:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:24:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:25:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:26:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:26:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:27:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:28:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:29:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:30:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:31:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:32:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:33:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:34:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:35:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:36:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:37:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:38:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:39:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:40:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:41:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:41:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:42:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:43:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:44:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:45:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:46:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:47:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:48:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:49:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:49:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:49:07 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 20:49:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 20:50:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:51:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:52:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:53:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:54:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:55:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:56:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:57:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:58:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 20:59:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:00:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:01:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:02:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:03:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:04:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:05:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:06:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:07:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:08:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:09:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:10:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:10:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:10:22 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 21:10:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar_market.php 79
+ERROR - 2017-02-27 21:11:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:12:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:13:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:14:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:14:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:14:35 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 21:14:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 21:15:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:15:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:16:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:17:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:18:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:19:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:20:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:20:52 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 21:21:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:22:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:23:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:24:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:25:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:26:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:27:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:28:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:29:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:30:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:31:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:32:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:33:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:34:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:35:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:35:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:36:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:37:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:38:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:39:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:40:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:41:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:42:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:43:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:44:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:45:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:46:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:47:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:48:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:49:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:50:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:50:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:51:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:52:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:53:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:54:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:55:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:56:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:56:40 --> 404 Page Not Found --> assets
+ERROR - 2017-02-27 21:57:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:58:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 21:59:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:00:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:00:39 --> 404 Page Not Found --> blog
+ERROR - 2017-02-27 22:01:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:02:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:03:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:04:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:05:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:06:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:07:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:08:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:09:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:10:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:11:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:12:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:13:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:14:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:15:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:16:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:16:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:16:09 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 22:16:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 22:17:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:18:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:19:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:20:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:21:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:22:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:23:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:24:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:24:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:24:43 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 22:24:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 22:25:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:26:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:27:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:28:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:29:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:30:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:31:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:32:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:33:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:34:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:35:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:36:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:37:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:38:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:39:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:40:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:41:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:42:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:43:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:44:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:45:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:46:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:47:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:48:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:49:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:50:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:50:50 --> 404 Page Not Found --> html.tar.gz
+ERROR - 2017-02-27 22:51:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:51:30 --> 404 Page Not Found --> blog
+ERROR - 2017-02-27 22:52:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:53:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:54:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:55:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:56:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:57:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:58:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 22:59:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:00:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:01:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:01:39 --> 404 Page Not Found --> blog
+ERROR - 2017-02-27 23:02:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:03:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:04:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:05:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:06:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:07:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:08:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:09:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:10:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:11:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:12:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:13:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:14:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:15:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:16:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:16:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:16:18 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 23:16:18 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 23:17:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:18:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:19:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:20:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:21:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:22:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:23:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:24:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:25:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:26:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:27:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:28:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:29:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:30:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:31:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:32:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:33:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:34:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:35:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:36:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:37:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:38:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:39:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:40:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:41:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:42:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:43:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:44:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:45:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:46:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:47:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:48:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:49:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:50:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:51:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:52:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:52:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:52:40 --> Severity: Notice  --> Undefined variable: logo /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 23:52:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/html/application/views/globales/navbar.php 17
+ERROR - 2017-02-27 23:53:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:54:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:55:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:56:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:57:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:57:06 --> 404 Page Not Found --> robots.txt
+ERROR - 2017-02-27 23:57:10 --> 404 Page Not Found --> images_my
+ERROR - 2017-02-27 23:58:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2017-02-27 23:59:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /var/www/html/system/database/drivers/mysql/mysql_driver.php 91

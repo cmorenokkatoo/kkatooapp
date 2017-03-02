@@ -1,4 +1,4 @@
-1488201126TS---><!DOCTYPE html>
+1488461421TS---><!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
@@ -42,18 +42,16 @@
 	<!-- <link rel="stylesheet" href="http://kka.to/assets/css/carousel.css"> -->
 </head>
 <body>
-<!-- Start of LiveChat (www.livechatinc.com) code -->
+<!--Start of Zendesk Chat Script-->
 <script type="text/javascript">
-window.__lc = window.__lc || {};
-window.__lc.license = 8591876;
-(function() {
-  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-})();
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="https://v2.zopim.com/?4cfmhMdVqEuutXlZYd7L5WG7GQwfqW02";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 </script>
-<!-- End of LiveChat code --><script type="text/javascript">
-	window.KKATOO_ROOT = "mmv.kka.to";
+<!--End of Zendesk Chat Script--><script type="text/javascript">
+	window.KKATOO_ROOT = ".mensajesdevoz.co";
 </script>		<div id="headerlogin">
 							<a href="http://www.kka.to"><img id="enlace_logo"  src="http://kka.to/assets/img/logo_principal_mv.jpg" alt="Mensajes de Voz"/></a>
     </div>
