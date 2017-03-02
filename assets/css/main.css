@@ -34,9 +34,10 @@ textarea {
 
 body {
     font-family: "FontAwesome", Helvetica, Arial, sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 20px;
 	color: #333;
+	font-weight: 400;
 	background: #F5F5F5;
 }
 
