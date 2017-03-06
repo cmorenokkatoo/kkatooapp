@@ -20,15 +20,6 @@
       <script src="<?php  echo base_url("assets/js/jquery.js"); ?>"></script>
       <script src="<?php echo base_url("assets/js/borrarcamp.js"); ?>"></script>
       <script type="text/javascript" src="<?php echo base_url("assets/js/recall.js"); ?>"></script>
-
-      <!-- scripts para exportar a excell -->
-        <script type="text/javascript" src="<?php echo base_url("assets/js/xlsx.js"); ?>"></script>
-        <script type="text/javascript" src="http://yourjavascript.com/152186169/jszip.js"></script>
-        <script type="text/javascript" src="http://yourjavascript.com/621719612/jszip-load.js"></script>
-        <script type="text/javascript" src="http://yourjavascript.com/421961176/jszip-inflate.js"></script>
-        <script type="text/javascript" src="http://yourjavascript.com/611912518/jszip-deflate.js"></script>
-
-
       <!-- STYLES -->
       <link href="<?php echo base_url("assets/css/bootstrap.min.css"); ?>" rel="stylesheet">
       <link href="<?php echo base_url("assets/css/steps.css"); ?>" rel="stylesheet">
@@ -41,7 +32,7 @@
 
 
 
-			<style>
+<style>
 	#nav-options {
 		margin-left: -273px;
 		margin-top:15px;

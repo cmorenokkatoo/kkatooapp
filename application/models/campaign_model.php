@@ -246,6 +246,16 @@ class Campaign_Model extends CI_Model {
 		return $result->num_rows();
 	}
 
+	public function get_call_marcados($user_id = 0, $id_campaign = 0)
+	{
+		$marc = 1;
+		$this->db->where('user_id', $user_id);
+		$this->db->where('id_campaign', $id_campaign);
+		$this->db->where('marcado >=', 1);
+		$result	=	$this->db->get('queues');
+		return $result->num_rows();
+	}
+
 	public function relaunch_call($id_campaign = 0)
 	{
 		$data = array('state' => 0);

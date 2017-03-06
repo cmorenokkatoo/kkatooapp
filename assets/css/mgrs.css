@@ -736,20 +736,6 @@ p#text-result-title {
 ************************************************************************/
 
 
-#graph-stat-01, #graph-stat-02 {
-	    width: auto;
-	    /* border-radius: 5px; */
-	    background-color: #eee;
-	    font-family: 'Roboto', sans-serif;
-	    border: 1px solid #ddd;
-	    text-align: center;
-	    /* padding: 8px 8px 8px 8px; */
-	    /* float: left; */
-	    margin: 2px auto;
-}
-#graph-stat-02 {
-	margin-left: 25px;
-}
 .gs-header {
 	background-color: #f9f9f9;
 	padding: 5px;

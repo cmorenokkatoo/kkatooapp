@@ -100,13 +100,14 @@ class Campaign extends CI_Controller {
 			$exist	= 	$this->campaign_model->get_campaign_exist($this->session->userdata('user_id'), $this->uri->segment(3));
 			if(!empty($exist))
 			{
-				//date_default_timezone_set('Africa/Casablanca');
+				date_default_timezone_set('Africa/Casablanca');
 				$this->load->helper('date');
 				$result	= 	$this->campaign_model->get_campaign_queues($this->session->userdata('user_id'), $this->uri->segment(3));
 				$pendi	= 	$this->campaign_model->get_campaign_pendi($this->session->userdata('user_id'), $this->uri->segment(3));
 				$price	= 	$this->campaign_model->sum_campaign_real($this->session->userdata('user_id'), $this->uri->segment(3));
 				$call	= 	$this->campaign_model->get_call_reali($this->session->userdata('user_id'), $this->uri->segment(3));
 				$exito	= 	$this->campaign_model->get_call_exitosa($this->session->userdata('user_id'), $this->uri->segment(3));
+				$marcado =	$this->campaign_model->get_call_marcados($this->session->userdata('user_id'), $this->uri->segment(3));	
 				$campaign 	= 	$this->campaign_model->get_campaign($this->session->userdata('user_id'));
 				$campaign_name;
 				$campaign_date;
@@ -134,6 +135,7 @@ class Campaign extends CI_Controller {
 									'price_real'	=> $price,
 									'call'			=> $call,
 									'exito'			=> $exito,
+									'marcado' 	=> 	$marcado,
 									'id_camp'		=> $this->uri->segment(3),
 									'campaign_name' => $campaign_name,
 									'campaign_date'	=> $campaign_date

@@ -2966,7 +2966,7 @@ class Apps extends CI_Controller {
 							}
 						}
 						//FIN VALIDAR DINERO
-						//date_default_timezone_set('Africa/Casablanca');
+						date_default_timezone_set('America/Bogota');
 						$this->load->helper('date');
 						$timezone 	= $this->input->post('timezones');
 						$daylight_saving = FALSE;

@@ -1,52 +1,110 @@
-<?php
-	$this->load->view("globales/head_detail");
+<?php 
 	$this->load->view('globales/mensajes');
-?>
- <link rel="stylesheet" href="<?php echo base_url('assets/css/pace.css')?>">
-      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> -->
-      <script type="text/javascript" src="<?php echo base_url('assets/js/pace.min.js')?>"></script>
+	header("Refresh:60");
+ ?>
+<!DOCTYPE html>
+<html lang="es" class="js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<script src="//code.jquery.com/jquery-1.12.4.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/pdfmake-0.1.18/dt-1.10.13/af-2.1.3/b-1.2.4/b-colvis-1.2.4/b-html5-1.2.4/r-2.1.1/datatables.min.css"/>
+ 	<script type="text/javascript" src="https://cdn.datatables.net/v/dt/pdfmake-0.1.18/dt-1.10.13/af-2.1.3/b-1.2.4/b-colvis-1.2.4/b-html5-1.2.4/r-2.1.1/datatables.min.js"></script>
+      	<!-- Compiled and minified JavaScript -->
+        	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
+        	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">  
+    	<link href="<?php echo base_url("assets/css/steps.css"); ?>" rel="stylesheet">
+	<link href="<?php echo base_url("assets/css/mgrs.css"); ?>" rel="stylesheet">
+	<link href="<?php echo base_url("assets/css/wizard.css"); ?>" rel="stylesheet">
+	<link rel="stylesheet" href="<?php echo base_url('assets/css/style.css') ?>">
+	<script type="text/javascript" src="<?php echo base_url("assets/js/recall.js"); ?>"></script>
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,600,700,900" rel="stylesheet">
+	<title><?php echo  "#". $id_camp . " - " .  $campaign_name; ?></title>
+	<style>
+	*{
+		box-sizing: border-box;
+	}
+		body{
+			background: #1E6DB1 !important;
+		}
+		#GraphTable{
+			display: flex;
+			width: 100%;
+			margin: 2rem auto;
+			flex-wrap: wrap;
+		}
+		.js div#preloader { position: fixed; 
+			left: 0; top: 0; 
+			z-index: 999; width: 100%; height: 100%; 
+			overflow: visible; 
+			background: #1E6DB1 url('https://s-media-cache-ak0.pinimg.com/originals/32/4a/88/324a88a767e53bb415076d3bceb382ee.gif') no-repeat center center; }
+		.js div#preloader h1{
+			text-align: center;
+			margin:  2rem auto;
+			color: white;
+			font-size: 20px;
+			font-family:'Helvetica Neue';
+			font-weight: 300;
+		}
+.graph-stat-row {
+	    width: 350px;
+	    /* border-radius: 5px; */
+	    background-color: #eee;
+	    font-family: 'Roboto', sans-serif;
+	    border: 1px solid #ddd;
+	    text-align: center;
+	    /* padding: 8px 8px 8px 8px; */
+	    /* float: left; */
+	    margin: 2px auto;
+	    flex: auto;
+}
+		#app-container{
+			background: white !important;
+			padding: 2rem  !important;
+			width: 90% !important;
+			max-width: none !important;
+			margin: 2rem auto !important;
+		}
+		.btn-recall, .buttons-csv, .buttons-page-length{
+			padding: .5rem !important;
+			background: black !important;
+			color: white !important;
+			border: 0px !important;
+			border-radius: 3px !important;
+			cursor: pointer;
+		}
+		h1{
+			font-size: 2rem;
+		}
+		.btn-recall{
+			background: green !important;
+		}
+		#header-detail-campaign{
+			width: 100%; font-size: 16px; display: flex;
+		}
+		h3{
+			text-transform: uppercase;
+		}
+		
+	</style>
+</head>
+<script>
+jQuery(document).ready(function($) {  
+// site preloader -- also uncomment the div in the header and the css style for #preloader
+$(window).load(function(){
+	$('#preloader').fadeOut('slow',function(){$(this).remove();});
+});
 
-<style type="text/css">
-  body{
-    background: #2E80AB !important;
-  }
-  #app-header{
-    color: #303030;
-    text-transform: uppercase;
-    background: white !important;
-    font-weight: 400;
-    text-align: center;
-    height: inherit !important ;
-  }
-  #content{
-    background: white !important;
-    text-align: center;
-    padding: 10px;
-  }
-
-#boton_container{
-  padding: 2rem;
-}
-.boton_informes{
-  padding: 1rem;
-  background: #2E80AB;
-  color: white;
-  margin: 10px;
-cursor: pointer;
-}
-.boton_informes:hover{
-  text-decoration: none;
-  background: #FFD700;
-  color: black;
-}
-
-#graph-container{
-  width: 100%;
-  text-align: center;
-  margin: 5px auto;
-  display: flex;
-}
-</style>
+});
+</script>
+<body>
+<div id="preloader">
+	<h1>¡Paciencia! estamos cargando la información...</h1>
+</div>
+<?php 
+  $this->load->view('resources/olarkchat');
+ ?>
 <header id="header-steps">
             <div id="header-content">
             <div id="brand" class="header-element">
@@ -102,272 +160,269 @@ cursor: pointer;
     ?>                                
   </ul>
 </div>
+<!-- Contenedor -->
 
+<div id="app-container" class="container">
+	<div  id="header-detail-campaign">
+                	<h3><?php echo "<span style='font-weight: 300; color: #656a71;'>#" .$id_camp . "</span> ". $campaign_name; ?></h3>
+                	<a class="btn-recall" data-id="<?php echo $id_camp; ?>"><i class="fa fa-phone"></i> Reenviar no contestadas</a>
+	</div> 
+	<div id="GraphTable">
+		<div class="graph-stat-row">
+		              <div class="gs-header">
+		                <h4>Llamadas Programadas: <?php echo $total_call; ?></h4>
+		                <h5>Precio total de la campaña: $<?php echo number_format($price_real->price_real, 0); ?></h5>
+		              </div>
 
-<!--********************************************************************************* -->
-      <!-- CONTAINER DE LA APLICACION -->
-      <div id="app-container" class="container">
-         
-         <!-- HEADER DE LA APLICACION -->
-         <div class="row">
-            <div class="span12" id="app-header">
-               <div class="row">
-                
-                  <div class="span6" id="title-and-links" style="width: 100%; font-size: 8px;">
-                    <style></style>
-                    <h3><?php echo "<span style='font-weight: 300; color: #656a71;'>#" .$id_camp . "</span> ". $campaign_name; ?></h3>
-                  </div> <!-- #title-and-links -->
-               </div> <!-- .row -->
-            </div> <!-- #app-header -->
-         </div> <!-- .row -->
-<!-- CUERPO DE LA APLICACION -->
-<div class="row" id="content">
-  <!-- <span id="note"><i>esta página se actualiza cada 1 minuto</i></span> -->
-          <div id="boton_container" class="">
-             <!--  <div class="btn-recall boton_informes" data-id="<?php echo $id_camp; ?>"><i class="fa fa-phone"></i> Relanzar Llamadas Fallidas</div> -->
-              <a class="btn-recall boton_informes" data-id="<?php echo $id_camp; ?>"><i class="fa fa-phone"></i> Relanzar Llamadas Fallidas</a>
-              <a class="boton_informes boton360" onclick="recargar()" href="javascript:;"><i class="fa fa-refresh"></i> Refrescar resultados</a>
-              <a class="boton_informes boton360" id="export-excel" onclick="export_excel()" href="javascript:;"><i class="fa fa-file-excel-o"></i> Exportar a Excel</a>
-            </div>
-          <div class="span12" id="graph-container">
+		              <table id='gs-graph-01'>
+		             
+		                <thead>
+		                  <tr>
+		                    <th></th>
+		                    <th>Realizadas</th>
+		                    <th>Pendientes</th>
+		                  </tr>
+		                </thead>
+		                  <tbody>
+		                  <tr>
+		                    <td><?php echo $call; ?></td>
+		                    <td><?php echo ($total_call-$call); ?></td>
+		                  </tr>
+		                </tbody>
+		              </table>
 
-            <div id="graph-stat-01">
-              <div class="gs-header">
-                <h4>Llamadas Programadas: <?php echo $total_call; ?></h4>
-                <h5>Precio total de la campaña: $<?php echo number_format($price_real->price_real, 0); ?></h5>
-              </div>
+		              <div class="gs-footer">
+		                &nbsp;
+		              </div>
+	            </div>
+	            <div class="graph-stat-row">
+		              <div class="gs-header">
+		                <h4>Llamadas realizadas: <?php echo $call; ?></h4>
+		                <h5>
+		                	<?php echo $campaign_date; ?>
+		                </h5>
+		              </div>
+		              <table id='gs-graph-02'>
+		                <thead>
+		                  <tr>
+		                    <th></th>
+		                    <th>Exitosas</th>
+		                    <th>No contestadas</th>
+		                  </tr>
+		                </thead>
+		                  <tbody>
+		                  <tr>
+		                    <td><?php echo $exito; ?></td>
+		                    <td><?php echo ($call-$exito); ?></td>
+		                  </tr>
+		                </tbody>
+		              </table>
 
-              <table id='gs-graph-01'>
-             
-                <thead>
-                  <tr>
-                    <th></th>
-                    <th>Realizadas</th>
-                    <th>Pendientes</th>
-                  </tr>
-                </thead>
-                  <tbody>
-                  <tr>
-                    <td><?php echo $call; ?></td>
-                    <td><?php echo ($total_call-$call); ?></td>
-                  </tr>
-                </tbody>
-              </table>
+		              <div class="gs-footer">
+		                &nbsp;
+		              </div>
+	            </div>
+	             <div class="graph-stat-row">
+		              <div class="gs-header">
+		                <h4>Interacciones: <?php echo $marcado; ?></h4>
+		                <h5>
+		                	<?php echo "Contestadas: " . $exito; ?>
+		                </h5>
+		              </div>
+		              <table id='gs-graph-03'>
+		                <thead>
+		                  <tr>
+		                    <th></th>
+		                    <th>Marcadas</th>
+		                    <th>No Marcadas</th>
+		                  </tr>
+		                </thead>
+		                  <tbody>
+		                  <tr>
+		                    <td><?php echo $marcado; ?></td>
+		                    <td><?php echo ($exito - $marcado); ?></td>
+		                  </tr>
+		                </tbody>
+		              </table>
 
-              <div class="gs-footer">
-                &nbsp;
-              </div>
-            </div>
-
-            <div id="graph-stat-02">
-              <div class="gs-header">
-                <h4>Llamadas realizadas: <?php echo $call; ?></h4>
-                <h5>
-                	<?php echo $campaign_date; ?>
-                </h5>
-              </div>
-              <table id='gs-graph-02'>
-                <thead>
-                  <tr>
-                    <th></th>
-                    <th>Exitosas</th>
-                    <th>No Contestadas</th>
-                  </tr>
-                </thead>
-                  <tbody>
-                  <tr>
-                    <td><?php echo $exito; ?></td>
-                    <td><?php echo ($call-$exito); ?></td>
-                  </tr>
-                </tbody>
-              </table>
-
-              <div class="gs-footer">
-                &nbsp;
-              </div>
-            </div>
-          </div> <!-- span12 -->
-
-            <!-- AREA DE LISTADO DE ITEMES -->
-            <div class="span12" id="details-items">
-               <!-- CONTENIDO DEL DETALLE DE CAMPAÑA  -->
-               <div id="details-contents">
-                  <div id="details-title">
-                     <h3>Detalles de la campaña</h3>
-                  </div>
-                  <div id="resume-contents"  style="">
-                     <div id="resume-details">
-                        <table  id="MiTabla" class="display" cellspacing="0" width="100%" >
-                        <thead>
-                           <tr>
-                              <th class="left">Nombre</th>
-                              <th>Teléfono</th>
-                              <th>Tiempo usado</th>
-                              <th>Respuesta</th>
-                              <th>Fecha Real</th>
-                              <th>Hora Real</th>
-                              <th>Precio (COP)</th>
-                              <th>Estado</th>
-                              <th>Observación</th>
-                           </tr>
-                         </thead>
-                         <tbody>
-                           	<?php 
-
-                           	if(!empty($detalle)){
-                           		foreach($detalle as $deta){ 
-                           	?>
-	           	
-                           <tr>
-                              <td><?php echo $deta->name; ?></td>
-                              <td>
-                              	<?php 
-                               		if($deta->area == 0)
-                               		{
-	                               		echo $deta->pais.$deta->phone;
-                               		}
-                               		else
-                               		{
-	                               		echo $deta->pais.$deta->area.$deta->phone;
-                               		}
-                               	?>
-                               </td>
-                              <td><?php echo $deta->seg_real.' Seg'; ?></td>
-                              <td><?php echo $deta->marcado; ?></td>
-                              <td><?php echo $deta->fecha_real; ?></td>
-                              <td><?php echo $deta->hora_real.':'.$deta->minuto_real; ?></td>
-                              <td><?php echo $deta->price_real; ?></td>
-                              <td><?php echo $deta->state_real; ?></td>
-                              <td>
-                              <?php  
-	                          	switch($deta->state)
-	                          	{
-		                          	case 0:
-		                          		echo 'Iniciando campaña';
-		                          		break;
-		                          	case 1:
-		                          		echo 'Pendiente por enviar';
-		                          		break;
-		                          	case 2:
-		                          		echo 'Saldo insuficiente o número mal escrito';
-		                          		break;
-		                          	case 3:
-		                          		echo 'Llamada contestada por el destinatario';
-		                          		break;
-		                          	case 4:
-		                          		echo 'Llamada no contestada por el destinatario';
-		                          		break;
-                                   case 5:
-                                  echo 'Enviado al destinatario';
-                                  break;
-                                  case 6:
-                                    echo 'Número incorrecto o red saturada';
-                                  break;
-	                          	}    
-                              ?></td>
-                               </tr>
-                            <?php }
-                            	}
-                             ?>
-                </tbody>
-                        </table>
-                        <?php  
-	// $currentPage 	= ($this->uri->segments[count($this->uri->segments)-1]=="pages")?end($this->uri->segments):1;
-	// $current_uri 	= $this->uri->uri_string();
-	// $uris 				= explode('/', $current_uri);
-	// array_pop($uris);
-	// $theuri 			= ($this->uri->segments[count($this->uri->segments)-1]=="pages")?implode('/', $uris):$current_uri.'/pages';
-	// $theuri				= base_url().$theuri;
-	?>
-
-	<!-- PAGINACION (EN CASO DE NECESITARSE) -->
-	<!-- <div class="pagination pagination-centered">
-	<ul>
-
-	</ul>
+		              <div class="gs-footer">
+		                &nbsp;
+		              </div>
+	            </div>
 	</div>
-                     </div> -->
-                  </div> <!-- #resume-contents -->
-               </div> <!-- #details-contents LISTADO DE ITEMES -->
-            </div> <!-- #details-items -->
-         </div> <!-- .row  #content -->
-</section>
-      <!-- Le javascript -->
-      <script src="<?php //echo base_url('assets/js/wizard/jquery.simplePagination.js'); ?>"></script>
-      <script src="<?php echo base_url("assets/js/bootstrap.js"); ?>"></script>
-      <script src="<?php echo base_url("assets/js/jquery.jeditable.mini.js"); ?>"></script>
-      <script src="<?php echo base_url("assets/js/mgrs-ini.js"); ?>"></script>
-      <script src="<?php echo base_url("assets/js/steps-ini.js"); ?>"></script>
-      
-      <!-- Le javascript para los charts-->
-      <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<table  id="detailCampaign" class="display" cellspacing="0" width="100%" >
+	 	<thead>
+	 		<tr>
+	 			<th class="left">Nombre</th>
+	 			<th>Teléfono</th>
+	 			<th>Tiempo usado</th>
+	 			<th>Respuesta</th>
+	 			<th>Fecha Real</th>
+	 			<th>Hora Real</th>
+	 			<!-- <th>Precio (COP)</th> -->
+	 			<th>Estado</th>
+	 			<th>Observación</th>
+	 		</tr>
+	 	</thead>
+	 	<tbody>
+	 		<?php 
+
+	 		if(!empty($detalle)){
+	 			foreach($detalle as $deta){ 
+	 				?>
+
+	 				<tr>
+	 					<td><?php echo $deta->name; ?></td>
+	 					<td>
+	 						<?php 
+	 						if($deta->area == 0)
+	 						{
+	 							echo $deta->pais.$deta->phone;
+	 						}
+	 						else
+	 						{
+	 							echo $deta->pais.$deta->area.$deta->phone;
+	 						}
+	 						?>
+	 					</td>
+	 					<td><?php echo $deta->seg_real.' Seg'; ?></td>
+	 					<td><?php echo $deta->marcado; ?></td>
+	 					<td><?php echo $deta->fecha_real; ?></td>
+	 					<td><?php echo $deta->hora_real.':'.$deta->minuto_real; ?></td>
+	 					<!-- <td><?php //echo $deta->price_real; ?></td> -->
+	 					<td><?php echo $deta->state_real; ?></td>
+	 					<td>
+	 						<?php  
+	 						switch($deta->state)
+	 						{
+	 							case 0:
+	 							echo 'Iniciando campaña';
+	 							break;
+	 							case 1:
+	 							echo 'Pendiente por enviar';
+	 							break;
+	 							case 2:
+	 							echo 'Saldo insuficiente o número mal escrito';
+	 							break;
+	 							case 3:
+	 							echo 'Llamada contestada';
+	 							break;
+	 							case 4:
+	 							echo 'Llamada no contestada o rechazada';
+	 							break;
+	 							case 5:
+	 							echo 'SMS entregado';
+	 							break;
+	 							case 6:
+	 							echo 'Número incorrecto o red saturada';
+	 							break;
+	 						}    
+	 						?></td>
+	 					</tr>
+	 					<?php }
+	 				}
+	 				?>
+	 	</tbody>
+	</table>
+</div>
+<script src="<?php echo base_url("assets/js/mgrs-ini.js"); ?>"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
       <script type="text/javascript" src="<?php echo base_url("assets/js/jquery.gvChart-1.1.min.js"); ?>"></script>
       <script type="text/javascript">gvChartInit();</script>
-      <script type="text/javascript">
-      	$(document).ready(function(){
-    $('#MiTabla').DataTable();
-});
-      </script>
       <script type="text/javascript">
         $('#gs-graph-01').gvChart({
           chartType: 'PieChart',
           gvSettings: {
-            vAxis: {title: 'No of players'},
-            hAxis: {title: 'Month'},
-            width: 380,
-            height: 200,
+             width: 400,
+            height: 250,
             backgroundColor: 'transparent',
             left: 0,
             top:0,
             fontName:'Open sans',
-            is3D: true,
-            chartArea:{left:'10%',top:'10%',width:"80%",height:"80%"},
-            legend:{position: 'bottom', textStyle: {color: 'blue', fontSize: 12}}
+            is3D: false,
+            chartArea:{left:'10%',top:'10%',width:"70%",height:"70%"},
+            legend:{position: 'bottom', textStyle: {color: 'black' ,fontSize:'12px'}}
           },
         });
           $('#gs-graph-02').gvChart({
           chartType: 'PieChart',
           gvSettings: {
-            vAxis: {title: 'No of players'},
-            hAxis: {title: 'Month'},
-            width: 380,
-            height: 200,
+             width: 400,
+            height: 250,
             backgroundColor: 'transparent',
             left: 0,
             top:0,
             fontName:'Open sans',
-            is3D: true,
-            chartArea:{left:'10%',top:'10%',width:"80%",height:"80%"},
-            legend:{position: 'bottom', textStyle: {color: 'blue', fontSize: 12}}
+            is3D: false,
+            chartArea:{left:'10%',top:'10%',width:"70%",height:"70%"},
+            legend:{position: 'bottom', textStyle: {color: 'black' ,fontSize:'12px'}}
+          },
+        });
+          $('#gs-graph-03').gvChart({
+          chartType: 'PieChart',
+          gvSettings: {
+            width: 400,
+            height: 250,
+            backgroundColor: 'transparent',
+            left: 0,
+            top:0,
+            fontName:'Open sans',
+            is3D: false,
+            chartArea:{left:'10%',top:'10%',width:"70%",height:"70%"},
+            legend:{position: 'bottom', textStyle: {color: 'black' ,fontSize:'12px'}}
           },
         });
       </script>
       <script>
-      		/*$(document).on('ready', timedRefresh);*/
-			function recargar() 
-			{
-				location.reload(true);
-			}
-      </script>
-      <script>
-      function export_excel(){
-
-    var file = {
-    worksheets: [[]], // worksheets has one empty worksheet (array)
-    activeWorksheet: 0
-  }, w = file.worksheets[0]; // cache current worksheet
-  w.name = $("#content").text();
-  $('#details-items').find('tr').each(function() {
-    var r = w.push([]) - 1; // index of current row
-    $(this).find('th').each(function() { w[r].push($(this).context.textContent); });
-    $(this).find('td').each(function() { w[r].push($(this).context.textContent); });
-  });
-
-  window.location = xlsx(file).href();
-
-}
-      </script>
-
-   </body> 
-
+$(document).ready(function() {
+	var table = $("#detailCampaign").DataTable(
+        {
+        "deferRender": true,
+        responsive: true,
+       language: {
+       	buttons:{
+       		pageLength: 'Mostrar %d registros'
+       	},
+    "sProcessing":     "Procesando...",
+    "sLengthMenu":     "Mostrar _MENU_ registros",
+    "sZeroRecords":    "No se encontraron resultados",
+    "sEmptyTable":     "Ningún dato disponible en esta tabla",
+    "sInfo":           "Mostrando registros del _START_ al _END_ de un total de _TOTAL_ registros",
+    "sInfoEmpty":      "Mostrando registros del 0 al 0 de un total de 0 registros",
+    "sInfoFiltered":   "(filtrado de un total de _MAX_ registros)",
+    "sInfoPostFix":    "",
+    "sSearch":         "Buscar:",
+    "sUrl":            "",
+    "sInfoThousands":  ",",
+    "sLoadingRecords": "Cargando...",
+    "oPaginate": {
+        "sFirst":    "Primero",
+        "sLast":     "Último",
+        "sNext":     "Siguiente",
+        "sPrevious": "Anterior"
+    },
+    "oAria": {
+        "sSortAscending":  ": Activar para ordenar la columna de manera ascendente",
+        "sSortDescending": ": Activar para ordenar la columna de manera descendente"
+    }
+},
+       "iDisplayLength": 10,        
+     dom: 'Bfrtip',
+     lengthMenu: [
+            [ 10, 50, 100, -1 ],
+            [ '10 registros', '50 registros', '100 registros', 'Todo' ]
+        ],
+         buttons: [
+              'pageLength',     
+       {
+           extend: 'csv'  
+       },
+       {
+           extend: 'excel'
+       }
+         ]
+   });
+});
+</script>
+</body>
 </html>
