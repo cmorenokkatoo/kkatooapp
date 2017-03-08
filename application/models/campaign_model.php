@@ -248,7 +248,7 @@ class Campaign_Model extends CI_Model {
 
 	public function get_call_marcados($user_id = 0, $id_campaign = 0)
 	{
-		$marc = 1;
+		// $marc = 1;
 		$this->db->where('user_id', $user_id);
 		$this->db->where('id_campaign', $id_campaign);
 		$this->db->where('marcado >=', 1);
@@ -377,13 +377,35 @@ class Campaign_Model extends CI_Model {
 	 	$this->db->where('user_id', $user_id);
 		$this->db->where('id_campaign', $id_campaign);
 		// $this->db->where('state', array(3,5));
-		$this->db->where_not_in('state', array(0,1,4,6));
+		$this->db->where_not_in('state', array(0,2,1,4,6));
 		// $this->db->where_not_in('state',3);
 		$result = $this->db->get('queues');
 
 		return $result->num_rows();
 	 }
+	  public function count_call_pendientes($user_id = 0, $id_campaign = 0)
+	 {
+	 	$this->db->select('');
+	 	$this->db->where('user_id', $user_id);
+		$this->db->where('id_campaign', $id_campaign);
+		// $this->db->where('state', array(3,5));
+		$this->db->where_not_in('state', array(0,2,3,4,5,6));
+		// $this->db->where_not_in('state',3);
+		$result = $this->db->get('queues');
 
+		return $result->num_rows();
+	 }
+	 public function count_call_preparadas($user_id = 0, $id_campaign = 0)
+	 {
+	 	$this->db->select('');
+	 	$this->db->where('user_id', $user_id);
+		$this->db->where('id_campaign', $id_campaign);
+		// $this->db->where('state', array(3,5));
+		$this->db->where_not_in('state', array(1,2,3,4,5,6));
+		// $this->db->where_not_in('state',3);
+		$result = $this->db->get('queues');
+		return $result->num_rows();
+	 }
 	 public function count_call_total($user_id = 0, $id_campaign = 0)
 	 {
 	 	$this->db->select('');

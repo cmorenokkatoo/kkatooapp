@@ -6,7 +6,7 @@
   font-size: 16px;
   text-decoration: none;
   box-sizing: border-box;
-  font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: 'Dosis', sans-serif;
   font-weight: 400;
 }
 
@@ -102,7 +102,7 @@
 		align-self: center;
 	}
 	body{
-		background: white !important;
+		background: #f7f8f9 !important;
 	}
 header{
   width: 100%;
@@ -193,7 +193,7 @@ header{
 
 	.mainsignincontent{
 		width: 100%;
-		margin: 0 auto;
+		margin: 0px auto;
 		text-align: center;
 	}
 	.mainsignincontent p{
@@ -201,93 +201,86 @@ header{
 		margin-top: 15px;
 		font-weight: 300;
 	}
-	.titlesignin h1{
-		font-weight: lighter;
-		color: #555;
+	.titlesignin h1, .titlesignin h2{
+		font-weight: bold;
+		color: #334443;
 		-webkit-font-smoothing: antialiased;
 		margin-top: 0;
-		font-size: 38px;
-    	margin-bottom: 15px;
+		font-size: 28px;
 	}
-
+	.titlesignin h2{
+		font-weight: normal !important;
+		margin-bottom: 0px !important;
+	}
+	 .spanLinks{
+		color: #a5a5a5;
+		margin: 1rem;
+	}
+	.spanLinks a{
+		color: #a5a5a5;
+		text-decoration: underline;
+	}
+	.spanLinks a:hover{
+		color: #a5a5a5;
+	}
+	.titlesignin i{
+		font-size: 100px !important;
+		color: #CCCBCB !important;
+	}
+	
 	.card{
-		margin-bottom: 0;
-		background-color: #f7f7f7;
-	    padding: 20px 25px 30px;
-	    margin: 0 auto 25px;
-	    width: 304px;
-	    -moz-border-radius: 2px;
-	    -webkit-border-radius: 2px;
-	    border-radius: 2px;
-	    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-	    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-	    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	margin-bottom: 0;
+	background-color: #f7f7f7;
+	padding: 0px;
+	margin: 0 auto 25px;
+	width: 304px;
 	}
-	.signin-card input[type=email], .signin-card input[type=password], .signin-card input[type=text]{
-    width: 100%;
-    display: block;
-    margin-bottom: 10px;
-    z-index: 1;
-    position: relative;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    direction: ltr;
-    height: 44px;
-    font-size: 16px;
-    padding: 0 8px;
-    background: #fff;
-    color: #404040;
-    border: 1px solid #d9d9d9;
-    border-top: 1px solid #c0c0c0;
+	.signin-card input[type=email], .signin-card input[type=password], .signin-card input[type=text], .signin-card input[type=tel]{
+   	    width: 100%;
+	    height: 56px;
+	    border-radius: 5px;
+	    background-color: #fff;
+	    border: solid 1px #ddd;
+	    font-family: 'Dosis', sans-serif;
+	    font-size: 20px;
+	    color: #333;
+	    display: block;
+	    padding-left: 20px;
+	    margin-top: 20px;
+	    outline: none;
 	}
 	input[type=email]:hover, input[type=number]:hover, input[type=password]:hover, input[type=tel]:hover, input[type=text]:hover, input[type=url]:hover {
-    border: 1px solid #b9b9b9;
-    border-top: 1px solid #a0a0a0;
-    -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-    box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-    padding: 0 8px;
+    		border-color: #37b8af;
+   		box-shadow: 0 0 2px 2px #acdde4;
 	}
 	.signin-card input[type=submit]{
 		width: 100%;
-		display: block;
-		border: 1px solid #EE3030;
-		margin-bottom: 10px;
-		box-sizing: border-box;
-		color: #fff;
-		font-size: 14px;
-		background-color: #FF4D4D;
-		padding: 0 8px;
-		height: 44px;
-		
-		background-image: -webkit-linear-gradient(top,#FF4D4D,#E93636);
+		    height: 60px;
+		    background-color: #334443;
+		    font-family: 'Dosis',sans-serif;
+		    font-size: 24px;
+		    text-align: center;
+		    color: #fff;
+		    border: 0;
+		    padding: 0;
+		    cursor: pointer;
+		    border-radius: 5px;
+		    outline: none;
+		    margin-top: 1rem;
 	} 
 
 .signin-card input[type=submit]:hover{
-		text-shadow: 0 1px rgba(0,0,0,0.3);
-		border: 1px solid #B83030;
-		background-color: #E93636;
-		background-image: -webkit-linear-gradient(top,#DA3E3E,#C82A2A);
+		background-color: #223332;
 	}
 	#signin-card{
 		height: auto;
-		width: 344px;
-    	padding: 30px 40px;
 	}
 
 	.loginlink{
-		border: 0px;
-		background: transparent;
-		color: #FF4D4D;
-		text-decoration: none;
-		text-align: right;
-		display: block;
-		margin-top: 15px;
+		
 	}
 	.loginlink:hover{
-		border: 0px;
-		text-decoration: underline;
+		
 	}
 
 	#registerlink, #loginrlink{
@@ -591,7 +584,7 @@ header{
 
 	.mainsignincontent{
 		width: 100%;
-		margin: 0 auto;
+		margin: 0px auto;
 		padding: .5rem;
 		text-align: center;
 		box-sizing: border-box;
@@ -601,93 +594,86 @@ header{
 		margin-top: 15px;
 		font-weight: 300;
 	}
-	.titlesignin h1{
-		font-weight: lighter;
-		color: #555;
+	.titlesignin h1, .titlesignin h2{
+		font-weight: bold;
+		color: #334443;
 		-webkit-font-smoothing: antialiased;
 		margin-top: 0;
-		font-size: 38px;
-    	margin-bottom: 15px;
+		font-size: 28px;
+	}
+	.titlesignin h2{
+		font-weight: normal !important;
+		margin-bottom: 0px !important;
+	}
+	 .spanLinks{
+		color: #a5a5a5;
+		margin: 1rem;
+	}
+	..spanLinksLinks a{
+		text-decoration: underline;
+	}
+	.spanLinks a:hover{
+		color: #a5a5a5;
+	}
+	.titlesignin i{
+		font-size: 100px !important;
+		color: #CCCBCB !important;
 	}
 
 	.card{
-		margin-bottom: 0;
-		background-color: #f7f7f7;
-	    padding: 20px 25px 30px;
-	    margin: 0 auto;
-	    width: 100%;
-	    -moz-border-radius: 2px;
-	    -webkit-border-radius: 2px;
-	    border-radius: 2px;
-	    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-	    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-	    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	margin-bottom: 0;
+	background-color: #f7f7f7;
+	padding: 0px;
+	margin: 0 auto;
+	width: 100%;
 	}
-	.signin-card input[type=email], .signin-card input[type=password], .signin-card input[type=text]{
-    width: 100%;
-    display: block;
-    margin-bottom: 10px;
-    z-index: 1;
-    position: relative;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    direction: ltr;
-    height: 44px;
-    font-size: 16px;
-    padding: 0 8px;
-    background: #fff;
-    color: #404040;
-    border: 1px solid #d9d9d9;
-    border-top: 1px solid #c0c0c0;
+	.signin-card input[type=email], .signin-card input[type=password], .signin-card input[type=text], .signin-card input[type=tel]{
+	    width: 100%;
+	    height: 56px;
+	    border-radius: 5px;
+	    background-color: #fff;
+	    border: solid 1px #ddd;
+	    font-family: 'Dosis', sans-serif;
+	    font-size: 20px;
+	    color: #333;
+	    display: block;
+	    padding-left: 20px;
+	    margin-top: 20px;
+	    outline: none;
 	}
 	input[type=email]:hover, input[type=number]:hover, input[type=password]:hover, input[type=tel]:hover, input[type=text]:hover, input[type=url]:hover {
-    border: 1px solid #b9b9b9;
-    border-top: 1px solid #a0a0a0;
-    -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-    box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-    padding: 0 8px;
+		border-color: #37b8af;
+   		box-shadow: 0 0 2px 2px #acdde4;
 	}
 	.signin-card input[type=submit]{
-		width: 100%;
-		display: block;
-		border: 1px solid #EE3030;
-		margin-bottom: 10px;
-		box-sizing: border-box;
-		color: #fff;
-		font-size: 14px;
-		background-color: #FF4D4D;
-		padding: 0 8px;
-		height: 44px;
-		
-		background-image: -webkit-linear-gradient(top,#FF4D4D,#E93636);
+		    width: 100%;
+		    height: 60px;
+		    background-color:#334443;
+		    font-family: 'Dosis',sans-serif;
+		    font-size: 24px;
+		    text-align: center;
+		    color: #fff;
+		    border: 0;
+		    border-radius: 5px;
+		    padding: 0;
+		    cursor: pointer;
+		    outline: none;
+		    margin-top: 1rem;
 	} 
 
 .signin-card input[type=submit]:hover{
-		text-shadow: 0 1px rgba(0,0,0,0.3);
-		border: 1px solid #B83030;
-		background-color: #E93636;
-		background-image: -webkit-linear-gradient(top,#DA3E3E,#C82A2A);
+		background-color:#223332;
 	}
 	#signin-card{
 		height: auto;
 		width: 100%;
-    	padding: 30px 40px;
 	}
 
 	.loginlink{
-		border: 0px;
-		background: transparent;
-		color: #FF4D4D;
-		text-decoration: none;
-		text-align: right;
-		display: block;
-		margin-top: 15px;
+		
 	}
 	.loginlink:hover{
-		border: 0px;
-		text-decoration: underline;
+		
 	}
 
 	#registerlink, #loginrlink{

@@ -150,6 +150,8 @@
                      <!-- <th>Envíos Programados</th> -->
                      <!-- <th>Envíos Exitosos</th> -->
                      <th><i class="material-icons group-actions">delete_forever</i> Eliminar campaña</th>
+                     <!-- <th><i class="material-icons">cached</i>Estado Campaña</th> -->
+
                   </tr>
                   <?php if(!empty($campaign)){ 
                      foreach($campaign as $camp){
@@ -161,9 +163,7 @@
                           </a>
                        </td>
                        <td><?php echo $camp["fecha"]; ?></td>
-                           <td><?php echo $camp["hora"].':'.$camp["minuto"]; ?></td>
-                           <!-- <td><?php echo $camp["totales"]; ?></td> -->
-                           <!-- <td><?php echo $camp["exitosas"]; ?></td> -->
+                      <td><?php echo $camp["hora"].':'.$camp["minuto"]; ?></td>
                        <td><input class="checkbox" id="<?php echo $camp["id"]; ?>" type="checkbox" class="borrarcamp"></td>
                     </td>
                     <?php 

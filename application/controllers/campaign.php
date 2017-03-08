@@ -24,51 +24,28 @@ class Campaign extends CI_Controller {
 		$this->load->model('campaign_model');
 		$campaign 	= 	$this->campaign_model->get_campaign_info($this->session->userdata('user_id'));
 		$campana	=	array();
+		
 		if(!empty($campaign))
 		{
 			foreach($campaign as $cam)
 			{
 				$info = $this->campaign_model->get_campaign_info($this->session->userdata('user_id'), $cam->id);
-				// $exitosas = $this->campaign_model->count_call_exitosas($this->session->userdata('user_id'), $cam->id);
-				// $totales = $this->campaign_model->count_call_total($this->session->userdata('user_id'), $cam->id);
-				
-				// $estado	=	"";	
-				// $queues = 	$this->campaign_model->get_queues($this->session->userdata('user_id'), $cam->id);
-				// $price	= 	$this->campaign_model->sum_campaign_real($this->session->userdata('user_id'), $cam->id);
-				// $result	= 	$this->campaign_model->get_campaign_queues($this->session->userdata('user_id'), $cam->id);
-				// $call	= 	$this->campaign_model->get_call_reali($this->session->userdata('user_id'), $cam->id);
-				// if(empty($queues))
-				// {
-				// 	$queues1 = 	$this->campaign_model->get_queues($this->session->userdata('user_id'), $cam->id, 1);
-				// 	if(empty($queues1))
-				// 	{
-				// 		$estado	=	$this->lang->line('finish');
-				// 	}
-				// 	else
-				// 	{
-				// 		$estado	=	$this->lang->line('cola');
-				// 	}
-				// }
-				// else
-				// {
-				// 	$estado	=	$this->lang->line('active');
-				// }
-				// $price = 0;
-				// if(!empty($price->price)) $price = $price->price;
+				$count_exitosas = $this->campaign_model->count_call_exitosas($this->session->userdata('user_id'), $this->uri->segment(3));
+				$count_pendientes = $this->campaign_model->count_call_pendientes($this->session->userdata('user_id'), $this->uri->segment(3));
+				$count_preparadas = $this->campaign_model->count_call_preparadas($this->session->userdata('user_id'), $this->uri->segment(3));
 				$this->load->model('marketplace_model');
 				$credits = $this->marketplace_model->get_user_credits();
 				array_push($campana, array(
-				                           						'credits'   =>  $credits,
+				                           					'credits'   =>  $credits,
 											'id' 		=> $cam->id,
 											'name' 		=> $cam->name,
 											'fecha' 	=> $cam->fecha,
 											'hora' 		=> $cam->hora,
+											'count_exitosas'     =>	$count_exitosas,
+											'count_pendientes' =>	$count_pendientes,
+											'count_preparadas' =>	$count_preparadas,
 											'gmt' 		=> $cam->gmt,
-											// 'total_call'=> count($result),
-											// 'call'		=> $call,
 											'minuto'	=> $cam->minuto
-											// 'estado'	=> $estado
-											// 'price_real'		=> $price
 											)
 							);
 			}
@@ -107,7 +84,11 @@ class Campaign extends CI_Controller {
 				$price	= 	$this->campaign_model->sum_campaign_real($this->session->userdata('user_id'), $this->uri->segment(3));
 				$call	= 	$this->campaign_model->get_call_reali($this->session->userdata('user_id'), $this->uri->segment(3));
 				$exito	= 	$this->campaign_model->get_call_exitosa($this->session->userdata('user_id'), $this->uri->segment(3));
-				$marcado =	$this->campaign_model->get_call_marcados($this->session->userdata('user_id'), $this->uri->segment(3));	
+				$marcado =	$this->campaign_model->get_call_marcados($this->session->userdata('user_id'), $this->uri->segment(3));
+				$count_exitosas = $this->campaign_model->count_call_exitosas($this->session->userdata('user_id'), $this->uri->segment(3));
+				$count_pendientes = $this->campaign_model->count_call_pendientes($this->session->userdata('user_id'), $this->uri->segment(3));
+				$count_preparadas = $this->campaign_model->count_call_preparadas($this->session->userdata('user_id'), $this->uri->segment(3));		
+
 				$campaign 	= 	$this->campaign_model->get_campaign($this->session->userdata('user_id'));
 				$campaign_name;
 				$campaign_date;
@@ -136,6 +117,9 @@ class Campaign extends CI_Controller {
 									'call'			=> $call,
 									'exito'			=> $exito,
 									'marcado' 	=> 	$marcado,
+									'count_exitosas' =>	$count_exitosas,
+									'count_pendientes' =>	$count_pendientes,
+									'count_preparadas' =>	$count_preparadas,
 									'id_camp'		=> $this->uri->segment(3),
 									'campaign_name' => $campaign_name,
 									'campaign_date'	=> $campaign_date

@@ -1,13 +1,16 @@
 <?php
     $this->load->view('globales/head');
 	$this->load->view('globales/mensajes');
-    $this->load->view('globales/navbar_login');
+    // $this->load->view('globales/navbar_login');
 ?>
 
 <!-- Login ================================================== -->
+    <div class="spanLinks">¿Primera vez que usas Mensajes de Voz?<a href="<?php echo base_url("login/register"); ?>" class="loginlink" id="registerlink" alt="Crea una nueva cuenta">Regístrate</a></div>
 <div class="mainsignincontent">
     <div class="titlesignin">
-        <h1>Acceder para usar la plataforma</h1>
+        <h1>Mensajes de Voz</h1>
+        <i class="material-icons">important_devices</i>
+        <h2>Te damos de nuevo la bienvenida</h2>
     </div>
     <div class="card signin-card" id="signin-card">
         <div id="formframe">
@@ -24,15 +27,14 @@
                             <div class="controls">
                                 <div class="input-prepend">
                                     <input class="txt_password" placeholder="Ingresa tu contraseña" type="password" name="password" autocomplete="off" required>
-                                    <input class=" btn btn-warning btn_login" type="submit" value="Siguiente" >
+                                    <input class=" btn btn-warning btn_login" type="submit" value="Iniciar sesión" >
                                 </div>
                             </div>
                         </div>
                     </div>
             <?php echo form_close(); ?>
-            <a href="<?php echo base_url("login/forgot"); ?>" class="loginlink" alt="¿Has olvidado tu contraseña?">Recordar contraseña</a>
+            <div class="spanLinks"><a href="<?php echo base_url("login/forgot"); ?>" class="loginlink" alt="¿Has olvidado tu contraseña?">¿olvidaste la contraseña?</a></div>
         </div>
     </div>
-    <a href="<?php echo base_url("login/register"); ?>" class="loginlink" id="registerlink" alt="Crea una nueva cuenta">Crear cuenta</a>
     <p>Todos los datos almacenados son protegidos y no son enviados a terceros.</p>
 </div>

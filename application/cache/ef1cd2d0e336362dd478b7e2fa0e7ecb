@@ -1,4 +1,4 @@
-1488821096TS---><!DOCTYPE html>
+1488984161TS---><!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
@@ -35,11 +35,9 @@
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-TileImage" content="/assets/ico/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
-	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Dosis:400,600,700" rel="stylesheet">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	<link rel="stylesheet" href="http://www.kka.to/assets/css/newbranding/main.css">
-	<!-- <link rel="stylesheet" href="http://www.kka.to/assets/css/normalize.css"> -->
-	<!-- <link rel="stylesheet" href="http://www.kka.to/assets/css/carousel.css"> -->
 </head>
 <body>
 <!--Start of Zendesk Chat Script-->
@@ -52,14 +50,14 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 </script>
 <!--End of Zendesk Chat Script--><script type="text/javascript">
 	window.KKATOO_ROOT = ".mensajesdevoz.co";
-</script>		<div id="headerlogin">
-							<a href="http://www.kka.to"><img id="enlace_logo"  src="http://www.kka.to/assets/img/logo_principal_mv.jpg" alt="Mensajes de Voz"/></a>
-    </div>
-
+</script>
 <!-- Login ================================================== -->
+    <div class="spanLinks">¿Primera vez que usas Mensajes de Voz?<a href="http://www.kka.to/login/register" class="loginlink" id="registerlink" alt="Crea una nueva cuenta">Regístrate</a></div>
 <div class="mainsignincontent">
     <div class="titlesignin">
-        <h1>Acceder para usar la plataforma</h1>
+        <h1>Mensajes de Voz</h1>
+        <i class="material-icons">important_devices</i>
+        <h2>Te damos de nuevo la bienvenida</h2>
     </div>
     <div class="card signin-card" id="signin-card">
         <div id="formframe">
@@ -75,14 +73,13 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                             <div class="controls">
                                 <div class="input-prepend">
                                     <input class="txt_password" placeholder="Ingresa tu contraseña" type="password" name="password" autocomplete="off" required>
-                                    <input class=" btn btn-warning btn_login" type="submit" value="Siguiente" >
+                                    <input class=" btn btn-warning btn_login" type="submit" value="Iniciar sesión" >
                                 </div>
                             </div>
                         </div>
                     </div>
-            </form>            <a href="http://www.kka.to/login/forgot" class="loginlink" alt="¿Has olvidado tu contraseña?">Recordar contraseña</a>
+            </form>            <div class="spanLinks"><a href="http://www.kka.to/login/forgot" class="loginlink" alt="¿Has olvidado tu contraseña?">¿olvidaste la contraseña?</a></div>
         </div>
     </div>
-    <a href="http://www.kka.to/login/register" class="loginlink" id="registerlink" alt="Crea una nueva cuenta">Crear cuenta</a>
     <p>Todos los datos almacenados son protegidos y no son enviados a terceros.</p>
 </div>

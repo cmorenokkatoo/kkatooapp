@@ -1,6 +1,6 @@
 <?php 
 	$this->load->view('globales/mensajes');
-	header("Refresh:60");
+	header("Refresh:120");
  ?>
 <!DOCTYPE html>
 <html lang="es" class="js">
@@ -36,7 +36,7 @@
 		}
 		.js div#preloader { position: fixed; 
 			left: 0; top: 0; 
-			z-index: 999; width: 100%; height: 100%; 
+			z-index: 999999; width: 100%; height: 100%; 
 			overflow: visible; 
 			background: #1E6DB1 url('https://s-media-cache-ak0.pinimg.com/originals/32/4a/88/324a88a767e53bb415076d3bceb382ee.gif') no-repeat center center; }
 		.js div#preloader h1{
@@ -81,12 +81,19 @@
 			background: green !important;
 		}
 		#header-detail-campaign{
-			width: 100%; font-size: 16px; display: flex;
+			width: 90%; font-size: 16px; display: flex;
+			background: white;
+			margin: 1rem auto;
+			align-items: center;
+			vertical-align: middle;
+			padding: 2rem;
 		}
 		h3{
 			text-transform: uppercase;
 		}
-		
+		#header-detail-campaign span{
+			color: silver;
+		}
 	</style>
 </head>
 <script>
@@ -161,12 +168,27 @@ $(window).load(function(){
   </ul>
 </div>
 <!-- Contenedor -->
-
-<div id="app-container" class="container">
-	<div  id="header-detail-campaign">
+<div  id="header-detail-campaign">
                 	<h3><?php echo "<span style='font-weight: 300; color: #656a71;'>#" .$id_camp . "</span> ". $campaign_name; ?></h3>
+                	<h2><?php 
+                	if (!empty($count_exitosas) and empty($count_pendientes)) {
+
+                		echo "<b style='color: green'>Campaña Finalizada</b>";
+
+                	}elseif (empty($count_preparadas) and !empty($count_pendientes)) {
+
+                		echo "<b style='color: orange;'>Campaña en Proceso</b>";
+
+                	}elseif (!empty($count_preparadas) and empty($count_pendientes)){
+
+                		echo "<b style='color: purple;'>Campaña Preparada</b>";
+
+                	};?></h2>
+		<!-- <a href="" class="btn-notify"><i class="material-icons"><i class="material-icons">notifications</i></i>Activar Notificaciones</a> -->
+                	<!-- <span>Actualización de informe cada 60 segundos</span> -->
                 	<a class="btn-recall" data-id="<?php echo $id_camp; ?>"><i class="fa fa-phone"></i> Reenviar no contestadas</a>
 	</div> 
+<div id="app-container" class="container">
 	<div id="GraphTable">
 		<div class="graph-stat-row">
 		              <div class="gs-header">
@@ -423,6 +445,20 @@ $(document).ready(function() {
          ]
    });
 });
+</script>
+<script>
+// $(document).ready(function(){
+// 	Notification.requestPermission().then(function(result) {
+// 		  if (result === 'denied') {
+// 		    console.log('Permission wasn\'t granted. Allow a retry.');
+// 		    return;
+// 		  }
+// 		  if (result === 'default') {
+// 		    console.log('The permission request was dismissed.');
+// 		    return;
+// 		  }
+// 	});
+// });
 </script>
 </body>
 </html>

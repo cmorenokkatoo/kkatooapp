@@ -42,11 +42,9 @@
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-TileImage" content="/assets/ico/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
-	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Dosis:400,600,700" rel="stylesheet">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-	<link rel="stylesheet" href="<?php echo base_url("assets/css/newbranding/main.css"); ?>">
-	<!-- <link rel="stylesheet" href="<?php echo base_url("assets/css/normalize.css"); ?>"> -->
-	<!-- <link rel="stylesheet" href="<?php echo base_url("assets/css/carousel.css"); ?>"> -->
+	<link rel="stylesheet" href="<?php echo base_url("assets/css/newbranding/main.css"); ?>">	
 </head>
 <body>
 <?php 

@@ -317,7 +317,8 @@ class Queues extends CI_Controller {
 				}
 			}
 		}
-	echo date("r");
+
+	echo date('r');
 	}
 
 	private function _set_delivered_call()
@@ -328,7 +329,7 @@ class Queues extends CI_Controller {
 		// connect
 		$connection = new AMQPConnection();
 
-	$connection->connect();
+		$connection->connect();
 
 		// open Channel
 		$channel = new AMQPChannel($connection);
@@ -525,7 +526,7 @@ class Queues extends CI_Controller {
 private function _encolar($message)
 	{
 
-
+		$this->load->model('queues_model');
 		$data = array(
 						'json'	=>	$message
 						);
@@ -544,69 +545,65 @@ private function _encolar($message)
 		$queue->setName(ACTIVE);
 		$queue->setFlags(AMQP_PASSIVE|AMQP_DURABLE);
 
-		// $message = $exchange->publish($message, ACTIVE);
-		if ($queue->declareQueue() < 20000) {
 
-			$message = $exchange->publish($message, ACTIVE);
+			if ($queue->declareQueue() < 500 AND $isSms->tipo_sms == 0) {
 
-		}elseif ($queue->declareQueue() >= 20000 and $queue->declareQueue() < 35001) {
-			$exchange = new AMQPExchange($channel);
-			$exchange->setName(ACTIVEX2);
-			$exchange->setType(DIRECT);
+				$message = $exchange->publish($message, ACTIVE);
 
-			$queue = new AMQPQueue($channel);
-			$queue->setName(ACTIVE2);
-			$queue->setFlags(AMQP_PASSIVE|AMQP_DURABLE);
-
-			if ($queue->declareQueue() >= 35001 and $queue->declareQueue() < 68001) {
+			}elseif ($queue->declareQueue() >= 500 AND $queue->declareQueue() < 10000 && $isSms->tipo_sms == 0) {
 				$exchange = new AMQPExchange($channel);
-				$exchange->setName(ACTIVEX3);
+				$exchange->setName(ACTIVEX2);
 				$exchange->setType(DIRECT);
 
 				$queue = new AMQPQueue($channel);
-				$queue->setName(ACTIVE3);
+				$queue->setName(ACTIVE2);
 				$queue->setFlags(AMQP_PASSIVE|AMQP_DURABLE);
 
-				if ($queue->declareQueue() >= 68001 and $queue->declareQueue() < 99999) {
+				if ($queue->declareQueue() >= 10001 AND $queue->declareQueue() < 15001 AND $isSms->tipo_sms == 0) {
 					$exchange = new AMQPExchange($channel);
-					$exchange->setName(ACTIVEX4);
+					$exchange->setName(ACTIVEX3);
 					$exchange->setType(DIRECT);
 
 					$queue = new AMQPQueue($channel);
-					$queue->setName(ACTIVE4);
+					$queue->setName(ACTIVE3);
 					$queue->setFlags(AMQP_PASSIVE|AMQP_DURABLE);
 
-					if ($queue->declareQueue() >= 99999) {
+					if ($queue->declareQueue() >= 15001 AND $isSms->tipo_sms == 0) {
 						$exchange = new AMQPExchange($channel);
-						$exchange->setName(ACTIVEX5);
+						$exchange->setName(ACTIVEX4);
 						$exchange->setType(DIRECT);
 
 						$queue = new AMQPQueue($channel);
-						$queue->setName(ACTIVE5);
+						$queue->setName(ACTIVE4);
 						$queue->setFlags(AMQP_PASSIVE|AMQP_DURABLE);
 
-						$message = $exchange->publish($message, ACTIVE5);
+						if ($queue->declareQueue() >= 1 AND $isSms->tipo_sms == 1) {
+							$exchange = new AMQPExchange($channel);
+							$exchange->setName(ACTIVEX5);
+							$exchange->setType(DIRECT);
 
+							$queue = new AMQPQueue($channel);
+							$queue->setName(ACTIVE5);
+							$queue->setFlags(AMQP_PASSIVE|AMQP_DURABLE);
+
+							$message = $exchange->publish($message, ACTIVE5);
+
+						}else{
+							$message = $exchange->publish($message, ACTIVE4);
+						}	
+					}else{
+						$message = $exchange->publish($message, ACTIVE3);
 					}
-					else{
-						$message = $exchange->publish($message, ACTIVE4);
-
-					}
-
-				}
-				else{
-					$message = $exchange->publish($message, ACTIVE3);
-				}
-
-			}else{
-				$message = $exchange->publish($message, ACTIVE2);
+				}else{
+					$message = $exchange->publish($message, ACTIVE2);
+				}	
 			}
-		}
 
 
-
-
+		
 }
+
+
 
 // private function _encolar($message)
 // 	{
